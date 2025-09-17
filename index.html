@@ -1,0 +1,474 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Minna no Nihongo – Quiz Từ vựng (50 bài)</title>
+  <style>
+    :root { --gap: 14px; --radius: 14px; }
+    * { box-sizing: border-box; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji"; margin: 0; background: #f7f7fb; color: #222; }
+    header { padding: 14px 18px; background: white; position: sticky; top: 0; z-index: 10; border-bottom: 1px solid #eee; }
+    .wrap { max-width: 1100px; margin: 0 auto; }
+    .h-row { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+    .brand { font-weight: 800; font-size: 16px; margin-right: 8px; }
+    .muted { color:#666; font-size: 12px; }
+
+    .btn { padding: 10px 12px; border-radius: 10px; font-size: 14px; border:1px solid #ddd; background:#fff; cursor:pointer; }
+    .btn.primary { background:#111827; color:#fff; border-color:#111827; }
+    .btn.alt { background:#2563eb; color:#fff; border-color:#2563eb; }
+    .btn.ghost { background: transparent; color:#111; }
+    .chip { padding:8px 10px; border:1px solid #e5e7eb; border-radius: 10px; background:#f8fafc; }
+    .sep { width:1px; height:28px; background:#eee; }
+
+    main { padding: 16px 18px; }
+    .layout { display:grid; gap: var(--gap); grid-template-columns: 1fr; }
+    @media (min-width: 980px){ .layout { grid-template-columns: 1fr; } }
+
+    .panel { background: white; border: 1px solid #eee; border-radius: var(--radius); padding: 12px; box-shadow: 0 1px 0 rgba(0,0,0,.04); }
+    .controls { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+
+    /* Dropdown multi-select */
+    .dd { position: relative; }
+    .dd-btn { display:flex; align-items:center; gap:8px; }
+    .dd-menu { position:absolute; top:calc(100% + 8px); left:0; min-width: 280px; max-height: 320px; overflow:auto; background:#fff; border:1px solid #eee; border-radius: 12px; box-shadow: 0 12px 30px rgba(0,0,0,.08); padding:8px; z-index: 20; display:none; }
+    .dd.open .dd-menu { display:block; }
+    .dd-actions { display:flex; gap:8px; padding:6px; border-bottom:1px dashed #eee; margin-bottom:6px; }
+    .dd-list { display:grid; grid-template-columns: 1fr 1fr 1fr; gap:6px; }
+    .dd-item { display:flex; align-items:center; gap:6px; padding:6px 8px; border:1px solid #f0f0f0; border-radius:8px; }
+
+    /* Quiz area fixed with its own scroll */
+    .quiz-shell { height: 72vh; display:grid; grid-template-rows: auto 1fr auto; gap:10px; }
+    .quiz-scroll { overflow:auto; padding-right: 4px; }
+    .card { border:1px solid #eee; border-radius: var(--radius); padding: 14px; display:grid; gap:10px; background:#fff; }
+    .q-head { font-weight: 700; }
+    .answer { display:flex; gap:10px; align-items:center; flex-wrap: wrap; }
+    input[type="text"], input[type="number"] { padding: 10px 12px; border:1px solid #ddd; border-radius:10px; font-size:14px; }
+    .pill { font-size: 12px; padding: 4px 8px; background:#f1f5f9; border-radius:999px; border:1px solid #e5e7eb; }
+    .ok { background:#e6f7eb; border-color:#b7eb8f; color:#096; }
+    .bad { background:#fff1f0; border-color:#ffa39e; color:#a8071a; }
+
+    /* Modal */
+    .modal-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,.24); display:none; align-items:center; justify-content:center; z-index: 50; }
+    .modal { width: min(720px, 92vw); background:#fff; border-radius:16px; border:1px solid #eee; box-shadow: 0 24px 60px rgba(0,0,0,.18); overflow:hidden; }
+    .modal header { position:relative; border-bottom:1px solid #f0f0f0; }
+    .modal .content { padding:16px; display:grid; gap:10px; }
+    .row { display:flex; gap:10px; align-items:center; flex-wrap: wrap; }
+    textarea { width:100%; border:1px solid #ddd; border-radius:10px; padding:10px; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+
+    .footer { margin-top: 12px; font-size: 12px; color:#555; }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="wrap">
+      <div class="h-row">
+        <div class="brand">Minna no Nihongo – Luyện từ vựng</div>
+        <span class="muted">Tạo đề • nhập đáp án bằng <b>hiragana/katakana</b> (không kanji)</span>
+      </div>
+
+      <!-- Controls pinned on header -->
+      <div class="h-row" style="margin-top:10px">
+        <!-- Data modal trigger -->
+        <button class="btn" id="btnData">Nạp / Quản lý dữ liệu</button>
+        <span class="chip" id="dataInfo">Chưa có dữ liệu</span>
+
+        <div class="sep"></div>
+
+        <!-- Multi-select lessons -->
+        <div class="dd" id="lessonDD">
+          <button class="btn dd-btn" id="lessonBtn">Chọn bài (0)</button>
+          <div class="dd-menu panel">
+            <div class="dd-actions">
+              <button class="btn" id="checkAll">Chọn tất cả</button>
+              <button class="btn" id="uncheckAll">Bỏ chọn</button>
+              <span class="muted" id="countPick">0 bài</span>
+            </div>
+            <div class="dd-list" id="lessonList"></div>
+          </div>
+        </div>
+
+        <div class="sep"></div>
+
+        <!-- Quiz options -->
+        <label class="chip">
+          Hướng: <input type="checkbox" id="direction" style="margin-left:6px"/>
+          <span class="muted"> &nbsp;Việt → Nhật</span>
+        </label>
+        <label class="chip"><input type="checkbox" id="furigana" /> &nbsp;Hiện Kanji trong đề</label>
+        <label class="chip"><input type="checkbox" id="shuffle" checked/> &nbsp;Xáo trộn</label>
+        <label class="chip">Số câu: <input type="number" id="numQ" min="1" step="1" value="10" style="width:90px; margin-left:6px"/></label>
+
+        <div class="sep"></div>
+
+        <button class="btn primary" id="makeQuiz">Làm bài</button>
+        <button class="btn" id="clearQuiz">Xóa đề</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- Quiz fixed shell -->
+    <section class="panel quiz-shell" id="quizShell" style="display:none">
+      <div class="h-row" id="quizToolbar" style="justify-content:space-between">
+        <div class="h-row">
+          <div id="scoreBox" class="chip">Điểm: <b id="scoreNow">0</b>/<span id="scoreMax">0</span></div>
+          <div class="chip">Đã làm: <b id="doneNow">0</b>/<span id="doneMax">0</span></div>
+        </div>
+        <div class="h-row">
+          <button class="btn alt" id="submitQuiz">Submit</button>
+          <button class="btn" id="retryWrong" style="display:none">Làm lại câu sai</button>
+          <button class="btn" id="retryAll" style="display:none">Làm lại tất cả</button>
+        </div>
+      </div>
+
+      <div class="quiz-scroll" id="quiz"></div>
+
+      <div class="footer">
+        Nguồn tham khảo dữ liệu: VNJPClub – Minna no Nihongo 1–50. Dùng cho mục đích học cá nhân.
+      </div>
+    </section>
+  </main>
+
+  <!-- Data Modal -->
+  <div class="modal-backdrop" id="modalData">
+    <div class="modal">
+      <header style="padding:12px 16px; background:#fff">
+        <div class="h-row" style="justify-content:space-between">
+          <div><b>Quản lý dữ liệu 50 bài</b></div>
+          <button class="btn" id="closeModal">Đóng</button>
+        </div>
+      </header>
+      <div class="content">
+        <div class="panel">
+          <div class="row">
+            <label for="fileInput"><b>Nạp từ file JSON:</b></label>
+            <input type="file" id="fileInput" accept=".json" />
+            <button class="btn" id="clearData">Xóa dữ liệu đã nạp</button>
+          </div>
+        </div>
+        <div class="panel">
+          <p class="muted">Hoặc dán JSON vào ô dưới (cấu trúc: {"1":[{"jp":"わたし","kanji":"私","vn":"tôi"}, ...]})</p>
+          <textarea id="jsonInput" rows="10" placeholder='{"1":[{"jp":"...", "kanji":"...", "vn":"..."}]}'></textarea>
+          <div class="row">
+            <button class="btn alt" id="loadJson">Nạp dữ liệu</button>
+            <button class="btn" id="downloadJson">Tải JSON hiện tại</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+ <script>
+  // ====== DỮ LIỆU trong bộ nhớ (nạp từ file/textarea) ======
+  const DATA = {}; // { "1": [ {jp, kanji?, vn}, ... ], ... }
+  const STORAGE_KEY = "minna_vocab_v1"; // 🔥 khóa lưu localStorage
+
+  // ====== DOM ======
+  const dataInfo = document.getElementById('dataInfo');
+
+  const lessonDD = document.getElementById('lessonDD');
+  const lessonBtn = document.getElementById('lessonBtn');
+  const lessonList = document.getElementById('lessonList');
+  const countPick = document.getElementById('countPick');
+
+  const numQ = document.getElementById('numQ');
+  const shuffleCB = document.getElementById('shuffle');
+  const directionCB = document.getElementById('direction');
+  const furiganaCB = document.getElementById('furigana');
+
+  const quizShell = document.getElementById('quizShell');
+  const quizEl = document.getElementById('quiz');
+  const scoreNow = document.getElementById('scoreNow');
+  const scoreMax = document.getElementById('scoreMax');
+  const doneNow = document.getElementById('doneNow');
+  const doneMax = document.getElementById('doneMax');
+
+  const submitQuizBtn = document.getElementById('submitQuiz');
+  const retryWrongBtn = document.getElementById('retryWrong');
+  const retryAllBtn = document.getElementById('retryAll');
+
+  // Modal
+  const modal = document.getElementById('modalData');
+  const btnData = document.getElementById('btnData');
+  const closeModal = document.getElementById('closeModal');
+  const fileInput = document.getElementById('fileInput');
+  const jsonInput = document.getElementById('jsonInput');
+
+  // Buttons header
+  const makeQuizBtn = document.getElementById('makeQuiz');
+  const clearQuizBtn = document.getElementById('clearQuiz');
+  const checkAllBtn = document.getElementById('checkAll');
+  const uncheckAllBtn = document.getElementById('uncheckAll');
+
+  // Data actions
+  const loadJsonBtn = document.getElementById('loadJson');
+  const downloadJsonBtn = document.getElementById('downloadJson');
+  const clearDataBtn = document.getElementById('clearData');
+
+  // ====== Utils ======
+  const shuffleArr = (arr)=> arr.map(v=>[Math.random(), v]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
+  const normalize = (s)=> (s||"").trim().replace(/\s+/g,'').toLowerCase();
+
+  function openModal(){ modal.style.display = 'flex'; }
+  function closeModalFn(){ modal.style.display = 'none'; }
+
+  btnData.addEventListener('click', openModal);
+  closeModal.addEventListener('click', closeModalFn);
+  modal.addEventListener('click', (e)=>{ if (e.target === modal) closeModalFn(); });
+
+  // ====== Lessons UI ======
+  function refreshLessonOptions(){
+    lessonList.innerHTML = '';
+    const keys = Object.keys(DATA).map(k=>Number(k)).sort((a,b)=>a-b);
+    dataInfo.textContent = keys.length ? `Đã nạp: ${keys.length} bài` : 'Chưa có dữ liệu';
+    if (!keys.length){
+      lessonBtn.textContent = 'Chọn bài (0)';
+      countPick.textContent = '0 bài';
+      return;
+    }
+    for (const k of keys){
+      const id = `L${k}`;
+      const item = document.createElement('label');
+      item.className = 'dd-item';
+      item.innerHTML = `<input type="checkbox" value="${k}" id="${id}"><span>Bài ${k}</span>`;
+      lessonList.appendChild(item);
+    }
+    updateLessonCount();
+  }
+
+  function getSelectedLessons(){
+    return Array.from(lessonList.querySelectorAll('input[type=checkbox]:checked')).map(i=>i.value);
+  }
+  function setAllLessons(checked){
+    lessonList.querySelectorAll('input[type=checkbox]').forEach(i=> i.checked = checked);
+    updateLessonCount();
+  }
+  function updateLessonCount(){
+    const n = getSelectedLessons().length;
+    lessonBtn.textContent = `Chọn bài (${n})`;
+    countPick.textContent = `${n} bài`;
+  }
+
+  lessonBtn.addEventListener('click', ()=>{
+    lessonDD.classList.toggle('open');
+  });
+  document.addEventListener('click', (e)=>{
+    if (!lessonDD.contains(e.target)) lessonDD.classList.remove('open');
+  });
+  lessonList.addEventListener('change', updateLessonCount);
+  checkAllBtn.addEventListener('click', ()=> setAllLessons(true));
+  uncheckAllBtn.addEventListener('click', ()=> setAllLessons(false));
+
+  // ====== LocalStorage helpers ======
+  function saveToLocal(){
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(DATA)); }
+    catch(e){ console.warn('Lưu localStorage lỗi:', e); }
+  }
+  function loadFromLocal(){
+    try {
+      const s = localStorage.getItem(STORAGE_KEY);
+      if (!s) return;
+      const obj = JSON.parse(s);
+      for (const k of Object.keys(obj)) DATA[k] = obj[k];
+    } catch(e){ console.warn('Đọc localStorage lỗi:', e); }
+  }
+  function clearLocal(){
+    try { localStorage.removeItem(STORAGE_KEY); } catch{}
+  }
+
+  // ====== Data merge / load ======
+  function mergeData(obj){
+    let added = 0;
+    for (const k of Object.keys(obj)){
+      DATA[k] = obj[k];
+      added++;
+    }
+    refreshLessonOptions();
+    saveToLocal(); // 🔥 lưu ngay sau khi nạp
+    alert('Đã nạp dữ liệu' + (added ? `: ${added} nhóm` : ''));
+  }
+
+  fileInput.addEventListener('change', function(){
+    const f = this.files[0]; if(!f) return;
+    const reader = new FileReader();
+    reader.onload = (e)=>{
+      try { const obj = JSON.parse(e.target.result); mergeData(obj); }
+      catch(err){ alert('File JSON không hợp lệ: ' + err.message); }
+    };
+    reader.readAsText(f, 'utf-8');
+  });
+
+  loadJsonBtn.onclick = () => {
+    try { const obj = JSON.parse(jsonInput.value); mergeData(obj); }
+    catch (e) { alert('JSON không hợp lệ: ' + e.message); }
+  };
+
+  downloadJsonBtn.onclick = () => {
+    const blob = new Blob([JSON.stringify(DATA, null, 2)], {type:'application/json'});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'minna50_vocab.json';
+    a.click();
+    URL.revokeObjectURL(a.href);
+  };
+
+  clearDataBtn.onclick = () => {
+    for (const k of Object.keys(DATA)) delete DATA[k];
+    refreshLessonOptions();
+    clearLocal(); // 🔥 xóa luôn dữ liệu đã lưu
+    alert('Đã xóa dữ liệu trong bộ nhớ.');
+  };
+
+  // ====== Build quiz pool ======
+  function collectSelectedData() {
+    const opts = getSelectedLessons();
+    const pool = [];
+    for (const L of opts) if (DATA[L]) pool.push(...DATA[L].map(x=> ({...x, lesson: Number(L)})));
+    return pool;
+  }
+
+  // ====== Quiz lifecycle ======
+  let currentPicked = []; // store picked questions for submit/retry
+  let askVN = true;
+
+  function renderQuiz(picked){
+    quizEl.innerHTML = '';
+    const N = picked.length;
+    scoreNow.textContent = '0';
+    scoreMax.textContent = String(N);
+    doneNow.textContent = '0';
+    doneMax.textContent = String(N);
+    let doneCount = 0;
+
+    picked.forEach((it, idx) => {
+      const card = document.createElement('div'); card.className = 'card';
+      const head = document.createElement('div'); head.className = 'q-head';
+      const qTxt = askVN ? it.vn : (furiganaCB.checked && it.kanji ? `${it.jp}（${it.kanji}）` : it.jp);
+      head.textContent = `${idx+1}. ${qTxt}`; card.appendChild(head);
+
+      const ans = document.createElement('div'); ans.className = 'answer';
+      const input = document.createElement('input'); input.type = 'text';
+      input.placeholder = askVN ? 'Nhập tiếng Nhật (hiragana/katakana)' : 'Nhập nghĩa tiếng Việt';
+      input.autocomplete = 'off'; input.spellcheck = false; input.dataset.correct = askVN ? it.jp : it.vn;
+
+      const tag = document.createElement('span'); tag.className = 'pill'; tag.textContent = `Bài ${it.lesson}`;
+      const status = document.createElement('span'); status.className = 'pill'; status.textContent = 'Chưa chấm';
+
+      // đếm đã trả lời (chưa chấm) để hiển thị "Đã làm"
+      input.addEventListener('input', ()=>{
+        const had = input.dataset._typed === '1';
+        const has = !!input.value.trim();
+        if (!had && has){ doneCount++; input.dataset._typed = '1'; }
+        else if (had && !has){ doneCount--; input.dataset._typed = '0'; }
+        doneNow.textContent = String(doneCount);
+      });
+
+      ans.appendChild(input); ans.appendChild(tag); ans.appendChild(status);
+      card.appendChild(ans);
+
+      const reveal = document.createElement('div'); reveal.className = 'muted';
+      reveal.style.display = 'none';
+      reveal.innerHTML = askVN
+        ? `Đáp án: <b>${it.jp}</b>${it.kanji ? `（${it.kanji}）` : ''}`
+        : `Đáp án: <b>${it.vn}</b>`;
+      card.appendChild(reveal);
+
+      quizEl.appendChild(card);
+    });
+  }
+
+  // ✅ chỉ chấp nhận kana khi Việt → Nhật
+// ✅ cho phép kana + kanji
+function isJapaneseOnly(s){
+  // Hiragana 3040-309F, Katakana 30A0-30FF, Halfwidth Katakana FF65-FF9F,
+  // Kanji cơ bản 4E00-9FFF, dài âm 30FC, chấm giữa 30FB, khoảng trắng
+  const re = /^[\u3040-\u309F\u30A0-\u30FF\uFF65-\uFF9F\u4E00-\u9FFF\u30FC\u30FB\s]+$/;
+  return re.test(s);
+}
+
+function gradeQuiz(){
+  const inputs = Array.from(quizEl.querySelectorAll('input[type=text]'));
+  let correctCount = 0;
+  inputs.forEach(inp=>{
+    const raw = inp.value.trim();
+    const user = normalize(raw);
+    const corr = normalize(inp.dataset.correct);
+    const status = inp.parentElement.querySelector('.pill:last-child');
+    const reveal = inp.closest('.card').querySelector('.muted');
+
+    // Nếu đang Việt → Nhật thì bắt buộc ký tự Nhật (kana hoặc kanji)
+    if (directionCB.checked && raw && !isJapaneseOnly(raw)){
+      status.textContent = 'Không hợp lệ: chỉ chữ Nhật';
+      status.className = 'pill bad';
+      reveal.style.display = '';
+      inp.disabled = true;
+      return;
+    }
+
+    const ok = user && user === corr;
+    if (ok){ correctCount++; status.textContent = 'Đúng'; status.className = 'pill ok'; }
+    else { status.textContent = user ? 'Sai' : 'Chưa trả lời'; status.className = 'pill bad'; }
+
+    reveal.style.display = '';
+    inp.disabled = true;
+  });
+  scoreNow.textContent = String(correctCount);
+  retryWrongBtn.style.display = 'inline-block';
+  retryAllBtn.style.display = 'inline-block';
+}
+
+
+  function makeQuiz(){
+    let pool = collectSelectedData();
+    if (pool.length === 0) {
+      alert('Chưa có dữ liệu cho bài đã chọn. Hãy nạp JSON trước.');
+      return;
+    }
+    if (shuffleCB.checked) pool = shuffleArr(pool);
+    const N = Math.max(1, Math.min(pool.length, parseInt(numQ.value || '10', 10)));
+    askVN = directionCB.checked;
+    currentPicked = pool.slice(0, N);
+    quizShell.style.display = '';
+    retryWrongBtn.style.display = 'none';
+    retryAllBtn.style.display = 'none';
+    renderQuiz(currentPicked);
+  }
+
+  
+
+  function retryWrong(){
+    const cards = Array.from(quizEl.querySelectorAll('.card'));
+    const wrong = [];
+    cards.forEach((card, i)=>{
+      const status = card.querySelector('.pill:last-child');
+      if (!status.classList.contains('ok')) wrong.push(currentPicked[i]);
+    });
+    if (!wrong.length){ alert('Bạn không còn câu sai 🎉'); return; }
+    currentPicked = shuffleArr(wrong);
+    renderQuiz(currentPicked);
+    retryWrongBtn.style.display = 'none';
+    retryAllBtn.style.display = 'none';
+  }
+
+  function retryAll(){
+    currentPicked = shuffleArr(currentPicked);
+    renderQuiz(currentPicked);
+    retryWrongBtn.style.display = 'none';
+    retryAllBtn.style.display = 'none';
+  }
+
+  // ====== Events ======
+  makeQuizBtn.addEventListener('click', makeQuiz);
+  clearQuizBtn.addEventListener('click', ()=>{ quizEl.innerHTML=''; quizShell.style.display='none'; });
+  submitQuizBtn.addEventListener('click', gradeQuiz);
+  retryWrongBtn.addEventListener('click', retryWrong);
+  retryAllBtn.addEventListener('click', retryAll);
+
+  // ====== Khởi động: khôi phục dữ liệu đã lưu (nếu có) ======
+  window.addEventListener('DOMContentLoaded', ()=>{
+    loadFromLocal();        // 🔥 khôi phục
+    refreshLessonOptions(); // vẽ lại danh sách bài
+  });
+</script>

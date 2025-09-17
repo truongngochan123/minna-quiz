@@ -1,0 +1,10478 @@
+{
+  "1": [
+    {
+      "jp": "わたし",
+      "vn": "tôi"
+    },
+    {
+      "jp": "わたしたち",
+      "vn": "chúng tôi, chúng ta"
+    },
+    {
+      "jp": "あなた",
+      "vn": "anh/ chị/ ông/ bà,"
+    },
+    {
+      "jp": "あのひと",
+      "kanji": "あの人",
+      "vn": "người kia, người đó"
+    },
+    {
+      "jp": "あのかた",
+      "kanji": "あの方",
+      "vn": "vị kia"
+    },
+    {
+      "jp": "みなさん",
+      "kanji": "皆さん",
+      "vn": "các anh chị, các ông bà, các bạn, quý vị"
+    },
+    {
+      "jp": "～さん",
+      "vn": "anh, chị, ông, bà"
+    },
+    {
+      "jp": "～ちゃん",
+      "vn": "(hậu tố thêm vào sau tên của trẻ em thay cho 「～さん」)"
+    },
+    {
+      "jp": "～くん",
+      "kanji": "～君",
+      "vn": "(hậu tố thêm vào sau tên của em trai)"
+    },
+    {
+      "jp": "～じん",
+      "kanji": "～人",
+      "vn": "người (nước)~”; ví dụ 「アメリカじん」: người Mỹ)"
+    },
+    {
+      "jp": "せんせい",
+      "kanji": "先生",
+      "vn": "thầy/ cô"
+    },
+    {
+      "jp": "きょうし",
+      "kanji": "教師",
+      "vn": "giáo viên"
+    },
+    {
+      "jp": "がくせい",
+      "kanji": "学生",
+      "vn": "học sinh, sinh viên"
+    },
+    {
+      "jp": "かいしゃいん",
+      "kanji": "会社員",
+      "vn": "nhân viên công ty"
+    },
+    {
+      "jp": "しゃいん",
+      "kanji": "社員",
+      "vn": "nhân viên công ty ~"
+    },
+    {
+      "jp": "ぎんこういん",
+      "kanji": "銀行員",
+      "vn": "nhân viên ngân hàng"
+    },
+    {
+      "jp": "いしゃ",
+      "kanji": "医者",
+      "vn": "bác sĩ"
+    },
+    {
+      "jp": "けんきゅうしゃ",
+      "kanji": "研究者",
+      "vn": "nhà nghiên cứu"
+    },
+    {
+      "jp": "エンジニア",
+      "vn": "kỹ sư"
+    },
+    {
+      "jp": "だいがく",
+      "kanji": "大学",
+      "vn": "đại học, trường đại học"
+    },
+    {
+      "jp": "びょういん",
+      "kanji": "病院",
+      "vn": "bệnh viện"
+    },
+    {
+      "jp": "でんき",
+      "kanji": "電気",
+      "vn": "điện, đèn điện"
+    },
+    {
+      "jp": "だれ（どなた）",
+      "vn": "ai (「どなた」là cách nói lịch sự của「だれ」, vị nào)"
+    },
+    {
+      "jp": "―さい",
+      "kanji": "－歳",
+      "vn": "―tuổi"
+    },
+    {
+      "jp": "なんさい",
+      "kanji": "何歳",
+      "vn": "mấy tuổi, bao nhiêu tuổi"
+    },
+    {
+      "jp": "はい",
+      "vn": "vâng, dạ"
+    },
+    {
+      "jp": "いいえ",
+      "vn": "không"
+    },
+    {
+      "jp": "しつれいですが",
+      "kanji": "失礼ですが",
+      "vn": "xin lỗi,…"
+    },
+    {
+      "jp": "おなまえは？",
+      "kanji": "お名前は？",
+      "vn": "Tên anh/chị là gì?"
+    },
+    {
+      "jp": "はじめまして。",
+      "kanji": "初めまして。",
+      "vn": "Rất hân hạnh được gặp anh/chị"
+    },
+    {
+      "jp": "どうぞよろしく[おねがいします]。",
+      "vn": "Rất mong được sự giúp đỡ của anh/chị."
+    },
+    {
+      "jp": "こちらは～さんです。",
+      "vn": "Đây là anh/chị/ông/bà ~."
+    },
+    {
+      "jp": "～からきました。",
+      "kanji": "～から来ました。",
+      "vn": "(tôi) đến từ ~."
+    },
+    {
+      "jp": "アメリカ",
+      "vn": "Mỹ"
+    },
+    {
+      "jp": "イギリス",
+      "vn": "Anh"
+    },
+    {
+      "jp": "インド",
+      "vn": "Ấn Độ"
+    },
+    {
+      "jp": "インドネシア",
+      "vn": "Indonesia"
+    },
+    {
+      "jp": "かんこく",
+      "kanji": "韓国",
+      "vn": "Hàn Quốc"
+    },
+    {
+      "jp": "タイ",
+      "vn": "Thái Lan"
+    },
+    {
+      "jp": "ちゅうごく",
+      "kanji": "中国",
+      "vn": "Trung Quốc"
+    },
+    {
+      "jp": "ドイツ",
+      "vn": "Đức"
+    },
+    {
+      "jp": "にほん",
+      "kanji": "日本",
+      "vn": "Nhật Bản"
+    },
+    {
+      "jp": "フランス",
+      "vn": "Pháp"
+    },
+    {
+      "jp": "ブラジル",
+      "vn": "Braxin"
+    },
+    {
+      "jp": "さくらだいがく",
+      "kanji": "さくら大学",
+      "vn": "Đại học Sakura(giả tưởng)"
+    },
+    {
+      "jp": "ふじだいがく",
+      "kanji": "富士大学",
+      "vn": "Đại học Phú Sĩ(giả tưởng)"
+    },
+    {
+      "jp": "ＩＭＣ ／ パワーでんき ／ブラジルエアー",
+      "vn": "tên các công ty (giả tưởng)"
+    },
+    {
+      "jp": "ＡＫＣ",
+      "vn": "tên một tổ chức (giả tưởng)"
+    },
+    {
+      "jp": "こうべびょういん",
+      "kanji": "神戸病院",
+      "vn": "tên một bệnh viện (giả tưởng)"
+    }
+  ],
+  "2": [
+    {
+      "jp": "これ",
+      "vn": "cái này, đây (vật ở gần người nói)"
+    },
+    {
+      "jp": "それ",
+      "vn": "cái đó, đó (vật ở gần người nghe)"
+    },
+    {
+      "jp": "あれ",
+      "vn": "cái kia, kia (vật ở xa cả người nói và người nghe)"
+    },
+    {
+      "jp": "この～",
+      "vn": "~ này"
+    },
+    {
+      "jp": "その～",
+      "vn": "~ đó"
+    },
+    {
+      "jp": "あの～",
+      "vn": "~ kia"
+    },
+    {
+      "jp": "ほん",
+      "kanji": "本",
+      "vn": "sách"
+    },
+    {
+      "jp": "じしょ",
+      "kanji": "辞書",
+      "vn": "từ điển"
+    },
+    {
+      "jp": "ざっし",
+      "kanji": "雑誌",
+      "vn": "tạp chí"
+    },
+    {
+      "jp": "しんぶん",
+      "kanji": "新聞",
+      "vn": "báo"
+    },
+    {
+      "jp": "ノート",
+      "vn": "vở"
+    },
+    {
+      "jp": "てちょう",
+      "kanji": "手帳",
+      "vn": "sổ tay"
+    },
+    {
+      "jp": "めいし",
+      "kanji": "名刺",
+      "vn": "danh thiếp"
+    },
+    {
+      "jp": "カード",
+      "vn": "thẻ, cạc"
+    },
+    {
+      "jp": "テレホンカード",
+      "vn": "thẻ điện thoại"
+    },
+    {
+      "jp": "えんぴつ",
+      "kanji": "鉛筆",
+      "vn": "bút chì"
+    },
+    {
+      "jp": "ボールペン",
+      "vn": "bút bi"
+    },
+    {
+      "jp": "シャープペンシル",
+      "vn": "bút chì kim, bút chì bấm"
+    },
+    {
+      "jp": "かぎ",
+      "vn": "chìa khóa"
+    },
+    {
+      "jp": "とけい",
+      "kanji": "時計",
+      "vn": "đồng hồ"
+    },
+    {
+      "jp": "かさ",
+      "kanji": "傘",
+      "vn": "ô, dù"
+    },
+    {
+      "jp": "かばん",
+      "vn": "cặp sách, túi sách"
+    },
+    {
+      "jp": "[カセット]テープ",
+      "vn": "băng [cát-xét]"
+    },
+    {
+      "jp": "テープレコーダー",
+      "vn": "máy ghi âm"
+    },
+    {
+      "jp": "テレビ",
+      "vn": "tivi"
+    },
+    {
+      "jp": "ラジオ",
+      "vn": "Radio"
+    },
+    {
+      "jp": "カメラ",
+      "vn": "máy ảnh"
+    },
+    {
+      "jp": "コンピューター",
+      "vn": "máy vi tính"
+    },
+    {
+      "jp": "じどうしゃ",
+      "kanji": "自動車",
+      "vn": "ô tô, xe hơi"
+    },
+    {
+      "jp": "つくえ",
+      "vn": "cái bàn"
+    },
+    {
+      "jp": "いす",
+      "vn": "cái ghế"
+    },
+    {
+      "jp": "チョコレート",
+      "vn": "Socola"
+    },
+    {
+      "jp": "コーヒー",
+      "vn": "cà phê"
+    },
+    {
+      "jp": "えいご",
+      "vn": "tiếng anh"
+    },
+    {
+      "jp": "にほんご",
+      "vn": "tiếng nhật"
+    },
+    {
+      "jp": "なに",
+      "vn": "cái gì"
+    },
+    {
+      "jp": "なん",
+      "vn": "cái gì"
+    },
+    {
+      "jp": "そう",
+      "vn": "đúng rồi"
+    },
+    {
+      "jp": "ちがいます",
+      "kanji": "違います",
+      "vn": "không phải, không đúng, sai rồi"
+    },
+    {
+      "jp": "そうですか",
+      "vn": "thế à, vậy à"
+    },
+    {
+      "jp": "あのう",
+      "vn": "à, ờ"
+    },
+    {
+      "jp": "ほんのきもち",
+      "kanji": "ほんの気持ち",
+      "vn": "chỉ là chút lòng thành thôi"
+    },
+    {
+      "jp": "どうぞ",
+      "vn": "xin mời"
+    },
+    {
+      "jp": "どうも",
+      "vn": "cám ơn"
+    },
+    {
+      "jp": "どうもありがとうございます",
+      "vn": "xin chân thành cám ơn"
+    },
+    {
+      "jp": "これからおせわになります",
+      "vn": "từ nay tôi rất mong sự giúp đỡ của anh chị"
+    },
+    {
+      "jp": "こちらこそ よろしく",
+      "vn": "chính tôi mới phải xin ông giúp đỡ cho"
+    }
+  ],
+  "3": [
+    {
+      "jp": "ここ",
+      "vn": "chỗ này, đây"
+    },
+    {
+      "jp": "そこ",
+      "vn": "chỗ đó, đó"
+    },
+    {
+      "jp": "あそこ",
+      "vn": "chỗ kia, kia"
+    },
+    {
+      "jp": "どこ",
+      "vn": "chỗ nào, đâu"
+    },
+    {
+      "jp": "こちら",
+      "vn": "phía này, đằng này, chỗ này, đây"
+    },
+    {
+      "jp": "そちら",
+      "vn": "phía đó, đằng đó, chỗ đó, đó"
+    },
+    {
+      "jp": "あちら",
+      "vn": "phía kia, đằng kia, chỗ kia, kia"
+    },
+    {
+      "jp": "どちら",
+      "vn": "phía nào, đằng nào, chỗ nào, đâu"
+    },
+    {
+      "jp": "きょうしつ",
+      "kanji": "教室",
+      "vn": "lớp học, phòng học"
+    },
+    {
+      "jp": "しょくどう",
+      "kanji": "食堂",
+      "vn": "nhà ăn"
+    },
+    {
+      "jp": "じむしょ",
+      "kanji": "事務所",
+      "vn": "văn phòng"
+    },
+    {
+      "jp": "かいぎしつ",
+      "kanji": "会議室",
+      "vn": "phòng họp"
+    },
+    {
+      "jp": "うけつけ",
+      "kanji": "受付",
+      "vn": "bộ phận tiếp tân, phòng thường trực"
+    },
+    {
+      "jp": "ロビー",
+      "vn": "hành lang, đại sảnh"
+    },
+    {
+      "jp": "へや",
+      "kanji": "部屋",
+      "vn": "căn phòng"
+    },
+    {
+      "jp": "トイレ（おてあらい）",
+      "kanji": "（お手洗い）",
+      "vn": "nhà vệ sinh, phòng vệ sinh, toa-lét"
+    },
+    {
+      "jp": "かいだん",
+      "kanji": "階段",
+      "vn": "cầu thang"
+    },
+    {
+      "jp": "エレベーター",
+      "vn": "thang máy"
+    },
+    {
+      "jp": "エスカレーター",
+      "vn": "thang cuốn"
+    },
+    {
+      "jp": "[お]くに",
+      "kanji": "[お]国",
+      "vn": "đất nước (của anh/chị)"
+    },
+    {
+      "jp": "かいしゃ",
+      "kanji": "会社",
+      "vn": "công ty"
+    },
+    {
+      "jp": "うち",
+      "vn": "nhà"
+    },
+    {
+      "jp": "でんわ",
+      "kanji": "電話",
+      "vn": "máy điện thoại, điện thoại"
+    },
+    {
+      "jp": "くつ",
+      "kanji": "靴",
+      "vn": "giầy"
+    },
+    {
+      "jp": "ネクタイ",
+      "vn": "cà vạt"
+    },
+    {
+      "jp": "ワイン",
+      "vn": "rượu vang"
+    },
+    {
+      "jp": "たばこ",
+      "vn": "thuốc lá"
+    },
+    {
+      "jp": "うりば",
+      "kanji": "売り場",
+      "vn": "quầy bán (trong một cửa hàng bách hóa)"
+    },
+    {
+      "jp": "ちか",
+      "kanji": "地下",
+      "vn": "tầng hầm, dưới mặt đất"
+    },
+    {
+      "jp": "―かい（－がい）",
+      "kanji": "－階",
+      "vn": "tầng thứ -"
+    },
+    {
+      "jp": "なんがい",
+      "kanji": "何階",
+      "vn": "tầng mấy"
+    },
+    {
+      "jp": "―えん",
+      "kanji": "―円",
+      "vn": "-yên"
+    },
+    {
+      "jp": "いくら",
+      "vn": "bao nhiêu tiền"
+    },
+    {
+      "jp": "ひゃく",
+      "kanji": "百",
+      "vn": "trăm"
+    },
+    {
+      "jp": "せん",
+      "kanji": "千",
+      "vn": "nghìn"
+    },
+    {
+      "jp": "まん",
+      "kanji": "万",
+      "vn": "mười nghìn, vạn"
+    },
+    {
+      "jp": "すみません",
+      "vn": "Xin lỗi"
+    },
+    {
+      "jp": "～でございます",
+      "vn": "(cách nói lịch sự của 「です」)"
+    },
+    {
+      "jp": "みせてください",
+      "kanji": "[～を]見せてください",
+      "vn": "cho tôi xem [~]"
+    },
+    {
+      "jp": "じゃ",
+      "vn": "thế thì, vậy thì"
+    },
+    {
+      "jp": "[～を]ください",
+      "vn": "cho tôi [~]"
+    },
+    {
+      "jp": "しんおおさか",
+      "kanji": "新大阪",
+      "vn": "tên một nhà ga ở Osaka"
+    },
+    {
+      "jp": "イタリア",
+      "vn": "Ý"
+    },
+    {
+      "jp": "スイス",
+      "vn": "Thụy Sĩ"
+    },
+    {
+      "jp": "ＭＴ/ヨーネン/アキックス",
+      "vn": "tên các công ty giả tưởng"
+    }
+  ],
+  "4": [
+    {
+      "jp": "おきます",
+      "kanji": "起きます",
+      "vn": "dậy, thức dậy"
+    },
+    {
+      "jp": "ねます",
+      "kanji": "寝ます",
+      "vn": "ngủ, đi ngủ"
+    },
+    {
+      "jp": "はたらきます",
+      "kanji": "働きます",
+      "vn": "làm việc"
+    },
+    {
+      "jp": "やすみます",
+      "kanji": "休みます",
+      "vn": "nghỉ, nghỉ ngơi"
+    },
+    {
+      "jp": "べんきょうします",
+      "kanji": "勉強します",
+      "vn": "học"
+    },
+    {
+      "jp": "おわります",
+      "kanji": "終わります",
+      "vn": "hết, kết thúc, xong"
+    },
+    {
+      "jp": "デパート",
+      "vn": "bách hóa"
+    },
+    {
+      "jp": "ぎんこう",
+      "kanji": "銀行",
+      "vn": "ngân hàng"
+    },
+    {
+      "jp": "ゆうびんきょく",
+      "kanji": "郵便局",
+      "vn": "bưu điện"
+    },
+    {
+      "jp": "としょかん",
+      "kanji": "図書館",
+      "vn": "thư viện"
+    },
+    {
+      "jp": "びじゅつかん",
+      "kanji": "美術館",
+      "vn": "bảo tàng mỹ thuật"
+    },
+    {
+      "jp": "いま",
+      "kanji": "今",
+      "vn": "bây giờ"
+    },
+    {
+      "jp": "―じ",
+      "kanji": "－時",
+      "vn": "-giờ"
+    },
+    {
+      "jp": "―ふん（－ぷん）",
+      "kanji": "―分",
+      "vn": "- phút"
+    },
+    {
+      "jp": "はん",
+      "kanji": "半",
+      "vn": "rưỡi, nửa"
+    },
+    {
+      "jp": "なんじ",
+      "kanji": "何時",
+      "vn": "mấy giờ"
+    },
+    {
+      "jp": "なんぷん",
+      "kanji": "何分",
+      "vn": "mấy phút"
+    },
+    {
+      "jp": "ごぜん",
+      "kanji": "午前",
+      "vn": "sáng, trước 12 giờ trưa"
+    },
+    {
+      "jp": "ごご",
+      "kanji": "午後",
+      "vn": "chiều, sau 12 giờ trưa"
+    },
+    {
+      "jp": "あさ",
+      "kanji": "朝",
+      "vn": "buổi sáng, sáng"
+    },
+    {
+      "jp": "ひる",
+      "kanji": "昼",
+      "vn": "buổi trưa, trưa"
+    },
+    {
+      "jp": "ばん（よる）",
+      "kanji": "晩(夜)",
+      "vn": "buổi tối, tối"
+    },
+    {
+      "jp": "おととい",
+      "vn": "hôm kia"
+    },
+    {
+      "jp": "きのう",
+      "vn": "hôm qua"
+    },
+    {
+      "jp": "きょう",
+      "vn": "hôm nay"
+    },
+    {
+      "jp": "あした",
+      "vn": "ngày mai"
+    },
+    {
+      "jp": "あさって",
+      "vn": "ngày kia"
+    },
+    {
+      "jp": "けさ",
+      "vn": "sáng nay"
+    },
+    {
+      "jp": "こんばん",
+      "kanji": "今晩",
+      "vn": "tối nay"
+    },
+    {
+      "jp": "やすみ",
+      "kanji": "休み",
+      "vn": "nghỉ, nghỉ phép, ngày nghỉ"
+    },
+    {
+      "jp": "ひるやすみ",
+      "kanji": "昼休み",
+      "vn": "nghỉ trưa"
+    },
+    {
+      "jp": "まいあさ",
+      "kanji": "毎朝",
+      "vn": "hàng sáng, mỗi sáng"
+    },
+    {
+      "jp": "まいばん",
+      "kanji": "毎晩",
+      "vn": "hàng tối, mỗi tối"
+    },
+    {
+      "jp": "まいにち",
+      "kanji": "毎日",
+      "vn": "hàng ngày, mỗi ngày"
+    },
+    {
+      "jp": "げつようび",
+      "kanji": "月曜日",
+      "vn": "thứ hai"
+    },
+    {
+      "jp": "かようび",
+      "kanji": "火曜日",
+      "vn": "thứ ba"
+    },
+    {
+      "jp": "すいようび",
+      "kanji": "水曜日",
+      "vn": "thứ tư"
+    },
+    {
+      "jp": "もくようび",
+      "kanji": "木曜日",
+      "vn": "thứ năm"
+    },
+    {
+      "jp": "きんようび",
+      "kanji": "金曜日",
+      "vn": "thứ sáu"
+    },
+    {
+      "jp": "どようび",
+      "kanji": "土曜日",
+      "vn": "thứ bảy"
+    },
+    {
+      "jp": "にちようび",
+      "kanji": "日曜日",
+      "vn": "chủ nhật"
+    },
+    {
+      "jp": "なんようび",
+      "kanji": "何曜日",
+      "vn": "thứ mấy"
+    },
+    {
+      "jp": "ばんごう",
+      "kanji": "番号",
+      "vn": "số (số điện thoại, số phòng)"
+    },
+    {
+      "jp": "なんばん",
+      "kanji": "何番",
+      "vn": "số bao nhiêu, số mấy"
+    },
+    {
+      "jp": "～から",
+      "vn": "~ từ"
+    },
+    {
+      "jp": "～まで",
+      "vn": "~ đến"
+    },
+    {
+      "jp": "～と",
+      "vn": "~ và (dùng để nối hai danh từ)"
+    },
+    {
+      "jp": "そちら",
+      "vn": "phía đó, đằng đó, chỗ đó, đó"
+    },
+    {
+      "jp": "たいへんですね",
+      "kanji": "大変ですね",
+      "vn": "Anh/chị vất vả quá."
+    },
+    {
+      "jp": "えーと",
+      "vn": "ừ, à"
+    },
+    {
+      "jp": "104",
+      "vn": "Số điện thoại của dịch vụ hướng dẫn số điện thoại"
+    },
+    {
+      "jp": "おねがいします",
+      "kanji": "お願いします",
+      "vn": "Nhờ anh/chị. Phiền anh/chị. Xin vui lòng giúp đỡ"
+    },
+    {
+      "jp": "かしこまりました",
+      "vn": "Tôi hiểu rồi ạ./ vâng, được rồi ạ."
+    },
+    {
+      "jp": "おといあわせのばんごう",
+      "kanji": "お問い合わせの番号",
+      "vn": "Số điện thoại mà ông/ bà muốn hỏi"
+    },
+    {
+      "jp": "[どうも]ありがとうございました。",
+      "vn": "Xin cám ơn ông/bà"
+    },
+    {
+      "jp": "ニューヨーク",
+      "vn": "New York"
+    },
+    {
+      "jp": "ペキン",
+      "vn": "Bắc Kinh"
+    },
+    {
+      "jp": "ロンドン",
+      "vn": "Luân Đôn"
+    },
+    {
+      "jp": "バンコク",
+      "vn": "Băng Cốc"
+    },
+    {
+      "jp": "ロサンゼルス",
+      "vn": "Los Angeles"
+    },
+    {
+      "jp": "やまとびじゅつかん",
+      "kanji": "やまと美術館",
+      "vn": "tên một bảo tàng Mỹ thuật (giả tưởng)"
+    },
+    {
+      "jp": "おおさかデパート",
+      "kanji": "大阪デパート",
+      "vn": "tên một bách hóa (giả tưởng)"
+    },
+    {
+      "jp": "みどりとしょかん",
+      "kanji": "みどり図書館",
+      "vn": "tên một thư viện (giả tưởng)"
+    },
+    {
+      "jp": "アップルぎんこう",
+      "kanji": "アップル銀行",
+      "vn": "tên một ngân hàng (giả tưởng)"
+    }
+  ],
+  "5": [
+    {
+      "jp": "いきます",
+      "kanji": "行きます",
+      "vn": "đi"
+    },
+    {
+      "jp": "きます",
+      "kanji": "来ます",
+      "vn": "đến"
+    },
+    {
+      "jp": "かえります",
+      "kanji": "帰ります",
+      "vn": "về"
+    },
+    {
+      "jp": "がっこう",
+      "kanji": "学校",
+      "vn": "trường học"
+    },
+    {
+      "jp": "スーパー",
+      "vn": "siêu thị"
+    },
+    {
+      "jp": "えき",
+      "kanji": "駅",
+      "vn": "ga, nhà ga"
+    },
+    {
+      "jp": "ひこうき",
+      "kanji": "飛行機",
+      "vn": "máy bay"
+    },
+    {
+      "jp": "ふね",
+      "kanji": "船",
+      "vn": "thuyền, tàu thủy"
+    },
+    {
+      "jp": "でんしゃ",
+      "kanji": "電車",
+      "vn": "tàu điện"
+    },
+    {
+      "jp": "ちかてつ",
+      "kanji": "地下鉄",
+      "vn": "tàu điện ngầm"
+    },
+    {
+      "jp": "しんかんせん",
+      "kanji": "新幹線",
+      "vn": "tàu Shinkansen (tàu điện siêu tốc của Nhật)"
+    },
+    {
+      "jp": "バス",
+      "vn": "xe buýt"
+    },
+    {
+      "jp": "タクシー",
+      "vn": "tắc-xi"
+    },
+    {
+      "jp": "じてんしゃ",
+      "kanji": "自転車",
+      "vn": "xe đạp"
+    },
+    {
+      "jp": "あるいて",
+      "kanji": "歩いて",
+      "vn": "đi bộ"
+    },
+    {
+      "jp": "ひと",
+      "kanji": "人",
+      "vn": "người"
+    },
+    {
+      "jp": "ともだち",
+      "kanji": "友達",
+      "vn": "bạn, bạn bè"
+    },
+    {
+      "jp": "かれ",
+      "kanji": "彼",
+      "vn": "anh ấy, bạn trai"
+    },
+    {
+      "jp": "かのじょ",
+      "kanji": "彼女",
+      "vn": "chị ấy, bạn gái"
+    },
+    {
+      "jp": "かぞく",
+      "kanji": "家族",
+      "vn": "gia đình"
+    },
+    {
+      "jp": "ひとりで",
+      "kanji": "一人で",
+      "vn": "một mình"
+    },
+    {
+      "jp": "せんしゅう",
+      "kanji": "先週",
+      "vn": "tuần trước"
+    },
+    {
+      "jp": "こんしゅう",
+      "kanji": "今週",
+      "vn": "tuần này"
+    },
+    {
+      "jp": "らいしゅう",
+      "kanji": "来週",
+      "vn": "tuần sau"
+    },
+    {
+      "jp": "こんげつ",
+      "kanji": "今月",
+      "vn": "tháng này"
+    },
+    {
+      "jp": "らいげつ",
+      "kanji": "来月",
+      "vn": "tháng sau"
+    },
+    {
+      "jp": "きょねん",
+      "kanji": "去年",
+      "vn": "năm ngoái"
+    },
+    {
+      "jp": "ことし",
+      "vn": "năm nay"
+    },
+    {
+      "jp": "らいねん",
+      "kanji": "来年",
+      "vn": "năm sau"
+    },
+    {
+      "jp": "―がつ",
+      "kanji": "―月",
+      "vn": "tháng -"
+    },
+    {
+      "jp": "なんがつ",
+      "kanji": "何月",
+      "vn": "tháng mấy"
+    },
+    {
+      "jp": "ついたち",
+      "kanji": "１日",
+      "vn": "ngày mồng 1"
+    },
+    {
+      "jp": "ふつか",
+      "kanji": "２日",
+      "vn": "ngày mồng 2, 2 ngày"
+    },
+    {
+      "jp": "みっか",
+      "kanji": "３日",
+      "vn": "ngày mồng 3, 3 ngày"
+    },
+    {
+      "jp": "よっか",
+      "kanji": "４日",
+      "vn": "ngày mồng 4, 4 ngày"
+    },
+    {
+      "jp": "いつか",
+      "kanji": "５日",
+      "vn": "ngày mồng 5, 5 ngày"
+    },
+    {
+      "jp": "むいか",
+      "kanji": "６日",
+      "vn": "ngày mồng 6, 6 ngày"
+    },
+    {
+      "jp": "なのか",
+      "kanji": "７日",
+      "vn": "ngày mồng 7, 7 ngày"
+    },
+    {
+      "jp": "ようか",
+      "kanji": "８日",
+      "vn": "ngày mồng 8, 8 ngày"
+    },
+    {
+      "jp": "ここのか",
+      "kanji": "９日",
+      "vn": "ngày mồng 9, 9 ngày"
+    },
+    {
+      "jp": "とおか",
+      "kanji": "１０日",
+      "vn": "ngày mồng 10, 10 ngày"
+    },
+    {
+      "jp": "じゅうよっか",
+      "kanji": "１４日",
+      "vn": "ngày 14, 14 ngày"
+    },
+    {
+      "jp": "はつか",
+      "kanji": "２０日",
+      "vn": "ngày 20, 20 ngày"
+    },
+    {
+      "jp": "にじゅうよっか",
+      "kanji": "２４日",
+      "vn": "ngày 24, 24 ngày"
+    },
+    {
+      "jp": "―にち",
+      "kanji": "―日",
+      "vn": "ngày -, - ngày"
+    },
+    {
+      "jp": "なんにち",
+      "kanji": "何日",
+      "vn": "ngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày"
+    },
+    {
+      "jp": "いつ",
+      "vn": "bao giờ, khi nào"
+    },
+    {
+      "jp": "たんじょうび",
+      "kanji": "誕生日",
+      "vn": "sinh nhật"
+    },
+    {
+      "jp": "ふつう",
+      "kanji": "普通",
+      "vn": "tàu thường (dừng cả ở các ga lẻ)"
+    },
+    {
+      "jp": "きゅうこう",
+      "kanji": "急行",
+      "vn": "tàu tốc hành"
+    },
+    {
+      "jp": "とっきゅう",
+      "kanji": "特急",
+      "vn": "tàu tốc hành đặc biệt"
+    },
+    {
+      "jp": "つぎの",
+      "kanji": "次の",
+      "vn": "tiếp theo"
+    },
+    {
+      "jp": "どういたしまして",
+      "vn": "Không có gì."
+    },
+    {
+      "jp": "―ばんせん",
+      "kanji": "―番線",
+      "vn": "sân ga số -"
+    },
+    {
+      "jp": "はかた",
+      "kanji": "博多",
+      "vn": "tên một khu phố ở Kyushu"
+    },
+    {
+      "jp": "ふしみ",
+      "kanji": "伏見",
+      "vn": "tên một khu phố ở Kyoto"
+    },
+    {
+      "jp": "こうしえん",
+      "kanji": "甲子園",
+      "vn": "tên một khu phố ở Osaka"
+    },
+    {
+      "jp": "おおさかじょう",
+      "kanji": "大阪城",
+      "vn": "Lâu đài Osaka, một lâu đài nổi tiếng ở Osaka"
+    }
+  ],
+  "6": [
+    {
+      "jp": "たべます",
+      "kanji": "食べます",
+      "vn": "ăn"
+    },
+    {
+      "jp": "のみます",
+      "kanji": "飲みます",
+      "vn": "uống"
+    },
+    {
+      "jp": "すいます",
+      "kanji": "吸います",
+      "vn": "HẤP"
+    },
+    {
+      "jp": "[たばこを～]",
+      "vn": "hút [thuốc lá]"
+    },
+    {
+      "jp": "みます",
+      "kanji": "見ます",
+      "vn": "xem, nhìn, trông"
+    },
+    {
+      "jp": "ききます",
+      "kanji": "聞きます",
+      "vn": "VĂN"
+    },
+    {
+      "jp": "よみます",
+      "kanji": "読みます",
+      "vn": "đọc"
+    },
+    {
+      "jp": "かきます",
+      "kanji": "書きます",
+      "vn": "viết, vẽ"
+    },
+    {
+      "jp": "かいます",
+      "kanji": "買います",
+      "vn": "MÃI"
+    },
+    {
+      "jp": "とります[しゃしんを～]",
+      "kanji": "撮ります[写真を～]",
+      "vn": "chụp [ảnh]"
+    },
+    {
+      "jp": "します",
+      "vn": "làm"
+    },
+    {
+      "jp": "あいます[ともだちに～]",
+      "kanji": "会います[友達に～]",
+      "vn": "gặp [bạn]"
+    },
+    {
+      "jp": "ごはん",
+      "vn": "cơm, bữa ăn"
+    },
+    {
+      "jp": "あさごはん",
+      "kanji": "朝ごはん",
+      "vn": "cơm sáng"
+    },
+    {
+      "jp": "ひるごはん",
+      "kanji": "昼ごはん",
+      "vn": "cơm trưa"
+    },
+    {
+      "jp": "ばんごはん",
+      "kanji": "晩ごはん",
+      "vn": "cơm tối"
+    },
+    {
+      "jp": "パン",
+      "vn": "bánh mì"
+    },
+    {
+      "jp": "たまご",
+      "kanji": "卵",
+      "vn": "trứng"
+    },
+    {
+      "jp": "にく",
+      "kanji": "肉",
+      "vn": "thịt"
+    },
+    {
+      "jp": "さかな",
+      "kanji": "魚",
+      "vn": "cá"
+    },
+    {
+      "jp": "やさい",
+      "kanji": "野菜",
+      "vn": "DÃ THÁI"
+    },
+    {
+      "jp": "くだもの",
+      "kanji": "果物",
+      "vn": "hoa quả, trái cây"
+    },
+    {
+      "jp": "みず",
+      "kanji": "水",
+      "vn": "nước"
+    },
+    {
+      "jp": "おちゃ",
+      "kanji": "お茶",
+      "vn": "trà (nói chung)"
+    },
+    {
+      "jp": "こうちゃ",
+      "kanji": "紅茶",
+      "vn": "trà đen"
+    },
+    {
+      "jp": "ぎゅうにゅう",
+      "kanji": "牛乳",
+      "vn": "sữa bò"
+    },
+    {
+      "jp": "ジュース",
+      "vn": "nước hoa quả"
+    },
+    {
+      "jp": "ビール",
+      "vn": "bia"
+    },
+    {
+      "jp": "[お]さけ",
+      "kanji": "[お]酒",
+      "vn": "rượu, rượu sake"
+    },
+    {
+      "jp": "ビデオ",
+      "vn": "video, băng video, đầu video"
+    },
+    {
+      "jp": "えいが",
+      "kanji": "映画",
+      "vn": "phim, điện ảnh"
+    },
+    {
+      "jp": "ＣＤ",
+      "vn": "đĩa CD"
+    },
+    {
+      "jp": "てがみ",
+      "kanji": "手紙",
+      "vn": "thư"
+    },
+    {
+      "jp": "レポート",
+      "vn": "báo cáo"
+    },
+    {
+      "jp": "しゃしん",
+      "kanji": "写真",
+      "vn": "ảnh"
+    },
+    {
+      "jp": "みせ",
+      "kanji": "店",
+      "vn": "cửa hàng, tiệm"
+    },
+    {
+      "jp": "レストラン",
+      "vn": "nhà hàng"
+    },
+    {
+      "jp": "にわ",
+      "kanji": "庭",
+      "vn": "vườn"
+    },
+    {
+      "jp": "しゅくだい",
+      "kanji": "宿題",
+      "vn": "bài tập về nhà (～をします: làm bài tập)"
+    },
+    {
+      "jp": "テニス",
+      "vn": "quần vợt (～をします: đánh quần vợt)"
+    },
+    {
+      "jp": "サッカー",
+      "vn": "bóng đá (～をします: chơi bóng đá)"
+    },
+    {
+      "jp": "[お]はなみ",
+      "kanji": "[お]花見",
+      "vn": "việc ngắm hoa anh đào (～をします: ngắm hoa anh đào)"
+    },
+    {
+      "jp": "なに",
+      "kanji": "何",
+      "vn": "cái gì"
+    },
+    {
+      "jp": "いっしょに",
+      "vn": "cùng, cùng nhau"
+    },
+    {
+      "jp": "ちょっと",
+      "vn": "một chút"
+    },
+    {
+      "jp": "いつも",
+      "vn": "luôn luôn, lúc nào cũng"
+    },
+    {
+      "jp": "ときどき",
+      "kanji": "時々",
+      "vn": "thỉnh thoảng"
+    },
+    {
+      "jp": "それから",
+      "vn": "sau đó, tiếp theo"
+    },
+    {
+      "jp": "ええ",
+      "vn": "vâng, được (cách nói thân mật của 「はい」)"
+    },
+    {
+      "jp": "いいですね。",
+      "vn": "Được đấy nhỉ./ hay quá."
+    },
+    {
+      "jp": "わかりました。",
+      "vn": "Tôi hiểu rồi/ vâng ạ."
+    },
+    {
+      "jp": "（なんですか）",
+      "kanji": "何ですか。",
+      "vn": "Có gì đấy ạ?/ cái gì vậy?"
+    },
+    {
+      "jp": "じゃ、また[あした]。",
+      "vn": "Hẹn gặp lại [ngày mai]."
+    },
+    {
+      "jp": "メキシコ",
+      "vn": "Mexico"
+    },
+    {
+      "jp": "おおさかじょうこうえん",
+      "kanji": "大阪城公園",
+      "vn": "Công viên lâu đài Osaka"
+    }
+  ],
+  "7": [
+    {
+      "jp": "きります",
+      "kanji": "切ります",
+      "vn": "cắt"
+    },
+    {
+      "jp": "おくります",
+      "kanji": "送ります",
+      "vn": "gửi"
+    },
+    {
+      "jp": "あげます",
+      "vn": "cho, tặng"
+    },
+    {
+      "jp": "もらいます",
+      "vn": "nhận"
+    },
+    {
+      "jp": "かします",
+      "kanji": "貸します",
+      "vn": "cho mượn, cho vay"
+    },
+    {
+      "jp": "かります",
+      "kanji": "借ります",
+      "vn": "mượn, vay"
+    },
+    {
+      "jp": "おしえます",
+      "kanji": "教えます",
+      "vn": "dạy"
+    },
+    {
+      "jp": "ならいます",
+      "kanji": "習います",
+      "vn": "học, tập"
+    },
+    {
+      "jp": "[でんわを～]かけます",
+      "kanji": "[電話を～]かけます",
+      "vn": "gọi [điện thoại]"
+    },
+    {
+      "jp": "て",
+      "kanji": "手",
+      "vn": "THỦ"
+    },
+    {
+      "jp": "はし",
+      "vn": "đũa"
+    },
+    {
+      "jp": "スプーン",
+      "vn": "thìa"
+    },
+    {
+      "jp": "ナイフ",
+      "vn": "dao"
+    },
+    {
+      "jp": "フォーク",
+      "vn": "nĩa"
+    },
+    {
+      "jp": "はさみ",
+      "vn": "kéo"
+    },
+    {
+      "jp": "ファクス",
+      "vn": "fax"
+    },
+    {
+      "jp": "ワープロ",
+      "vn": "máy đánh chữ"
+    },
+    {
+      "jp": "パソコン",
+      "vn": "máy vi tính cá nhân"
+    },
+    {
+      "jp": "パンチ",
+      "vn": "cái đục lỗ"
+    },
+    {
+      "jp": "ホッチキス",
+      "vn": "cái dập ghim"
+    },
+    {
+      "jp": "セロテープ",
+      "vn": "băng dính"
+    },
+    {
+      "jp": "けしゴム",
+      "vn": "cái tẩy"
+    },
+    {
+      "jp": "かみ",
+      "kanji": "紙",
+      "vn": "giấy"
+    },
+    {
+      "jp": "はな",
+      "kanji": "花",
+      "vn": "hoa"
+    },
+    {
+      "jp": "シャツ",
+      "vn": "áo sơ mi"
+    },
+    {
+      "jp": "プレゼント",
+      "vn": "quà tặng, tặng phẩm"
+    },
+    {
+      "jp": "にもつ",
+      "kanji": "荷物",
+      "vn": "đồ đạc, hành lý"
+    },
+    {
+      "jp": "おかね",
+      "kanji": "お金",
+      "vn": "tiền"
+    },
+    {
+      "jp": "きっぷ",
+      "kanji": "切符",
+      "vn": "vé"
+    },
+    {
+      "jp": "クリスマス",
+      "vn": "Giáng sinh"
+    },
+    {
+      "jp": "ちち",
+      "kanji": "父",
+      "vn": "bố (dùng khi nói về bố mình)"
+    },
+    {
+      "jp": "はは",
+      "kanji": "母",
+      "vn": "mẹ (dùng khi nói về mẹ mình)"
+    },
+    {
+      "jp": "おとうさん",
+      "kanji": "お父さん",
+      "vn": "bố (dùng khi nói về bố người khác và dùng khi xưng hô với bố mình)"
+    },
+    {
+      "jp": "おかあさん",
+      "kanji": "お母さん",
+      "vn": "mẹ (dùng khi nói về mẹ người khác và dùng khi xưng hô với mẹ mình)"
+    },
+    {
+      "jp": "もう",
+      "vn": "đã, rồi"
+    },
+    {
+      "jp": "まだ",
+      "vn": "chưa"
+    },
+    {
+      "jp": "これから",
+      "vn": "từ bây giờ, sau đây"
+    },
+    {
+      "jp": "[～、]すてきですね。",
+      "vn": "[~] hay nhỉ./ đẹp nhỉ."
+    },
+    {
+      "jp": "ごめんください。",
+      "vn": "Xin lỗi, có ai ở nhà không?/ Tôi có thể vào được chứ?"
+    },
+    {
+      "jp": "いらっしゃい。",
+      "vn": "Chào mừng anh/chị đã đến chơi."
+    },
+    {
+      "jp": "どうぞ おあがりください。",
+      "vn": "Mời anh/chị vào."
+    },
+    {
+      "jp": "しつれいします。",
+      "kanji": "失礼します。",
+      "vn": "Xin thất lễ"
+    },
+    {
+      "jp": "[～は]いかがですか。",
+      "vn": "Anh/chị dùng [~] có được không?"
+    },
+    {
+      "jp": "いただきます。",
+      "vn": "Xin nhận ~. (cách nói dùng trước khi ăn hoặc uống)"
+    },
+    {
+      "jp": "りょこう",
+      "kanji": "旅行",
+      "vn": "du lịch, chuyến du lịch (～をします: đi du lịch)"
+    },
+    {
+      "jp": "おみやげ",
+      "kanji": "お土産",
+      "vn": "quà"
+    },
+    {
+      "jp": "ヨーロッパ",
+      "vn": "Châu Âu"
+    },
+    {
+      "jp": "スペイン",
+      "vn": "Tây Ban Nha"
+    }
+  ],
+  "8": [
+    {
+      "jp": "ハンサム[な]",
+      "vn": "đẹp trai"
+    },
+    {
+      "jp": "きれい[な]",
+      "vn": "đẹp, sạch"
+    },
+    {
+      "jp": "しずか[な]",
+      "kanji": "静か[な]",
+      "vn": "yên tĩnh"
+    },
+    {
+      "jp": "にぎやか[な]",
+      "vn": "náo nhiệt"
+    },
+    {
+      "jp": "ゆうめい[な]",
+      "kanji": "有名[な]",
+      "vn": "nổi tiếng"
+    },
+    {
+      "jp": "しんせつ[な]",
+      "kanji": "親切[な]",
+      "vn": "tốt bụng, thân thiện"
+    },
+    {
+      "jp": "げんき[な]",
+      "kanji": "元気[な]",
+      "vn": "khỏe"
+    },
+    {
+      "jp": "ひま[な]",
+      "kanji": "暇[な]",
+      "vn": "rảnh rỗi"
+    },
+    {
+      "jp": "べんり[な]",
+      "kanji": "便利[な]",
+      "vn": "tiện lợi"
+    },
+    {
+      "jp": "すてき[な]",
+      "vn": "đẹp, hay"
+    },
+    {
+      "jp": "おおきい",
+      "kanji": "大きい",
+      "vn": "lớn, to"
+    },
+    {
+      "jp": "ちいさい",
+      "kanji": "小さい",
+      "vn": "bé, nhỏ"
+    },
+    {
+      "jp": "あたらしい",
+      "kanji": "新しい",
+      "vn": "mới"
+    },
+    {
+      "jp": "ふるい",
+      "kanji": "古い",
+      "vn": "cũ"
+    },
+    {
+      "jp": "いい（よい）",
+      "vn": "tốt"
+    },
+    {
+      "jp": "わるい",
+      "kanji": "悪い",
+      "vn": "xấu"
+    },
+    {
+      "jp": "あつい",
+      "kanji": "暑い, 熱い",
+      "vn": "nóng"
+    },
+    {
+      "jp": "さむい",
+      "kanji": "寒い",
+      "vn": "lạnh, rét (dùng cho thời tiết)"
+    },
+    {
+      "jp": "つめたい",
+      "kanji": "冷たい",
+      "vn": "lạnh, buốt (dùng cho cảm giác)"
+    },
+    {
+      "jp": "むずかしい",
+      "kanji": "難しい",
+      "vn": "khó"
+    },
+    {
+      "jp": "やさしい",
+      "kanji": "易しい",
+      "vn": "dễ"
+    },
+    {
+      "jp": "たかい",
+      "kanji": "高い",
+      "vn": "đắt, cao"
+    },
+    {
+      "jp": "やすい",
+      "kanji": "安い",
+      "vn": "rẻ"
+    },
+    {
+      "jp": "ひくい",
+      "kanji": "低い",
+      "vn": "thấp"
+    },
+    {
+      "jp": "おもしろい",
+      "vn": "thú vị, hay"
+    },
+    {
+      "jp": "おいしい",
+      "vn": "ngon"
+    },
+    {
+      "jp": "いそがしい",
+      "kanji": "忙しい",
+      "vn": "bận"
+    },
+    {
+      "jp": "たのしい",
+      "kanji": "楽しい",
+      "vn": "LẠC, NHẠC"
+    },
+    {
+      "jp": "しろい",
+      "kanji": "白い",
+      "vn": "trắng"
+    },
+    {
+      "jp": "くろい",
+      "kanji": "黒い",
+      "vn": "đen"
+    },
+    {
+      "jp": "あかい",
+      "kanji": "赤い",
+      "vn": "đỏ"
+    },
+    {
+      "jp": "あおい",
+      "kanji": "青い",
+      "vn": "xanh da trời"
+    },
+    {
+      "jp": "さくら",
+      "kanji": "桜",
+      "vn": "anh đào (hoa, cây)"
+    },
+    {
+      "jp": "やま",
+      "kanji": "山",
+      "vn": "núi"
+    },
+    {
+      "jp": "まち",
+      "kanji": "町",
+      "vn": "thị trấn, thị xã, thành phố"
+    },
+    {
+      "jp": "たべもの",
+      "kanji": "食べ物",
+      "vn": "đồ ăn"
+    },
+    {
+      "jp": "くるま",
+      "kanji": "車",
+      "vn": "xe ô tô"
+    },
+    {
+      "jp": "ところ",
+      "kanji": "所",
+      "vn": "nơi, chỗ"
+    },
+    {
+      "jp": "りょう",
+      "kanji": "寮",
+      "vn": "kí túc xá"
+    },
+    {
+      "jp": "べんきょう",
+      "kanji": "勉強",
+      "vn": "học"
+    },
+    {
+      "jp": "せいかつ",
+      "kanji": "生活",
+      "vn": "cuộc sống, sinh hoạt"
+    },
+    {
+      "jp": "[お]しごと",
+      "kanji": "[お]仕事",
+      "vn": "công việc (～をします：làm việc)"
+    },
+    {
+      "jp": "どう",
+      "vn": "thế nào"
+    },
+    {
+      "jp": "どんな～",
+      "vn": "~ như thế nào"
+    },
+    {
+      "jp": "どれ",
+      "vn": "cái nào"
+    },
+    {
+      "jp": "とても",
+      "vn": "rất, lắm"
+    },
+    {
+      "jp": "あまり",
+      "vn": "không ~ lắm"
+    },
+    {
+      "jp": "そして",
+      "vn": "và, thêm nữa (dùng để nối 2 câu)"
+    },
+    {
+      "jp": "～が、～",
+      "vn": "~, nhưng ~"
+    },
+    {
+      "jp": "おげんきですか。",
+      "kanji": "お元気ですか。",
+      "vn": "Anh/chị có khỏe không?"
+    },
+    {
+      "jp": "そうですね。",
+      "vn": "Thế à. Như vậy nhỉ"
+    },
+    {
+      "jp": "にほんのせいかつに なれましたか",
+      "vn": "Anh/Chị đã quen với cuộc sống ở Nhật chưa?"
+    },
+    {
+      "jp": "[～、]もういっぱいいかがですか。",
+      "vn": "Anh/ chị dùng thêm một chén [~] nữa được không ạ?"
+    },
+    {
+      "jp": "いいえ、けっこうです。",
+      "vn": "Không, đủ rồi ạ."
+    },
+    {
+      "jp": "もう～です[ね]。",
+      "vn": "Đã ~ rồi nhỉ./ Đã ~ rồi, đúng không ạ?"
+    },
+    {
+      "jp": "そろそろしつれいします。",
+      "vn": "Sắp đến lúc tôi phải xin phép rồi."
+    },
+    {
+      "jp": "また いらっしゃってください。",
+      "vn": "Lần sau anh/ chị lại đến chơi nhé."
+    },
+    {
+      "jp": "ふじさん",
+      "kanji": "富士山",
+      "vn": "Núi Phú Sĩ (ngọn núi cao nhất Nhật Bản)"
+    },
+    {
+      "jp": "びわこ",
+      "kanji": "琵琶湖",
+      "vn": "Hồ Biwa"
+    },
+    {
+      "jp": "シャンハイ",
+      "kanji": "上海",
+      "vn": "Thượng Hải"
+    },
+    {
+      "jp": "しちにんのさむらい",
+      "kanji": "七人の侍",
+      "vn": "bảy chàng võ sĩ Samurai"
+    },
+    {
+      "jp": "きんかくじ",
+      "kanji": "金閣寺",
+      "vn": "Chùa Kinkaku-ji (chùa vàng)"
+    }
+  ],
+  "9": [
+    {
+      "jp": "わかります",
+      "vn": "hiểu, nắm được"
+    },
+    {
+      "jp": "あります",
+      "vn": "có (sở hữu)"
+    },
+    {
+      "jp": "すき[な]",
+      "kanji": "好き[な]",
+      "vn": "thích"
+    },
+    {
+      "jp": "きらい[な]",
+      "kanji": "嫌い[な]",
+      "vn": "ghét, không thích"
+    },
+    {
+      "jp": "じょうず[な]",
+      "kanji": "上手[な]",
+      "vn": "giỏi, khéo"
+    },
+    {
+      "jp": "へた[な]",
+      "kanji": "下手[な]",
+      "vn": "kém"
+    },
+    {
+      "jp": "りょうり",
+      "kanji": "料理",
+      "vn": "món ăn, việc nấu ăn"
+    },
+    {
+      "jp": "のみもの",
+      "kanji": "飲み物",
+      "vn": "đồ uống"
+    },
+    {
+      "jp": "スポーツ",
+      "vn": "thể thao (～をします：chơi thể thao)"
+    },
+    {
+      "jp": "やきゅう",
+      "kanji": "野球",
+      "vn": "bóng chày (～をします：chơi bóng chày)"
+    },
+    {
+      "jp": "ダンス",
+      "vn": "nhảy, khiêu vũ(～をします：nhảy, khiêu vũ)"
+    },
+    {
+      "jp": "おんがく",
+      "kanji": "音楽",
+      "vn": "âm nhạc"
+    },
+    {
+      "jp": "うた",
+      "kanji": "歌",
+      "vn": "bài hát"
+    },
+    {
+      "jp": "クラシック",
+      "vn": "nhạc cổ điển"
+    },
+    {
+      "jp": "ジャズ",
+      "vn": "nhạc jazz"
+    },
+    {
+      "jp": "コンサート",
+      "vn": "buổi hòa nhạc"
+    },
+    {
+      "jp": "カラオケ",
+      "vn": "karaoke"
+    },
+    {
+      "jp": "かぶき",
+      "kanji": "歌舞伎",
+      "vn": "Kabuki (một loại ca kịch truyền thống của Nhật)"
+    },
+    {
+      "jp": "え",
+      "kanji": "絵",
+      "vn": "tranh, hội họa"
+    },
+    {
+      "jp": "じ",
+      "kanji": "字",
+      "vn": "chữ"
+    },
+    {
+      "jp": "かんじ",
+      "kanji": "漢字",
+      "vn": "chữ hán"
+    },
+    {
+      "jp": "ひらがな",
+      "vn": "chữ Hiragana"
+    },
+    {
+      "jp": "かたかな",
+      "vn": "Chữ Katakana"
+    },
+    {
+      "jp": "ローマじ",
+      "kanji": "ローマ字",
+      "vn": "chữ La Mã"
+    },
+    {
+      "jp": "こまかいおかね",
+      "kanji": "細かいお金",
+      "vn": "tiền lẻ"
+    },
+    {
+      "jp": "チケット",
+      "vn": "vé (xem hòa nhạc, xem phim)"
+    },
+    {
+      "jp": "じかん",
+      "kanji": "時間",
+      "vn": "thời gian"
+    },
+    {
+      "jp": "ようじ",
+      "kanji": "用事",
+      "vn": "việc bận, công chuyện"
+    },
+    {
+      "jp": "やくそく",
+      "kanji": "約束",
+      "vn": "cuộc hẹn, lời hứa"
+    },
+    {
+      "jp": "ごしゅじん",
+      "kanji": "ご主人",
+      "vn": "chồng (dùng khi nói về chồng người khác)"
+    },
+    {
+      "jp": "おっと/しゅじん",
+      "kanji": "夫 /主人",
+      "vn": "chồng (dùng khi nói về chồng mình)"
+    },
+    {
+      "jp": "おくさん",
+      "kanji": "奥さん",
+      "vn": "vợ (dùng khi nói về vợ người khác)"
+    },
+    {
+      "jp": "つま/かない",
+      "kanji": "妻/家内",
+      "vn": "vợ (dùng khi nói về vợ mình)"
+    },
+    {
+      "jp": "こども",
+      "kanji": "子ども",
+      "vn": "con cái"
+    },
+    {
+      "jp": "よく",
+      "vn": "tốt, rõ (chỉ mức độ)"
+    },
+    {
+      "jp": "だいたい",
+      "vn": "đại khái, đại thể"
+    },
+    {
+      "jp": "たくさん",
+      "vn": "nhiều"
+    },
+    {
+      "jp": "すこし",
+      "kanji": "少し",
+      "vn": "ít, một ít"
+    },
+    {
+      "jp": "ぜんぜん",
+      "kanji": "全然",
+      "vn": "hoàn toàn ~ không"
+    },
+    {
+      "jp": "はやく",
+      "kanji": "早く, 速く",
+      "vn": "sớm, nhanh"
+    },
+    {
+      "jp": "～から",
+      "vn": "~ từ"
+    },
+    {
+      "jp": "どうして",
+      "vn": "tại sao"
+    },
+    {
+      "jp": "ざんねんです[ね]。",
+      "kanji": "残念です[ね]。",
+      "vn": "Thật đáng tiếc nhỉ./ buồn nhỉ."
+    },
+    {
+      "jp": "すみません。",
+      "vn": "Xin lỗi."
+    },
+    {
+      "jp": "もしもし",
+      "vn": "a-lô"
+    },
+    {
+      "jp": "ああ",
+      "vn": "a (cách nói khi đã gặp được đúng người trên điện thoại)"
+    },
+    {
+      "jp": "いっしょにいかがですか。",
+      "vn": "Anh/chị cùng ~ (làm cái gì đó) với chúng tôi được không?"
+    },
+    {
+      "jp": "[～は]ちょっと…。",
+      "vn": "[~ thì] có lẽ không được rồi."
+    },
+    {
+      "jp": "だめですか。",
+      "vn": "Không được à?"
+    },
+    {
+      "jp": "またこんどおねがいします",
+      "kanji": "また今度お願いします",
+      "vn": "Hẹn Anh/Chị lần sau vậy."
+    },
+    {
+      "jp": "おざわせいじ",
+      "kanji": "小沢征爾",
+      "vn": "TIỂU TRẠCH CHINH NHĨ"
+    }
+  ],
+  "10": [
+    {
+      "jp": "います",
+      "vn": "có, ở (tồn tại, dùng cho người và động vật)"
+    },
+    {
+      "jp": "あります",
+      "vn": "có (tồn tại, dùng cho đồ vật)"
+    },
+    {
+      "jp": "いろいろ[な]",
+      "vn": "nhiều, đa dạng"
+    },
+    {
+      "jp": "おとこのひと",
+      "kanji": "男の人",
+      "vn": "người đàn ông"
+    },
+    {
+      "jp": "おんなのひと",
+      "kanji": "女の人",
+      "vn": "người đàn bà"
+    },
+    {
+      "jp": "おとこのこ",
+      "kanji": "男の子",
+      "vn": "cậu con trai"
+    },
+    {
+      "jp": "おんなのこ",
+      "kanji": "女の子",
+      "vn": "cô con gái"
+    },
+    {
+      "jp": "いぬ",
+      "kanji": "犬",
+      "vn": "chó"
+    },
+    {
+      "jp": "ねこ",
+      "kanji": "猫",
+      "vn": "mèo"
+    },
+    {
+      "jp": "き",
+      "kanji": "木",
+      "vn": "cây, gỗ"
+    },
+    {
+      "jp": "もの",
+      "kanji": "物",
+      "vn": "vật, đồ vật"
+    },
+    {
+      "jp": "フィルム",
+      "vn": "phim"
+    },
+    {
+      "jp": "でんち",
+      "kanji": "電池",
+      "vn": "ĐIỆN TRÌ"
+    },
+    {
+      "jp": "はこ",
+      "kanji": "箱",
+      "vn": "hộp"
+    },
+    {
+      "jp": "スイッチ",
+      "vn": "công tắc"
+    },
+    {
+      "jp": "れいぞうこ",
+      "kanji": "冷蔵庫",
+      "vn": "tủ lạnh"
+    },
+    {
+      "jp": "テーブル",
+      "vn": "bàn"
+    },
+    {
+      "jp": "ベッド",
+      "vn": "giường"
+    },
+    {
+      "jp": "たな",
+      "kanji": "棚",
+      "vn": "giá sách"
+    },
+    {
+      "jp": "ドア",
+      "vn": "cửa"
+    },
+    {
+      "jp": "まど",
+      "kanji": "窓",
+      "vn": "cửa sổ"
+    },
+    {
+      "jp": "ポスト",
+      "vn": "hộp thư, hòm thư"
+    },
+    {
+      "jp": "ビル",
+      "vn": "toà nhà"
+    },
+    {
+      "jp": "こうえん",
+      "kanji": "公園",
+      "vn": "công viên"
+    },
+    {
+      "jp": "きっさてん",
+      "kanji": "喫茶店",
+      "vn": "quán giải khát, quán cà-phê"
+    },
+    {
+      "jp": "ほんや",
+      "kanji": "本屋",
+      "vn": "hiệu sách"
+    },
+    {
+      "jp": "～や",
+      "kanji": "～屋",
+      "vn": "hiệu ~, cửa hàng ~"
+    },
+    {
+      "jp": "のりば",
+      "kanji": "乗り場",
+      "vn": "bến xe, điểm lên xuống xe"
+    },
+    {
+      "jp": "けん",
+      "kanji": "県",
+      "vn": "tỉnh"
+    },
+    {
+      "jp": "うえ",
+      "kanji": "上",
+      "vn": "trên"
+    },
+    {
+      "jp": "した",
+      "kanji": "下",
+      "vn": "dưới"
+    },
+    {
+      "jp": "まえ",
+      "kanji": "前",
+      "vn": "trước"
+    },
+    {
+      "jp": "うしろ",
+      "vn": "sau"
+    },
+    {
+      "jp": "みぎ",
+      "kanji": "右",
+      "vn": "phải"
+    },
+    {
+      "jp": "ひだり",
+      "kanji": "左",
+      "vn": "trái"
+    },
+    {
+      "jp": "なか",
+      "kanji": "中",
+      "vn": "trong, giữa"
+    },
+    {
+      "jp": "そと",
+      "kanji": "外",
+      "vn": "ngoài"
+    },
+    {
+      "jp": "となり",
+      "kanji": "隣",
+      "vn": "bên cạnh"
+    },
+    {
+      "jp": "ちかく",
+      "kanji": "近く",
+      "vn": "gần"
+    },
+    {
+      "jp": "あいだ",
+      "kanji": "間",
+      "vn": "giữa"
+    },
+    {
+      "jp": "～や～[など] ~",
+      "vn": "~và ~, [v.v.]"
+    },
+    {
+      "jp": "いちばん～",
+      "vn": "~ nhất (いちばん うえ：vị trí cao nhất)"
+    },
+    {
+      "jp": "―だんめ",
+      "kanji": "―段目",
+      "vn": "giá thứ -, tầng thứ"
+    },
+    {
+      "jp": "[どうも]すみません。",
+      "vn": "Cám ơn"
+    },
+    {
+      "jp": "チリソース",
+      "vn": "tương ớt (chili sauce)"
+    },
+    {
+      "jp": "おく",
+      "kanji": "奥",
+      "vn": "bên trong cùng, phía sâu bên trong"
+    },
+    {
+      "jp": "スパイス・コーナー",
+      "vn": "góc gia vị (sprice corner)"
+    },
+    {
+      "jp": "東京ディズニーランド",
+      "kanji": "東京ディズニーランド",
+      "vn": "Công viên Tokyo Disneyland"
+    },
+    {
+      "jp": "ユニューヤ・ストア",
+      "vn": "tên một siêu thị (giả tưởng)"
+    }
+  ],
+  "11": [
+    {
+      "jp": "[こどもが～] います",
+      "kanji": "[子供が～]",
+      "vn": "có [con]"
+    },
+    {
+      "jp": "[にほんに～] います",
+      "kanji": "[日本に～]",
+      "vn": "ở [Nhật]"
+    },
+    {
+      "jp": "かかります",
+      "vn": "mất, tốn (thời gian, tiền bạc)"
+    },
+    {
+      "jp": "[かいしゃを～] やすみます",
+      "kanji": "[会社を～]休みます",
+      "vn": "nghỉ [làm việc]"
+    },
+    {
+      "jp": "ひとつ",
+      "vn": "một cái (dùng để đếm đồ vật)"
+    },
+    {
+      "jp": "ふたつ",
+      "vn": "hai cái"
+    },
+    {
+      "jp": "みっつ",
+      "vn": "ba cái"
+    },
+    {
+      "jp": "よっつ",
+      "vn": "bốn cái"
+    },
+    {
+      "jp": "いつつ",
+      "vn": "năm cái"
+    },
+    {
+      "jp": "むっつ",
+      "vn": "sáu cái"
+    },
+    {
+      "jp": "ななつ",
+      "vn": "bảy cái"
+    },
+    {
+      "jp": "やっつ",
+      "vn": "tám cái"
+    },
+    {
+      "jp": "ここのつ",
+      "vn": "chín cái"
+    },
+    {
+      "jp": "とお",
+      "vn": "mười cái"
+    },
+    {
+      "jp": "いくつ",
+      "vn": "mấy cái, bao nhiêu cái"
+    },
+    {
+      "jp": "ひとり",
+      "kanji": "１人",
+      "vn": "một người"
+    },
+    {
+      "jp": "ふたり",
+      "kanji": "２人",
+      "vn": "hai người"
+    },
+    {
+      "jp": "―にん",
+      "kanji": "－人",
+      "vn": "- người"
+    },
+    {
+      "jp": "―だい",
+      "kanji": "－台",
+      "vn": "- cái (dùng để đếm máy móc, xe cộ v.v.)"
+    },
+    {
+      "jp": "―まい",
+      "kanji": "－枚",
+      "vn": "- tờ, tấm"
+    },
+    {
+      "jp": "―かい",
+      "kanji": "―回",
+      "vn": "- lần"
+    },
+    {
+      "jp": "りんご",
+      "vn": "táo"
+    },
+    {
+      "jp": "みかん",
+      "vn": "quýt"
+    },
+    {
+      "jp": "サンドイッチ",
+      "vn": "bánh San Uých"
+    },
+    {
+      "jp": "カレー[ライス]",
+      "vn": "món [cơm] ca-ri"
+    },
+    {
+      "jp": "アイスクリーム",
+      "vn": "kem"
+    },
+    {
+      "jp": "きって",
+      "kanji": "切手",
+      "vn": "THIẾT THỦ"
+    },
+    {
+      "jp": "はがき",
+      "vn": "bưu thiếp"
+    },
+    {
+      "jp": "ふうとう",
+      "kanji": "封筒",
+      "vn": "phong bì"
+    },
+    {
+      "jp": "そくたつ",
+      "kanji": "速達",
+      "vn": "(bưu phẩm) gửi nhanh"
+    },
+    {
+      "jp": "かきとめ",
+      "kanji": "書留",
+      "vn": "(bưu phẩm) gửi bảo đảm"
+    },
+    {
+      "jp": "エアメール",
+      "vn": "(Air Mail) thư chuyển bằng đường hàng khô"
+    },
+    {
+      "jp": "こうくうびん",
+      "kanji": "航空便",
+      "vn": "gửi bằng đường hàng không"
+    },
+    {
+      "jp": "ふなびん",
+      "kanji": "船便",
+      "vn": "gửi bằng đường biển"
+    },
+    {
+      "jp": "りょうしん",
+      "kanji": "両親",
+      "vn": "bố mẹ"
+    },
+    {
+      "jp": "きょうだい",
+      "kanji": "兄弟",
+      "vn": "anh chị em"
+    },
+    {
+      "jp": "あに",
+      "kanji": "兄",
+      "vn": "anh trai"
+    },
+    {
+      "jp": "おにいさん",
+      "kanji": "お兄さん",
+      "vn": "anh trai (dùng cho người khác)"
+    },
+    {
+      "jp": "あね",
+      "kanji": "姉",
+      "vn": "chị gái"
+    },
+    {
+      "jp": "おねえさん",
+      "kanji": "お姉さん",
+      "vn": "chị gái (dùng cho người khác)"
+    },
+    {
+      "jp": "おとうと",
+      "kanji": "弟",
+      "vn": "ĐỆ"
+    },
+    {
+      "jp": "おとうとさん",
+      "kanji": "弟さん",
+      "vn": "em trai (dùng cho người khác)"
+    },
+    {
+      "jp": "いもうと",
+      "kanji": "妹",
+      "vn": "em gái"
+    },
+    {
+      "jp": "いもうとさん",
+      "kanji": "妹さん",
+      "vn": "em gái (dùng cho người khác)"
+    },
+    {
+      "jp": "がいこく",
+      "kanji": "外国",
+      "vn": "nước ngoài"
+    },
+    {
+      "jp": "―じかん",
+      "kanji": "―時間",
+      "vn": "- tiếng"
+    },
+    {
+      "jp": "―しゅうかん",
+      "kanji": "―週間",
+      "vn": "- tuần"
+    },
+    {
+      "jp": "―かげつ",
+      "kanji": "－か月",
+      "vn": "- tháng"
+    },
+    {
+      "jp": "―ねん",
+      "kanji": "―年",
+      "vn": "- năm"
+    },
+    {
+      "jp": "～ぐらい",
+      "vn": "khoảng ~"
+    },
+    {
+      "jp": "どのくらい",
+      "vn": "bao lâu"
+    },
+    {
+      "jp": "ぜんぶで",
+      "kanji": "全部で",
+      "vn": "tổng cộng"
+    },
+    {
+      "jp": "みんな",
+      "vn": "tất cả"
+    },
+    {
+      "jp": "～だけ",
+      "vn": "chỉ ~"
+    },
+    {
+      "jp": "いらっしゃいませ。",
+      "vn": "Xin mời vào./ xin chào quý khách."
+    },
+    {
+      "jp": "いい[お]てんきですね。",
+      "kanji": "いい[お]天気ですね。",
+      "vn": "Trời đẹp nhỉ."
+    },
+    {
+      "jp": "おでかけですか。",
+      "kanji": "お出かけですか。",
+      "vn": "Anh/ chị đi ra ngoài đấy à?"
+    },
+    {
+      "jp": "ちょっと～まで。",
+      "vn": "Tôi đi ~ một chút."
+    },
+    {
+      "jp": "いっていらっしゃい。",
+      "kanji": "行っていらっしゃい。",
+      "vn": "Anh/chị đi nhé."
+    },
+    {
+      "jp": "いってまいります",
+      "kanji": "行ってまいります。",
+      "vn": "Tôi đi đây. (nguyên nghĩa: tôi đi rồi sẽ về.)"
+    },
+    {
+      "jp": "それから",
+      "vn": "sau đó, tiếp theo"
+    },
+    {
+      "jp": "オーストラリア",
+      "vn": "Úc"
+    }
+  ],
+  "12": [
+    {
+      "jp": "かんたん「な」",
+      "kanji": "簡単「な」",
+      "vn": "đơn giản, dễ"
+    },
+    {
+      "jp": "ちかい",
+      "kanji": "近い",
+      "vn": "gần"
+    },
+    {
+      "jp": "とおい",
+      "kanji": "遠い",
+      "vn": "VIỄN"
+    },
+    {
+      "jp": "はやい",
+      "kanji": "速い, 早い",
+      "vn": "nhanh, sớm"
+    },
+    {
+      "jp": "おそい",
+      "kanji": "遅い",
+      "vn": "chậm, muộn"
+    },
+    {
+      "jp": "[ひとが～] おおい",
+      "kanji": "[人が～]多い",
+      "vn": "nhiều [người]"
+    },
+    {
+      "jp": "[ひとが～]すくない",
+      "kanji": "[人が～]少ない",
+      "vn": "ít [người]"
+    },
+    {
+      "jp": "あたたかい",
+      "kanji": "温かい,暖かい",
+      "vn": "ấm"
+    },
+    {
+      "jp": "すずしい",
+      "kanji": "涼しい",
+      "vn": "mát"
+    },
+    {
+      "jp": "あまい",
+      "kanji": "甘い",
+      "vn": "ngọt"
+    },
+    {
+      "jp": "からい",
+      "kanji": "辛い",
+      "vn": "TÂN"
+    },
+    {
+      "jp": "おもい",
+      "kanji": "重い",
+      "vn": "nặng"
+    },
+    {
+      "jp": "かるい",
+      "kanji": "軽い",
+      "vn": "nhẹ"
+    },
+    {
+      "jp": "[コーヒーが～]いい",
+      "vn": "thích, chọn, dùng [cafe]"
+    },
+    {
+      "jp": "きせつ",
+      "kanji": "季節",
+      "vn": "mùa"
+    },
+    {
+      "jp": "はる",
+      "kanji": "春",
+      "vn": "mùa xuân"
+    },
+    {
+      "jp": "なつ",
+      "kanji": "夏",
+      "vn": "mùa hè"
+    },
+    {
+      "jp": "あき",
+      "kanji": "秋",
+      "vn": "mùa thu"
+    },
+    {
+      "jp": "ふゆ",
+      "kanji": "冬",
+      "vn": "mùa đông"
+    },
+    {
+      "jp": "てんき",
+      "kanji": "天気",
+      "vn": "thời tiết"
+    },
+    {
+      "jp": "あめ",
+      "kanji": "雨",
+      "vn": "mưa"
+    },
+    {
+      "jp": "ゆき",
+      "kanji": "雪",
+      "vn": "tuyết"
+    },
+    {
+      "jp": "くもり",
+      "kanji": "曇り",
+      "vn": "có mây"
+    },
+    {
+      "jp": "ホテル",
+      "vn": "khách sạn"
+    },
+    {
+      "jp": "くうこう",
+      "kanji": "空港",
+      "vn": "sân bay"
+    },
+    {
+      "jp": "うみ",
+      "kanji": "海",
+      "vn": "biển, đại dương"
+    },
+    {
+      "jp": "せかい",
+      "kanji": "世界",
+      "vn": "thế giới"
+    },
+    {
+      "jp": "パーティー",
+      "vn": "tiệc (~をします：tổ chức tiệc)"
+    },
+    {
+      "jp": "「お」まつり",
+      "kanji": "「お」祭り",
+      "vn": "lễ hội"
+    },
+    {
+      "jp": "しけん",
+      "kanji": "試験",
+      "vn": "kỳ thi, bài thi"
+    },
+    {
+      "jp": "すきやき",
+      "kanji": "すき焼き",
+      "vn": "Sukiyaki (món thịt bò nấu rau)"
+    },
+    {
+      "jp": "さしみ",
+      "kanji": "刺身",
+      "vn": "Sashimi (món gỏi cá sống)"
+    },
+    {
+      "jp": "「お」すし",
+      "vn": "Sushi"
+    },
+    {
+      "jp": "てんぷら",
+      "vn": "Tempura (món hải sản và rau chiên tẩm bột)"
+    },
+    {
+      "jp": "いけばな",
+      "kanji": "生け花",
+      "vn": "Nghệ thuật cắm hoa (～をします：cắm hoa)"
+    },
+    {
+      "jp": "もみじ",
+      "kanji": "紅葉",
+      "vn": "lá đỏ"
+    },
+    {
+      "jp": "どちら",
+      "vn": "phía nào, đằng nào, chỗ nào, đâu"
+    },
+    {
+      "jp": "どちらも",
+      "vn": "cả hai"
+    },
+    {
+      "jp": "ずっと",
+      "vn": "(hơn) hẳn"
+    },
+    {
+      "jp": "はじめて",
+      "kanji": "初めて",
+      "vn": "lần đầu tiên"
+    },
+    {
+      "jp": "ただいま。",
+      "vn": "Tôi đã về đây. (dùng nói khi về đến nhà)"
+    },
+    {
+      "jp": "おかえりなさい。",
+      "kanji": "お帰りなさい。",
+      "vn": "Anh/Chị đã về đấy à."
+    },
+    {
+      "jp": "すごいですね。",
+      "vn": "Ghê quá nhỉ./ hay quá nhỉ."
+    },
+    {
+      "jp": "でも",
+      "vn": "Nhưng"
+    },
+    {
+      "jp": "つかれました。",
+      "kanji": "疲れました。",
+      "vn": "Tôi mệt rồi"
+    },
+    {
+      "jp": "ぎおんまつり",
+      "kanji": "祗園祭",
+      "vn": "Lễ hội Gi-ôn (lễ hội nổi tiếng nhất ở Kyoto)"
+    },
+    {
+      "jp": "ホンコン",
+      "kanji": "香港",
+      "vn": "Hồng Kông"
+    },
+    {
+      "jp": "シンガポール",
+      "vn": "Singapore"
+    },
+    {
+      "jp": "まいにちや",
+      "kanji": "毎日屋",
+      "vn": "tên một siêu thị (giả tưởng)"
+    },
+    {
+      "jp": "ＡＣＢストア",
+      "vn": "tên một siêu thị (giả tưởng)"
+    },
+    {
+      "jp": "ジャパン",
+      "vn": "tên một siêu thị (giả tưởng)"
+    }
+  ],
+  "13": [
+    {
+      "jp": "あそびます",
+      "kanji": "遊びます",
+      "vn": "chơi"
+    },
+    {
+      "jp": "およぎます",
+      "kanji": "泳ぎます",
+      "vn": "bơi"
+    },
+    {
+      "jp": "むかえます",
+      "kanji": "迎えます",
+      "vn": "đón"
+    },
+    {
+      "jp": "つかれます",
+      "kanji": "疲れます",
+      "vn": "mệt"
+    },
+    {
+      "jp": "[てがみを～]だします",
+      "kanji": "[手紙を～]出します",
+      "vn": "gửi[thư]"
+    },
+    {
+      "jp": "[きっさてんに～]はいります",
+      "kanji": "[喫茶店に～]入ります",
+      "vn": "vào [quán giải khát]"
+    },
+    {
+      "jp": "[きっさてんを～]でます",
+      "kanji": "[喫茶店を～]出ます",
+      "vn": "ra, ra khỏi [quán giải khát]"
+    },
+    {
+      "jp": "けっこんします",
+      "kanji": "結婚します",
+      "vn": "kết hôn, lập gia đình, cưới"
+    },
+    {
+      "jp": "かいものします",
+      "kanji": "買い物します",
+      "vn": "mua hàng"
+    },
+    {
+      "jp": "しょくじします",
+      "kanji": "食事します",
+      "vn": "ăn cơm"
+    },
+    {
+      "jp": "[こうえんを～]さんぽします",
+      "kanji": "[公園を～]散歩します",
+      "vn": "đi dạo [ở công viên]"
+    },
+    {
+      "jp": "たいへん「な」",
+      "kanji": "大変「な」",
+      "vn": "vất vả, khó khăn, khổ"
+    },
+    {
+      "jp": "ほしい",
+      "kanji": "欲しい",
+      "vn": "muốn có"
+    },
+    {
+      "jp": "さびしい",
+      "kanji": "寂しい",
+      "vn": "buồn, cô đơn"
+    },
+    {
+      "jp": "ひろい",
+      "kanji": "広い",
+      "vn": "rộng"
+    },
+    {
+      "jp": "せまい",
+      "kanji": "狭い",
+      "vn": "chật, hẹp"
+    },
+    {
+      "jp": "しやくしょ",
+      "kanji": "市役所",
+      "vn": "văn phòng hành chính quận, thành phố"
+    },
+    {
+      "jp": "プール",
+      "vn": "bể bơi"
+    },
+    {
+      "jp": "かわ",
+      "kanji": "川",
+      "vn": "sông"
+    },
+    {
+      "jp": "けいざい",
+      "kanji": "経済",
+      "vn": "kinh tế"
+    },
+    {
+      "jp": "びじゅつ",
+      "kanji": "美術",
+      "vn": "mỹ thuật"
+    },
+    {
+      "jp": "つり",
+      "kanji": "釣り",
+      "vn": "việc câu cá (~をします：câu cá)"
+    },
+    {
+      "jp": "スキー",
+      "vn": "việc trượt tuyết (~をします：trượt tuyết)"
+    },
+    {
+      "jp": "かいぎ",
+      "kanji": "会議",
+      "vn": "họp, cuộc họp (~をします: họp, tổ chức cuộc họp)"
+    },
+    {
+      "jp": "とうろく",
+      "kanji": "登録",
+      "vn": "việc đăng ký (~をします：đăng ký)"
+    },
+    {
+      "jp": "しゅうまつ",
+      "kanji": "週末",
+      "vn": "cuối tuần"
+    },
+    {
+      "jp": "～ごろ",
+      "vn": "khoảng ~ (dùng cho thời gian)"
+    },
+    {
+      "jp": "なにか",
+      "kanji": "何か",
+      "vn": "cái gì đó"
+    },
+    {
+      "jp": "どこか",
+      "vn": "đâu đó, chỗ nào đó"
+    },
+    {
+      "jp": "おなかが すきました。",
+      "vn": "(tôi) đói rồi."
+    },
+    {
+      "jp": "おなかが いっぱいです。",
+      "vn": "(tôi) no rồi."
+    },
+    {
+      "jp": "のどが かわきました。",
+      "vn": "(tôi) khát."
+    },
+    {
+      "jp": "そうですね。",
+      "vn": "Thế à. Như vậy nhỉ"
+    },
+    {
+      "jp": "そうしましょう。",
+      "vn": "Nhất trí./ Chúng ta thống nhất như thế."
+    },
+    {
+      "jp": "ごちゅうもん",
+      "kanji": "ご注文は？",
+      "vn": "Anh/Chị dùng món gì ạ"
+    },
+    {
+      "jp": "ていしょく",
+      "vn": "cơm suất, cơm phần"
+    },
+    {
+      "jp": "ぎゅうどん",
+      "kanji": "牛どん",
+      "vn": "món cơm thịt bò"
+    },
+    {
+      "jp": "「しょうしょう」おまちください",
+      "kanji": "[少々] お待ちください。",
+      "vn": "Xin anh/chị vui lòng đợi [một chút]."
+    },
+    {
+      "jp": "べつべつに",
+      "kanji": "別々に",
+      "vn": "riêng ra/ để riêng"
+    },
+    {
+      "jp": "ロシア",
+      "vn": "Nga"
+    },
+    {
+      "jp": "つるや",
+      "vn": "tên một nhà hàng (giả tưởng)"
+    },
+    {
+      "jp": "おはようテレビ",
+      "vn": "tên một chương trình truyền hình (giả tưởng)"
+    }
+  ],
+  "14": [
+    {
+      "jp": "つけます",
+      "vn": "bật (điện, máy điều hòa)"
+    },
+    {
+      "jp": "けします",
+      "kanji": "消します",
+      "vn": "tắt (điện, máy điều hòa)"
+    },
+    {
+      "jp": "あけます",
+      "kanji": "開けます",
+      "vn": "mở (cửa, cửa sổ)"
+    },
+    {
+      "jp": "しめます",
+      "kanji": "閉めます",
+      "vn": "đóng (cửa, cửa sổ)"
+    },
+    {
+      "jp": "いそぎます",
+      "kanji": "急ぎます",
+      "vn": "vội, gấp"
+    },
+    {
+      "jp": "まちます",
+      "kanji": "待ちます",
+      "vn": "đợi, chờ"
+    },
+    {
+      "jp": "とめます",
+      "kanji": "止めます",
+      "vn": "dừng (băng, ôt ô), đỗ (ôtô)"
+    },
+    {
+      "jp": "[みぎへ～] まがります",
+      "kanji": "[右へ～]曲がります",
+      "vn": "rẽ, quẹo [phải]"
+    },
+    {
+      "jp": "もちます",
+      "kanji": "持ちます",
+      "vn": "mang, cầm"
+    },
+    {
+      "jp": "とります",
+      "kanji": "取ります",
+      "vn": "lấy (muối)"
+    },
+    {
+      "jp": "てつだいます",
+      "kanji": "手伝います",
+      "vn": "giúp (làm việc)"
+    },
+    {
+      "jp": "よびます",
+      "kanji": "呼びます",
+      "vn": "gọi (taxi, tên)"
+    },
+    {
+      "jp": "はなします",
+      "kanji": "話します",
+      "vn": "nói, nói chuyện"
+    },
+    {
+      "jp": "みせます",
+      "kanji": "見せます",
+      "vn": "cho xem, trình"
+    },
+    {
+      "jp": "[じゅうしょを～]おしえます",
+      "kanji": "[住所を～]教えます",
+      "vn": "nói, cho biết [địa chỉ]"
+    },
+    {
+      "jp": "はじめます",
+      "kanji": "始めます",
+      "vn": "bắt đầu"
+    },
+    {
+      "jp": "[あめが～] ふります",
+      "kanji": "[雨が～]降ります",
+      "vn": "rơi [mưa, tuyết~]"
+    },
+    {
+      "jp": "コピーします",
+      "vn": "copy"
+    },
+    {
+      "jp": "エアコン",
+      "vn": "máy điều hòa"
+    },
+    {
+      "jp": "パスポート",
+      "vn": "hộ chiếu"
+    },
+    {
+      "jp": "なまえ",
+      "kanji": "名前",
+      "vn": "tên"
+    },
+    {
+      "jp": "じゅうしょ",
+      "kanji": "住所",
+      "vn": "địa chỉ"
+    },
+    {
+      "jp": "ちず",
+      "kanji": "地図",
+      "vn": "bản đồ"
+    },
+    {
+      "jp": "しお",
+      "kanji": "塩",
+      "vn": "muối"
+    },
+    {
+      "jp": "さとう",
+      "kanji": "砂糖",
+      "vn": "đường"
+    },
+    {
+      "jp": "よみかた",
+      "kanji": "読み方",
+      "vn": "cách đọc"
+    },
+    {
+      "jp": "～かた",
+      "kanji": "～方",
+      "vn": "cách ~"
+    },
+    {
+      "jp": "ゆっくり",
+      "vn": "chậm, thong thả, thoải mái"
+    },
+    {
+      "jp": "すぐ",
+      "vn": "ngay, lập tức"
+    },
+    {
+      "jp": "また",
+      "vn": "lại (~đến)"
+    },
+    {
+      "jp": "あとで",
+      "vn": "sau"
+    },
+    {
+      "jp": "もう すこし",
+      "kanji": "もう少し",
+      "vn": "thêm một chút nữa thôi"
+    },
+    {
+      "jp": "もう～",
+      "vn": "thêm~"
+    },
+    {
+      "jp": "いいですよ。",
+      "vn": "Được chứ./được ạ."
+    },
+    {
+      "jp": "さあ",
+      "vn": "thôi,/nào"
+    },
+    {
+      "jp": "あれ？",
+      "vn": "Ô!"
+    },
+    {
+      "jp": "しんごうをみぎへまがってください",
+      "kanji": "信号を右へ曲がってください",
+      "vn": "Anh/ Chị rẽ phải ở chổ đèn tín hiệu."
+    },
+    {
+      "jp": "まっすぐ",
+      "vn": "thẳng"
+    },
+    {
+      "jp": "これでおねがいします。",
+      "kanji": "これでお願いします。",
+      "vn": "Gởi anh tiền này."
+    },
+    {
+      "jp": "おつり",
+      "kanji": "お釣り",
+      "vn": "tiền lẻ"
+    },
+    {
+      "jp": "うめだ",
+      "kanji": "梅田",
+      "vn": "tên một địa phương ở Osaka"
+    }
+  ],
+  "15": [
+    {
+      "jp": "たちます",
+      "kanji": "立ちます",
+      "vn": "đứng"
+    },
+    {
+      "jp": "すわります",
+      "kanji": "座ります",
+      "vn": "ngồi"
+    },
+    {
+      "jp": "つかいます",
+      "kanji": "使います",
+      "vn": "dùng, sử dụng"
+    },
+    {
+      "jp": "おきます",
+      "kanji": "置きます",
+      "vn": "dậy, thức dậy"
+    },
+    {
+      "jp": "つくります",
+      "kanji": "作ります, 造ります",
+      "vn": "làm, chế tạo, sản xuất"
+    },
+    {
+      "jp": "うります",
+      "kanji": "売ります",
+      "vn": "bán"
+    },
+    {
+      "jp": "しります",
+      "kanji": "知ります",
+      "vn": "biết"
+    },
+    {
+      "jp": "すみます",
+      "kanji": "住みます",
+      "vn": "sống, ở"
+    },
+    {
+      "jp": "けんきゅうします",
+      "kanji": "研究します",
+      "vn": "nghiên cứu"
+    },
+    {
+      "jp": "しって います",
+      "kanji": "知って います",
+      "vn": "biết"
+    },
+    {
+      "jp": "[おおさかに～]すんで います",
+      "kanji": "[大阪に～]住んで います",
+      "vn": "sống [ở Osaka]"
+    },
+    {
+      "jp": "しりょう",
+      "kanji": "資料",
+      "vn": "tài liệu, tư liệu"
+    },
+    {
+      "jp": "カタログ",
+      "vn": "ca-ta-lô"
+    },
+    {
+      "jp": "じこくひょう",
+      "kanji": "時刻表",
+      "vn": "bảng giờ tàu chạy"
+    },
+    {
+      "jp": "ふく",
+      "kanji": "服",
+      "vn": "quần áo"
+    },
+    {
+      "jp": "せいひん",
+      "kanji": "製品",
+      "vn": "sản phẩm"
+    },
+    {
+      "jp": "ソフト",
+      "vn": "phần mềm"
+    },
+    {
+      "jp": "せんもん",
+      "kanji": "専門",
+      "vn": "chuyên môn"
+    },
+    {
+      "jp": "はいしゃ",
+      "kanji": "歯医者",
+      "vn": "nha sĩ"
+    },
+    {
+      "jp": "とこや",
+      "kanji": "床屋",
+      "vn": "hiệu cắt tóc"
+    },
+    {
+      "jp": "プレイガイド",
+      "vn": "quầy bán vé (trong nhà hát)"
+    },
+    {
+      "jp": "どくしん",
+      "kanji": "独身",
+      "vn": "độc thân"
+    },
+    {
+      "jp": "とくに",
+      "kanji": "特に",
+      "vn": "đặc biệt"
+    },
+    {
+      "jp": "おもいだします",
+      "kanji": "思い出します",
+      "vn": "nhớ lại, hồi tưởng"
+    },
+    {
+      "jp": "ごかぞく",
+      "kanji": "ご家族",
+      "vn": "gia đình (dùng cho người khác)"
+    },
+    {
+      "jp": "いらっしゃいます",
+      "vn": "thể kính trọng của 「います」"
+    },
+    {
+      "jp": "こうこう",
+      "kanji": "高校",
+      "vn": "trường trung học phổ thông"
+    },
+    {
+      "jp": "にっぽんばし",
+      "kanji": "日本橋",
+      "vn": "tên một khu phố buôn bán ở Osaka"
+    }
+  ],
+  "16": [
+    {
+      "jp": "[でんしゃに～] のります",
+      "kanji": "[電車に～]乗ります",
+      "vn": "đi, lên [tàu]"
+    },
+    {
+      "jp": "[でんしゃを～]おります",
+      "kanji": "[電車を～]降ります",
+      "vn": "xuống [tàu]"
+    },
+    {
+      "jp": "のりかえます",
+      "kanji": "乗り換えます",
+      "vn": "chuyển, đổi (tàu)"
+    },
+    {
+      "jp": "[シャワーを～]あびます",
+      "kanji": "[シャワーを～]浴びます",
+      "vn": "tắm [vòi hoa sen]"
+    },
+    {
+      "jp": "いれます",
+      "kanji": "入れます",
+      "vn": "cho vào, bỏ vào"
+    },
+    {
+      "jp": "だします",
+      "kanji": "出します",
+      "vn": "lấy ra, rút (tiền)"
+    },
+    {
+      "jp": "[だいがくに～] はいります",
+      "kanji": "[大学に～]入ります",
+      "vn": "vào, nhập học [đại học]"
+    },
+    {
+      "jp": "[だいがくを～] でます",
+      "kanji": "[大学を～]出ます",
+      "vn": "ra, tốt nghiệp [đại học]"
+    },
+    {
+      "jp": "[かいしゃを～]やめます",
+      "kanji": "[会社を～]やめます",
+      "vn": "bỏ, thôi [việc công ty]"
+    },
+    {
+      "jp": "おします",
+      "kanji": "押します",
+      "vn": "bấm, ấn (nút)"
+    },
+    {
+      "jp": "わかい",
+      "kanji": "若い",
+      "vn": "trẻ"
+    },
+    {
+      "jp": "ながい",
+      "kanji": "長い",
+      "vn": "dài"
+    },
+    {
+      "jp": "みじかい",
+      "kanji": "短い",
+      "vn": "ngắn"
+    },
+    {
+      "jp": "あかるい",
+      "kanji": "明るい",
+      "vn": "sáng"
+    },
+    {
+      "jp": "くらい",
+      "kanji": "暗い",
+      "vn": "tối"
+    },
+    {
+      "jp": "せが たかい",
+      "kanji": "背が 高い",
+      "vn": "cao (dùng cho người)"
+    },
+    {
+      "jp": "あたまが いい",
+      "kanji": "頭が いい",
+      "vn": "thông minh"
+    },
+    {
+      "jp": "からだ",
+      "kanji": "体",
+      "vn": "người, cơ thể"
+    },
+    {
+      "jp": "あたま",
+      "kanji": "頭",
+      "vn": "đầu"
+    },
+    {
+      "jp": "かみ",
+      "kanji": "髪",
+      "vn": "giấy"
+    },
+    {
+      "jp": "かお",
+      "kanji": "顔",
+      "vn": "mặt"
+    },
+    {
+      "jp": "め",
+      "kanji": "目",
+      "vn": "mắt"
+    },
+    {
+      "jp": "みみ",
+      "kanji": "耳",
+      "vn": "NHĨ"
+    },
+    {
+      "jp": "くち",
+      "kanji": "口",
+      "vn": "miệng"
+    },
+    {
+      "jp": "は",
+      "kanji": "歯",
+      "vn": "răng"
+    },
+    {
+      "jp": "おなか",
+      "vn": "bụng"
+    },
+    {
+      "jp": "あし",
+      "kanji": "足",
+      "vn": "chân"
+    },
+    {
+      "jp": "サービス",
+      "vn": "dịch vụ"
+    },
+    {
+      "jp": "ジョギング",
+      "vn": "việc chạy bộ (~をします: chạy bộ)"
+    },
+    {
+      "jp": "シャワー",
+      "vn": "vòi hoa sen"
+    },
+    {
+      "jp": "みどり",
+      "kanji": "緑",
+      "vn": "màu xanh lá cây"
+    },
+    {
+      "jp": "[お]てら",
+      "kanji": "[お]寺",
+      "vn": "chùa"
+    },
+    {
+      "jp": "じんじゃ",
+      "kanji": "神社",
+      "vn": "đền thờ đạo thần"
+    },
+    {
+      "jp": "りゅうがくせい",
+      "kanji": "留学生",
+      "vn": "lưu học sinh, du học sinh"
+    },
+    {
+      "jp": "一ばん",
+      "kanji": "一ばん",
+      "vn": "số ―"
+    },
+    {
+      "jp": "どうやって",
+      "vn": "làm thế nào~"
+    },
+    {
+      "jp": "どの～",
+      "vn": "cái nào~ (dùng với trường hợp từ ba thứ trở lên)"
+    },
+    {
+      "jp": "[いいえ、]まだまだです。",
+      "vn": "[không,] tôi còn kém lắm."
+    },
+    {
+      "jp": "おひきだしですか",
+      "kanji": "お引き出しですか",
+      "vn": "Anh/ chị rút tiền ạ?"
+    },
+    {
+      "jp": "まず",
+      "vn": "trước hết, đầu tiên"
+    },
+    {
+      "jp": "キャッシュカード",
+      "vn": "thẻ ngân hàng, thẻ ATM"
+    },
+    {
+      "jp": "あんしょうばんごう",
+      "kanji": "暗証番号",
+      "vn": "mã số bí mật (mật khẩu)"
+    },
+    {
+      "jp": "つぎに",
+      "kanji": "次に",
+      "vn": "tiếp theo"
+    },
+    {
+      "jp": "きんがく",
+      "kanji": "金額",
+      "vn": "số tiền, khoản tiền"
+    },
+    {
+      "jp": "かくにん",
+      "kanji": "確認",
+      "vn": "sự xác nhận, sự kiểm tra (~します：xác nhận)"
+    },
+    {
+      "jp": "ボタン",
+      "vn": "nút"
+    },
+    {
+      "jp": "ＪＲ",
+      "vn": "công ty đường sắt Nhật Bản"
+    },
+    {
+      "jp": "アジア",
+      "vn": "châu Á"
+    },
+    {
+      "jp": "バンドン",
+      "vn": "Bandung (ở Indonesia)"
+    },
+    {
+      "jp": "ベラクルス",
+      "vn": "Veracruz (ở Mexico)"
+    },
+    {
+      "jp": "フランケン",
+      "vn": "Franken (ở Đức)"
+    },
+    {
+      "jp": "ベトナム",
+      "vn": "Việt Nam"
+    },
+    {
+      "jp": "フェ",
+      "vn": "Huế"
+    },
+    {
+      "jp": "だいがくまえ",
+      "kanji": "大学前",
+      "vn": "tên một điểm dừng xe buýt (giả tưởng)"
+    }
+  ],
+  "17": [
+    {
+      "jp": "おぼえます",
+      "kanji": "覚えます",
+      "vn": "nhớ"
+    },
+    {
+      "jp": "わすれます",
+      "kanji": "忘れます",
+      "vn": "quên"
+    },
+    {
+      "jp": "なくします",
+      "vn": "mất, đánh mất"
+    },
+    {
+      "jp": "[レポートを～]だします",
+      "kanji": "[レポートを～]出します",
+      "vn": "nộp[bản/bài báo cáo]"
+    },
+    {
+      "jp": "はらいます",
+      "kanji": "払います",
+      "vn": "trả tiền"
+    },
+    {
+      "jp": "かえします",
+      "kanji": "返します",
+      "vn": "trả lại"
+    },
+    {
+      "jp": "でかけます",
+      "kanji": "出かけます",
+      "vn": "ra ngoài"
+    },
+    {
+      "jp": "ぬぎます",
+      "kanji": "脱ぎます",
+      "vn": "cởi (quần áo, giầy)"
+    },
+    {
+      "jp": "もっていきます",
+      "kanji": "持って行きます",
+      "vn": "mang đi, mang theo"
+    },
+    {
+      "jp": "もってきます",
+      "kanji": "持って来ます",
+      "vn": "mang đến"
+    },
+    {
+      "jp": "しんぱいします",
+      "kanji": "心配します",
+      "vn": "lo lắng"
+    },
+    {
+      "jp": "ざんぎょうします",
+      "kanji": "残業します",
+      "vn": "làm thêm, làm quá giờ"
+    },
+    {
+      "jp": "しゅっちょうします",
+      "kanji": "出張します",
+      "vn": "đi công tác"
+    },
+    {
+      "jp": "[くすりを～]のみます",
+      "kanji": "[薬を～]飲みます",
+      "vn": "uống [thuốc]"
+    },
+    {
+      "jp": "[おふろに～]はいります",
+      "kanji": "[おふろに～]入ります",
+      "vn": "tắm bồn [vào bồn tắm]"
+    },
+    {
+      "jp": "たいせつ[な]",
+      "kanji": "大切[な]",
+      "vn": "quan trọng, quý giá"
+    },
+    {
+      "jp": "だいじょうぶ[な]",
+      "kanji": "大丈夫[な]",
+      "vn": "không sao, không có vấn đề gì"
+    },
+    {
+      "jp": "あぶない",
+      "kanji": "危ない",
+      "vn": "nguy hiểm"
+    },
+    {
+      "jp": "もんだい",
+      "kanji": "問題",
+      "vn": "vấn đề"
+    },
+    {
+      "jp": "こたえ",
+      "kanji": "答え",
+      "vn": "câu trả lời"
+    },
+    {
+      "jp": "きんえん",
+      "kanji": "禁煙",
+      "vn": "cấm hút thuốc"
+    },
+    {
+      "jp": "[けんこう]ほけんしょう",
+      "kanji": "[健康]保険証",
+      "vn": "thẻ bảo hiểm [y tế]"
+    },
+    {
+      "jp": "かぜ",
+      "vn": "cảm, cúm"
+    },
+    {
+      "jp": "ねつ",
+      "kanji": "熱",
+      "vn": "sốt"
+    },
+    {
+      "jp": "びょうき",
+      "kanji": "病気",
+      "vn": "ốm, bệnh"
+    },
+    {
+      "jp": "くすり",
+      "kanji": "薬",
+      "vn": "thuốc"
+    },
+    {
+      "jp": "[お]ふろ",
+      "vn": "bồn tắm"
+    },
+    {
+      "jp": "うわぎ",
+      "kanji": "上着",
+      "vn": "áo khoác"
+    },
+    {
+      "jp": "したぎ",
+      "kanji": "下着",
+      "vn": "quần áo lót"
+    },
+    {
+      "jp": "せんせい",
+      "kanji": "先生",
+      "vn": "thầy/ cô"
+    },
+    {
+      "jp": "２，３にち",
+      "kanji": "２，３日",
+      "vn": "vài ngày"
+    },
+    {
+      "jp": "２，３～",
+      "vn": "vài~ (“~” là hậu tố chỉ cách đếm)"
+    },
+    {
+      "jp": "～までに",
+      "vn": "trước ~ (chỉ thời hạn)"
+    },
+    {
+      "jp": "ですから",
+      "vn": "vì thế, vì vậy, do đó"
+    },
+    {
+      "jp": "どうしましたか。",
+      "vn": "Có vần đề gì?/Anh/chị bị làm sao?"
+    },
+    {
+      "jp": "「のどが」いたいです。",
+      "kanji": "「のどが」痛いです。",
+      "vn": "Tôi bị đau [~họng]."
+    },
+    {
+      "jp": "おだいじに",
+      "kanji": "お大事に。",
+      "vn": "Anh/chị nhớ giữ gìn sức khỏe."
+    }
+  ],
+  "18": [
+    {
+      "jp": "できます",
+      "vn": "có thể"
+    },
+    {
+      "jp": "あらいます",
+      "kanji": "洗います",
+      "vn": "rửa"
+    },
+    {
+      "jp": "ひきます",
+      "kanji": "弾きます",
+      "vn": "chơi (nhạc cụ)"
+    },
+    {
+      "jp": "うたいます",
+      "kanji": "歌います",
+      "vn": "hát"
+    },
+    {
+      "jp": "あつめます",
+      "kanji": "集めます",
+      "vn": "sưu tầm, thu thập"
+    },
+    {
+      "jp": "すてます",
+      "kanji": "捨てます",
+      "vn": "vứt, bỏ đi"
+    },
+    {
+      "jp": "かえます",
+      "kanji": "換えます",
+      "vn": "đổi"
+    },
+    {
+      "jp": "うんてんします",
+      "kanji": "運転します",
+      "vn": "lái"
+    },
+    {
+      "jp": "よやくします",
+      "kanji": "予約します",
+      "vn": "đặt chỗ, đặt trước"
+    },
+    {
+      "jp": "けんがくします",
+      "kanji": "見学します",
+      "vn": "thăm quan với mục đích học tập"
+    },
+    {
+      "jp": "ピアノ",
+      "vn": "đàn Piano"
+    },
+    {
+      "jp": "―メートル",
+      "vn": "― mét"
+    },
+    {
+      "jp": "こくさい～",
+      "kanji": "国際～",
+      "vn": "quốc tế"
+    },
+    {
+      "jp": "げんきん",
+      "kanji": "現金",
+      "vn": "tiền mặt"
+    },
+    {
+      "jp": "しゅみ",
+      "kanji": "趣味",
+      "vn": "sở thích, thú vui"
+    },
+    {
+      "jp": "にっき",
+      "kanji": "日記",
+      "vn": "nhật ký"
+    },
+    {
+      "jp": "[お]いのり",
+      "kanji": "[お]祈り",
+      "vn": "việc cầu nguyện (～をします：cầu nguyện)"
+    },
+    {
+      "jp": "かちょう",
+      "kanji": "課長",
+      "vn": "tổ trưởng"
+    },
+    {
+      "jp": "ぶちょう",
+      "kanji": "部長",
+      "vn": "trưởng phòng"
+    },
+    {
+      "jp": "しゃちょう",
+      "kanji": "社長",
+      "vn": "giám đốc"
+    },
+    {
+      "jp": "どうぶつ",
+      "kanji": "動物",
+      "vn": "động vật"
+    },
+    {
+      "jp": "うま",
+      "kanji": "馬",
+      "vn": "ngựa"
+    },
+    {
+      "jp": "へえ",
+      "vn": "thế à!"
+    },
+    {
+      "jp": "それはおもしろいですね。",
+      "vn": "Hay thật nhỉ."
+    },
+    {
+      "jp": "なかなか",
+      "vn": "khó mà~, không dễ, mãi mà (dùng với thể phủ định)"
+    },
+    {
+      "jp": "ぼくじょう",
+      "kanji": "牧場",
+      "vn": "trang trại chăn nuôi"
+    },
+    {
+      "jp": "ほんとうですか。",
+      "vn": "Thật không ạ?"
+    },
+    {
+      "jp": "ぜひ",
+      "vn": "nhất định, rất"
+    },
+    {
+      "jp": "ビートルズ",
+      "vn": "Beatles, một băng nhạc nỗi tiếng nước Anh"
+    }
+  ],
+  "19": [
+    {
+      "jp": "[やまに～]のぼります",
+      "kanji": "[山に～]登ります",
+      "vn": "leo [núi]"
+    },
+    {
+      "jp": "[ホテルに～]とまります",
+      "kanji": "[ホテルに～]泊まります",
+      "vn": "trọ [ở khách sạn]"
+    },
+    {
+      "jp": "そうじします",
+      "kanji": "掃除します",
+      "vn": "dọn vệ sinh"
+    },
+    {
+      "jp": "せんたくします",
+      "kanji": "洗濯します",
+      "vn": "giặt"
+    },
+    {
+      "jp": "れんしゅうします",
+      "kanji": "練習します",
+      "vn": "luyện tập, thực hành"
+    },
+    {
+      "jp": "なります",
+      "vn": "trở thành, trở nên"
+    },
+    {
+      "jp": "ねむい",
+      "kanji": "眠い",
+      "vn": "buồn ngủ"
+    },
+    {
+      "jp": "つよい",
+      "kanji": "強い",
+      "vn": "mạnh"
+    },
+    {
+      "jp": "よわい",
+      "kanji": "弱い",
+      "vn": "yếu"
+    },
+    {
+      "jp": "ちょうしが いい",
+      "kanji": "調子が いい",
+      "vn": "trong tình trạng tốt"
+    },
+    {
+      "jp": "ちょうしが わるい",
+      "kanji": "調子が わるい",
+      "vn": "trong tình trạng xấu"
+    },
+    {
+      "jp": "ちょうし",
+      "kanji": "調子",
+      "vn": "tình trạng, trạng thái"
+    },
+    {
+      "jp": "ゴルフ",
+      "vn": "gôn (～をします:chơi gôn)"
+    },
+    {
+      "jp": "すもう",
+      "kanji": "相撲",
+      "vn": "vật Sumo"
+    },
+    {
+      "jp": "パチンコ",
+      "vn": "trò chơi Pachinko (～をします: chơi trò chơi Pachinko)"
+    },
+    {
+      "jp": "おちゃ",
+      "kanji": "お茶",
+      "vn": "trà (nói chung)"
+    },
+    {
+      "jp": "ひ",
+      "kanji": "日",
+      "vn": "ngày"
+    },
+    {
+      "jp": "いちど",
+      "kanji": "一度",
+      "vn": "một lần"
+    },
+    {
+      "jp": "いちども",
+      "kanji": "一度も",
+      "vn": "chưa lần nào"
+    },
+    {
+      "jp": "だんだん",
+      "vn": "dần dần"
+    },
+    {
+      "jp": "もうすぐ",
+      "vn": "sắp"
+    },
+    {
+      "jp": "おかげさまで",
+      "vn": "cám ơn anh/ chị (dùng để bày tỏ sự cám ơn khi nhận được sự giúp đỡ của ai đó)"
+    },
+    {
+      "jp": "かんぱい",
+      "kanji": "乾杯",
+      "vn": "nâng cốc!/cạn chén"
+    },
+    {
+      "jp": "じつは",
+      "kanji": "実は",
+      "vn": "thật ra là/sự tình là"
+    },
+    {
+      "jp": "ダイエット",
+      "vn": "việc ăn kiêng, chế độ giảm cân (～をします:ăn kiêng)"
+    },
+    {
+      "jp": "なんかいも",
+      "kanji": "何回も",
+      "vn": "nhiều lần"
+    },
+    {
+      "jp": "しかし",
+      "vn": "nhưng, tuy nhiên"
+    },
+    {
+      "jp": "むり「な」",
+      "kanji": "無理[な]",
+      "vn": "không thể, quá sức"
+    },
+    {
+      "jp": "からだにいい",
+      "kanji": "体にいい",
+      "vn": "tốt cho sức khỏe"
+    },
+    {
+      "jp": "ケーキ",
+      "vn": "bánh ga-tô, bánh ngọt"
+    },
+    {
+      "jp": "かつしかほくさい",
+      "kanji": "葛飾北斎",
+      "vn": "Katsushika Hokusai (1760-1849), một họa sĩ nổi tiếng thời Edo"
+    }
+  ],
+  "20": [
+    {
+      "jp": "[ビザが～]いります",
+      "kanji": "[ビザが～]要ります",
+      "vn": "cần [thị thực (visa)]"
+    },
+    {
+      "jp": "しらべます",
+      "kanji": "調べます",
+      "vn": "tìm hiểu, điều tra, xem"
+    },
+    {
+      "jp": "なおします",
+      "kanji": "直します",
+      "vn": "sửa, chữa"
+    },
+    {
+      "jp": "しゅうりします",
+      "kanji": "修理します",
+      "vn": "sửa chữa, tu sửa"
+    },
+    {
+      "jp": "でんわします",
+      "kanji": "電話します",
+      "vn": "gọi điện thoại"
+    },
+    {
+      "jp": "ぼく",
+      "kanji": "僕",
+      "vn": "tớ"
+    },
+    {
+      "jp": "きみ",
+      "kanji": "君",
+      "vn": "cậu, bạn"
+    },
+    {
+      "jp": "～くん",
+      "kanji": "～君",
+      "vn": "(hậu tố thêm vào sau tên của em trai)"
+    },
+    {
+      "jp": "うん",
+      "vn": "ừ (cách nói thân mật của 「はい」)"
+    },
+    {
+      "jp": "ううん",
+      "vn": "không (cách nói thân mật của 「いいえ」)"
+    },
+    {
+      "jp": "サラリーマン",
+      "vn": "người làm việc cho các công ty"
+    },
+    {
+      "jp": "ことば",
+      "vn": "từ, tiếng"
+    },
+    {
+      "jp": "ぶっか",
+      "kanji": "物価",
+      "vn": "giá cả, mức giá, vật giá"
+    },
+    {
+      "jp": "きもの",
+      "kanji": "着物",
+      "vn": "Kimono (trang phục truyền thống của Nhật Bản)"
+    },
+    {
+      "jp": "ビザ",
+      "vn": "thị thực, Visa"
+    },
+    {
+      "jp": "はじめ",
+      "kanji": "始め",
+      "vn": "ban đầu, đầu tiên"
+    },
+    {
+      "jp": "おわり",
+      "kanji": "終わり",
+      "vn": "kết thúc"
+    },
+    {
+      "jp": "こっち",
+      "vn": "phía này, chỗ này (cách nói thân mật của 「こちら」)"
+    },
+    {
+      "jp": "そっち",
+      "vn": "phía đó, chỗ đó (cách nói thân mật của 「そちら」)"
+    },
+    {
+      "jp": "あっち",
+      "vn": "phía kia, chỗ kia (cách nói thân mật của 「あちら」)"
+    },
+    {
+      "jp": "どっち",
+      "vn": "cái nào, phía nào, đâu (cách nói thân mật của 「どちら」)"
+    },
+    {
+      "jp": "このあいだ",
+      "kanji": "この間",
+      "vn": "vừa rồi, hôm nọ"
+    },
+    {
+      "jp": "みんなで",
+      "vn": "mọi người cùng"
+    },
+    {
+      "jp": "～けど",
+      "vn": "nhưng (cách nói thân mật của 「が」)"
+    },
+    {
+      "jp": "くにへかえるの？",
+      "kanji": "国へ帰るの？",
+      "vn": "Anh/chị có về nước không?"
+    },
+    {
+      "jp": "どうするの？",
+      "vn": "Anh/ chị tính sao? Anh/chị sẽ làm gì?"
+    },
+    {
+      "jp": "どうしようかな。",
+      "vn": "Tính sao đây nhỉ?/để tôi xem."
+    },
+    {
+      "jp": "よかったら",
+      "vn": "Nếu anh/chị thích thì"
+    },
+    {
+      "jp": "いろいろ",
+      "vn": "nhiều thứ"
+    }
+  ],
+  "21": [
+    {
+      "jp": "おもいます",
+      "kanji": "思います",
+      "vn": "nghĩ"
+    },
+    {
+      "jp": "いいます",
+      "kanji": "言います",
+      "vn": "nói"
+    },
+    {
+      "jp": "たります",
+      "kanji": "足ります",
+      "vn": "đủ"
+    },
+    {
+      "jp": "かちます",
+      "kanji": "勝ちます",
+      "vn": "thắng"
+    },
+    {
+      "jp": "まけます",
+      "kanji": "負けます",
+      "vn": "PHỤ"
+    },
+    {
+      "jp": "[おまつりが～] あります",
+      "kanji": "[お祭りが～]あります",
+      "vn": "được tổ chức, diễn ra, có [lễ hội~]"
+    },
+    {
+      "jp": "やくにたちます",
+      "kanji": "役に立ちます",
+      "vn": "giúp ích"
+    },
+    {
+      "jp": "むだ[な]",
+      "vn": "lãng phí, vô ích"
+    },
+    {
+      "jp": "ふべん[な]",
+      "kanji": "不便[な]",
+      "vn": "bất tiện"
+    },
+    {
+      "jp": "おなじ",
+      "vn": "giống"
+    },
+    {
+      "jp": "すごい",
+      "vn": "ghê quá, giỏi quá"
+    },
+    {
+      "jp": "しゅしょう",
+      "kanji": "首相",
+      "vn": "thủ tướng"
+    },
+    {
+      "jp": "だいとうりょう",
+      "kanji": "大統領",
+      "vn": "tổng thống"
+    },
+    {
+      "jp": "せいじ",
+      "kanji": "政治",
+      "vn": "chính trị"
+    },
+    {
+      "jp": "ニュース",
+      "vn": "tin tức, bản tin"
+    },
+    {
+      "jp": "スピーチ",
+      "vn": "bài diễn thuyết, bài phát biểu (～をします: diễn thuyết)"
+    },
+    {
+      "jp": "しあい",
+      "kanji": "試合",
+      "vn": "trận đấu"
+    },
+    {
+      "jp": "アルバイト",
+      "vn": "công việc làm thêm (～をします: làm thêm)"
+    },
+    {
+      "jp": "いけん",
+      "kanji": "意見",
+      "vn": "ý kiến"
+    },
+    {
+      "jp": "[お]はなし",
+      "kanji": "[お]話",
+      "vn": "I câu chuyện, bài nói chuyện (～をします: Nói chuyện)"
+    },
+    {
+      "jp": "ユーモア",
+      "vn": "hài hước"
+    },
+    {
+      "jp": "むだ",
+      "vn": "sự lãng phí"
+    },
+    {
+      "jp": "デザイン",
+      "vn": "thiết kế"
+    },
+    {
+      "jp": "こうつう",
+      "kanji": "交通",
+      "vn": "giao thông, đi lại"
+    },
+    {
+      "jp": "ラッシュ",
+      "vn": "giờ cao điểm"
+    },
+    {
+      "jp": "さいきん",
+      "kanji": "最近",
+      "vn": "gần đây"
+    },
+    {
+      "jp": "たぶん",
+      "vn": "chắc, có thể"
+    },
+    {
+      "jp": "きっと",
+      "vn": "chắc chắn, nhất định"
+    },
+    {
+      "jp": "ほんとうに",
+      "vn": "thật sự"
+    },
+    {
+      "jp": "そんなに",
+      "vn": "(không)~ lắm"
+    },
+    {
+      "jp": "～について",
+      "vn": "về~"
+    },
+    {
+      "jp": "しかたが ありません。",
+      "vn": "Không có cách nào khác./đành chịu vậy/ Chuyện đã rồi."
+    },
+    {
+      "jp": "しばらくですね。",
+      "vn": "Lâu không gặp nhỉ."
+    },
+    {
+      "jp": "～でものみませんか。",
+      "kanji": "～でも飲みませんか。",
+      "vn": "Anh/chị uống~ (cà-phê, rựu hay cái gì đó) nhé."
+    },
+    {
+      "jp": "みないと…。",
+      "kanji": "見ないと…。",
+      "vn": "Tôi phải xem"
+    },
+    {
+      "jp": "もちろん",
+      "vn": "tất nhiên"
+    },
+    {
+      "jp": "カンガルー",
+      "vn": "con kăng-gu-ru, chuột túi"
+    },
+    {
+      "jp": "キャプテン・クック",
+      "vn": "thuyền trưởng Cook (James Cook 1728 – 79)"
+    }
+  ],
+  "22": [
+    {
+      "jp": "[シャツを～]きます",
+      "kanji": "[シャツを～]着ます",
+      "vn": "mặc [áo sơ mi, v.v.]"
+    },
+    {
+      "jp": "[くつを～] はきます",
+      "kanji": "[靴を～]",
+      "vn": "đi, mặc [giầy, quần âu, v.v.]"
+    },
+    {
+      "jp": "[ぼうしを～]かぶります",
+      "kanji": "[帽子を～]",
+      "vn": "đội [mũ, v.v.]"
+    },
+    {
+      "jp": "[めがねを～]かけます",
+      "kanji": "[眼鏡を～]",
+      "vn": "đeo [kính]"
+    },
+    {
+      "jp": "うまれます",
+      "kanji": "生まれます",
+      "vn": "sinh ra"
+    },
+    {
+      "jp": "コート",
+      "vn": "áo khoác"
+    },
+    {
+      "jp": "スーツ",
+      "vn": "com-lê"
+    },
+    {
+      "jp": "セーター",
+      "vn": "áo len"
+    },
+    {
+      "jp": "ぼうし",
+      "kanji": "帽子",
+      "vn": "mũ"
+    },
+    {
+      "jp": "めがね",
+      "kanji": "眼鏡",
+      "vn": "kính"
+    },
+    {
+      "jp": "よく",
+      "vn": "tốt, rõ (chỉ mức độ)"
+    },
+    {
+      "jp": "おめでとう ございます。",
+      "vn": "Chúc mừng."
+    },
+    {
+      "jp": "こちら",
+      "vn": "phía này, đằng này, chỗ này, đây"
+    },
+    {
+      "jp": "やちん",
+      "kanji": "家賃",
+      "vn": "tiền thuê nhà"
+    },
+    {
+      "jp": "うーん。",
+      "vn": "ừ~./ Để tôi xem./ Thế nào nhỉ."
+    },
+    {
+      "jp": "ダイニングキチン",
+      "vn": "bếp kèm phòng ăn"
+    },
+    {
+      "jp": "わしつ",
+      "kanji": "和室",
+      "vn": "phòng kiểu Nhật"
+    },
+    {
+      "jp": "おしいれ",
+      "kanji": "押入れ",
+      "vn": "Chổ để chăn gối trong một căn phòng kiểu Nhật"
+    },
+    {
+      "jp": "ふとん",
+      "kanji": "布団",
+      "vn": "chăn, đệm"
+    },
+    {
+      "jp": "アパート",
+      "vn": "nhà chung cư"
+    },
+    {
+      "jp": "パリ",
+      "vn": "Pari"
+    },
+    {
+      "jp": "ばんりのちょうじょう",
+      "kanji": "万里の長城",
+      "vn": "Vạn Lý Trường Thành"
+    },
+    {
+      "jp": "よかかいはつセンター",
+      "kanji": "余暇開発センター",
+      "vn": "Trung tâm phát triển hoạt động giải trí cho người dân"
+    },
+    {
+      "jp": "レジャーはくしょ",
+      "kanji": "レジャー白書",
+      "vn": "sách trắng về sử dụng thời gian rảnh rỗi"
+    }
+  ],
+  "24": [
+    {
+      "jp": "くれます",
+      "vn": "cho, tặng (tôi)"
+    },
+    {
+      "jp": "つれていきます",
+      "kanji": "連れて行きます",
+      "vn": "dẫn đi"
+    },
+    {
+      "jp": "つれてきます",
+      "kanji": "連れて来ます",
+      "vn": "dẫn đến"
+    },
+    {
+      "jp": "[ひとを～]おくります",
+      "kanji": "[人を～]送ります",
+      "vn": "đưa đi, đưa đến, tiễn [một ai đó]"
+    },
+    {
+      "jp": "しょうかいします",
+      "kanji": "紹介します",
+      "vn": "giới thiệu"
+    },
+    {
+      "jp": "あんないします",
+      "kanji": "案内します",
+      "vn": "hướng dẫn, giới thiệu, dẫn đường"
+    },
+    {
+      "jp": "せつめいします",
+      "kanji": "説明します",
+      "vn": "giải thích, trình bày"
+    },
+    {
+      "jp": "[コーヒーを～]いれます",
+      "vn": "pha [cà-phê]"
+    },
+    {
+      "jp": "おじいさん／おじいちゃん",
+      "vn": "ông nội, ông ngoại, ông"
+    },
+    {
+      "jp": "おばあさん／おばあちゃん",
+      "vn": "bà nội, bà ngoại, bà"
+    },
+    {
+      "jp": "じゅんび",
+      "kanji": "準備",
+      "vn": "chuẩn bị [～します:chuẩn bị]"
+    },
+    {
+      "jp": "[お]かし",
+      "kanji": "[お]菓子",
+      "vn": "bánh kẹo"
+    },
+    {
+      "jp": "ぜんぶ",
+      "kanji": "全部",
+      "vn": "toàn bộ, tất cả"
+    },
+    {
+      "jp": "じぶんで",
+      "kanji": "自分で",
+      "vn": "tự (mình)"
+    },
+    {
+      "jp": "ほかに",
+      "vn": "ngoài ra, bên cạnh đó"
+    },
+    {
+      "jp": "ワゴンしゃ",
+      "kanji": "ワゴン車",
+      "vn": "xe ô-tô kiểu Wagon (có thùng đóng kín)"
+    },
+    {
+      "jp": "「お」べんとう",
+      "kanji": "[お]弁当",
+      "vn": "cơm hộp"
+    },
+    {
+      "jp": "ははのひ",
+      "kanji": "母の日",
+      "vn": "ngày Mẹ"
+    }
+  ],
+  "25": [
+    {
+      "jp": "かんがえます",
+      "kanji": "考えます",
+      "vn": "nghĩ, suy nghĩ"
+    },
+    {
+      "jp": "[えきに～] つきます",
+      "kanji": "[駅に～]着きます",
+      "vn": "đến [ga]"
+    },
+    {
+      "jp": "りゅうがくします",
+      "kanji": "留学します",
+      "vn": "du học"
+    },
+    {
+      "jp": "[としを～]とります",
+      "kanji": "[年を～]取ります",
+      "vn": "thêm [tuổi]"
+    },
+    {
+      "jp": "いなか",
+      "kanji": "田舎",
+      "vn": "quê, nông thôn"
+    },
+    {
+      "jp": "たいしかん",
+      "kanji": "大使館",
+      "vn": "đại sứ quán"
+    },
+    {
+      "jp": "グループ",
+      "vn": "nhóm, đoàn"
+    },
+    {
+      "jp": "チャンス",
+      "vn": "cơ hội"
+    },
+    {
+      "jp": "おく",
+      "kanji": "億",
+      "vn": "bên trong cùng, phía sâu bên trong"
+    },
+    {
+      "jp": "もし[～たら]",
+      "vn": "nếu [~ thì]"
+    },
+    {
+      "jp": "いくら[～ても]",
+      "vn": "cho dù, thế nào [~ đi nữa]"
+    },
+    {
+      "jp": "てんきん",
+      "kanji": "転勤",
+      "vn": "việc chuyển địa điểm làm việc"
+    },
+    {
+      "jp": "こと",
+      "vn": "việc (~の こと: việc ~)"
+    },
+    {
+      "jp": "いっぱいのみましょう",
+      "kanji": "一杯飲みましょう。",
+      "vn": "Chúng ta cùng uống nhé."
+    },
+    {
+      "jp": "「いろいろおせわになりました",
+      "kanji": "[いろいろ]お世話になりました。",
+      "vn": "Anh/chị đã giúp tôi (nhiều)."
+    },
+    {
+      "jp": "がんばります",
+      "kanji": "頑張ります",
+      "vn": "cố, cố gắng"
+    },
+    {
+      "jp": "どうぞおげんきで",
+      "kanji": "どうぞお元気で。",
+      "vn": "Chúc anh/chị mạnh khỏe."
+    }
+  ],
+  "26": [
+    {
+      "jp": "みます",
+      "kanji": "見ます, 診ます",
+      "vn": "xem, khám bệnh"
+    },
+    {
+      "jp": "さがします",
+      "kanji": "探します,捜します",
+      "vn": "tìm, tìm kiếm"
+    },
+    {
+      "jp": "[じかんに～] おくれます",
+      "kanji": "[時間に～]遅れます",
+      "vn": "chậm, muộn [cuộc hẹn,v.v.]"
+    },
+    {
+      "jp": "やります",
+      "vn": "làm"
+    },
+    {
+      "jp": "[パーティーに～]さんかします",
+      "kanji": "[パーティーに～]参加します",
+      "vn": "tham gia, dự [buổi tiệc]"
+    },
+    {
+      "jp": "もうしこみます",
+      "kanji": "申し込みます",
+      "vn": "đăng ký"
+    },
+    {
+      "jp": "つごうが いい",
+      "kanji": "都合が いい",
+      "vn": "có thời gian, thuận tiện"
+    },
+    {
+      "jp": "つごうが わるい",
+      "kanji": "都合が 悪い",
+      "vn": "không có thời gian, bận, không thuận tiện"
+    },
+    {
+      "jp": "きぶんがいい",
+      "kanji": "気分がいい",
+      "vn": "cảm thấy tốt, cảm thấy khỏe"
+    },
+    {
+      "jp": "きぶんがわるい",
+      "kanji": "気分が悪い",
+      "vn": "cảm thấy không tốt, cảm thấy mệt"
+    },
+    {
+      "jp": "しんぶんしゃ",
+      "kanji": "新聞社",
+      "vn": "công ty phát hành báo, tòa soạn báo"
+    },
+    {
+      "jp": "じゅうどう",
+      "kanji": "柔道",
+      "vn": "Judo (nhu đạo)"
+    },
+    {
+      "jp": "うんどうかい",
+      "kanji": "運動会",
+      "vn": "hội thi thể thao"
+    },
+    {
+      "jp": "ばしょ",
+      "kanji": "場所",
+      "vn": "địa điểm"
+    },
+    {
+      "jp": "ボランティア",
+      "vn": "tình nguyện viên"
+    },
+    {
+      "jp": "～べん",
+      "kanji": "～弁",
+      "vn": "tiếng ~, giọng ~"
+    },
+    {
+      "jp": "こんど",
+      "kanji": "今度",
+      "vn": "lần tới"
+    },
+    {
+      "jp": "ずいぶん",
+      "vn": "khá, tương đối"
+    },
+    {
+      "jp": "ちょくせつ",
+      "kanji": "直接",
+      "vn": "trực tiếp"
+    },
+    {
+      "jp": "いつでも",
+      "vn": "lúc nào cũng"
+    },
+    {
+      "jp": "どこでも",
+      "vn": "ở đâu cũng"
+    },
+    {
+      "jp": "だれでも",
+      "vn": "ai cũng"
+    },
+    {
+      "jp": "なんでも",
+      "kanji": "何でも",
+      "vn": "cái gì cũng"
+    },
+    {
+      "jp": "こんな～",
+      "vn": "~ như thế này"
+    },
+    {
+      "jp": "そんな～",
+      "vn": "~ như thế đó (gần người nghe)"
+    },
+    {
+      "jp": "あんな～",
+      "vn": "~ như thế kia (xa cả người nói và người nghe)"
+    },
+    {
+      "jp": "ＮＨＫ",
+      "vn": "Nippon Hoso Kyokai (hãng phát thanh truyền hình)"
+    },
+    {
+      "jp": "こどものひ",
+      "kanji": "こどもの日",
+      "vn": "ngày trẻ em"
+    },
+    {
+      "jp": "エドヤストア",
+      "vn": "tên một cửa hàng (giả tưởng)"
+    },
+    {
+      "jp": "[にもつが～] かたづきます",
+      "kanji": "[荷物が～] 片付きます",
+      "vn": "được dọn dẹp ngăn nắp, gọn gàng [đồ đạc ~]"
+    },
+    {
+      "jp": "ごみ",
+      "vn": "rác"
+    },
+    {
+      "jp": "だします",
+      "kanji": "[ごみを～] 出します",
+      "vn": "đổ, để [rác]"
+    },
+    {
+      "jp": "もえます",
+      "kanji": "[ごみが～] 燃えます",
+      "vn": "cháy được [rác ~]"
+    },
+    {
+      "jp": "げっ・すい・きん",
+      "kanji": "月・水・金",
+      "vn": "thứ hai, thứ tư, thứ sáu"
+    },
+    {
+      "jp": "おきば",
+      "kanji": "置き場",
+      "vn": "nơi để"
+    },
+    {
+      "jp": "よこ",
+      "kanji": "横",
+      "vn": "bên cạnh"
+    },
+    {
+      "jp": "びん",
+      "kanji": "瓶",
+      "vn": "cái chai"
+    },
+    {
+      "jp": "かん",
+      "kanji": "缶",
+      "vn": "cái lon, hộp kim loại"
+    },
+    {
+      "jp": "「お」ゆ",
+      "kanji": "[お]湯",
+      "vn": "nước nóng"
+    },
+    {
+      "jp": "ガス",
+      "vn": "ga"
+    },
+    {
+      "jp": "～がいしゃ",
+      "kanji": "～会社",
+      "vn": "công ty ~"
+    },
+    {
+      "jp": "れんらくします",
+      "kanji": "連絡します",
+      "vn": "liên lạc"
+    },
+    {
+      "jp": "こまったなあ。",
+      "kanji": "困ったなあ。",
+      "vn": "Làm thế nào đây!/ căng quá nhỉ!/ gay quá!"
+    },
+    {
+      "jp": "でんしメール",
+      "kanji": "電子メール",
+      "vn": "thư điện tử, e-mail"
+    },
+    {
+      "jp": "うちゅう",
+      "kanji": "宇宙",
+      "vn": "vũ trụ"
+    },
+    {
+      "jp": "こわい",
+      "kanji": "怖い",
+      "vn": "sợ"
+    },
+    {
+      "jp": "うちゅうせん",
+      "kanji": "宇宙船",
+      "vn": "tàu vũ trụ"
+    },
+    {
+      "jp": "べつの",
+      "kanji": "別の",
+      "vn": "khác"
+    },
+    {
+      "jp": "うちゅうひこうし",
+      "kanji": "宇宙飛行士",
+      "vn": "nhà du hành vũ trụ"
+    },
+    {
+      "jp": "どいたかお",
+      "kanji": "土井隆雄",
+      "vn": "nhà du hành vũ trụ người Nhật (1954- )"
+    }
+  ],
+  "27": [
+    {
+      "jp": "かいます",
+      "kanji": "飼います",
+      "vn": "nuôi (động vật)"
+    },
+    {
+      "jp": "たてます",
+      "kanji": "建てます",
+      "vn": "xây, xây dựng"
+    },
+    {
+      "jp": "[みちを～]はしります",
+      "kanji": "[道を～]走ります",
+      "vn": "chạy [trên đường]"
+    },
+    {
+      "jp": "[やすみを～]とります",
+      "kanji": "[休みを～]取ります",
+      "vn": "xin [nghỉ]"
+    },
+    {
+      "jp": "[やまが～] みえます",
+      "kanji": "[山が～]見えます",
+      "vn": "nhìn thấy, có thể nhìn thấy [núi]"
+    },
+    {
+      "jp": "[おとが～]きこえます",
+      "kanji": "[音が～]聞こえます",
+      "vn": "nghe thấy, có thể nghe thấy [âm thanh]"
+    },
+    {
+      "jp": "[くうこうが～]できます",
+      "kanji": "[空港が～]",
+      "vn": "được xây dựng lên, hoàn thành [sân bay]"
+    },
+    {
+      "jp": "[きょうしつを～]ひらきます",
+      "kanji": "[教室を～]開きます",
+      "vn": "mở [lớp học]"
+    },
+    {
+      "jp": "ペット",
+      "vn": "động vật cảnh (pet)"
+    },
+    {
+      "jp": "とり",
+      "kanji": "鳥",
+      "vn": "ĐIẾU"
+    },
+    {
+      "jp": "こえ",
+      "kanji": "声",
+      "vn": "tiếng nói, giọng nói"
+    },
+    {
+      "jp": "なみ",
+      "kanji": "波",
+      "vn": "sóng"
+    },
+    {
+      "jp": "はなび",
+      "kanji": "花火",
+      "vn": "pháo hoa"
+    },
+    {
+      "jp": "けしき",
+      "kanji": "景色",
+      "vn": "phong cảnh"
+    },
+    {
+      "jp": "ひるま",
+      "kanji": "昼間",
+      "vn": "thời gian ban ngày"
+    },
+    {
+      "jp": "むかし",
+      "kanji": "昔",
+      "vn": "ngày xưa, trước đây"
+    },
+    {
+      "jp": "どうぐ",
+      "kanji": "道具",
+      "vn": "dụng cụ, công cụ"
+    },
+    {
+      "jp": "じどうはんばいき",
+      "kanji": "自動販売機",
+      "vn": "máy bán tự động"
+    },
+    {
+      "jp": "つうしんはんばい",
+      "kanji": "通信販売",
+      "vn": "thương mại viễn thông (mua bán hàng qua các phương tiện truyền thông)"
+    },
+    {
+      "jp": "クリーニング",
+      "vn": "giặt ủi"
+    },
+    {
+      "jp": "マンション",
+      "vn": "nhà chung cư"
+    },
+    {
+      "jp": "だいどころ",
+      "kanji": "台所",
+      "vn": "bếp"
+    },
+    {
+      "jp": "～きょうしつ",
+      "kanji": "～教室",
+      "vn": "lớp học ~"
+    },
+    {
+      "jp": "パーティールーム",
+      "vn": "phòng tiệc"
+    },
+    {
+      "jp": "～ご",
+      "kanji": "～後",
+      "vn": "~ sau (khoảng thời gian)"
+    },
+    {
+      "jp": "～しか",
+      "vn": "chỉ ~ (dùng với thể phủ định)"
+    },
+    {
+      "jp": "ほかの",
+      "vn": "khác"
+    },
+    {
+      "jp": "はっきり",
+      "vn": "rõ, rõ ràng"
+    },
+    {
+      "jp": "ほとんど",
+      "vn": "hầu hết, hầu như"
+    },
+    {
+      "jp": "かんさいくうこう",
+      "kanji": "関西空港",
+      "vn": "sân bay (quốc tế) Kansai"
+    },
+    {
+      "jp": "あきはばら",
+      "kanji": "秋葉原",
+      "vn": "tên một khu phố bán đồ điện tử nổi tiếng ở Tokyo"
+    },
+    {
+      "jp": "いず",
+      "kanji": "伊豆",
+      "vn": "một bán đảo thuộc tỉnh Shizuoka"
+    },
+    {
+      "jp": "にちようだいく",
+      "kanji": "日曜大工",
+      "vn": "làm thợ mộc chủ nhật"
+    },
+    {
+      "jp": "ほんだな",
+      "kanji": "本棚",
+      "vn": "giá sách"
+    },
+    {
+      "jp": "ゆめ",
+      "kanji": "夢",
+      "vn": "giấc mơ, ước mơ (~ をします：mơ, mơ ước)"
+    },
+    {
+      "jp": "いつか",
+      "vn": "một ngày nào đó, một lúc nào đó"
+    },
+    {
+      "jp": "いえ",
+      "kanji": "家",
+      "vn": "nhà"
+    },
+    {
+      "jp": "すばらしい",
+      "vn": "tuyệt vời"
+    },
+    {
+      "jp": "こどもたち",
+      "kanji": "子どもたち",
+      "vn": "trẻ em, trẻ con, con cái"
+    },
+    {
+      "jp": "だいすき「な」",
+      "kanji": "大好き[な]",
+      "vn": "rất thích"
+    },
+    {
+      "jp": "まんが",
+      "kanji": "漫画",
+      "vn": "truyện tranh"
+    },
+    {
+      "jp": "しゅじんこう",
+      "kanji": "主人公",
+      "vn": "nhân vật chính"
+    },
+    {
+      "jp": "かたち",
+      "kanji": "形",
+      "vn": "hình, dạng"
+    },
+    {
+      "jp": "ロボット",
+      "vn": "người máy, Rô-bốt"
+    },
+    {
+      "jp": "ふしぎ「な」",
+      "kanji": "不思議[な]",
+      "vn": "bí ẩn, kỳ thú"
+    },
+    {
+      "jp": "ポケット",
+      "vn": "túi áo, túi quần (Pocket)"
+    },
+    {
+      "jp": "たとえば",
+      "kanji": "例えば",
+      "vn": "ví dụ (như)"
+    },
+    {
+      "jp": "つけます",
+      "kanji": "付けます",
+      "vn": "lắp, ghép thêm"
+    },
+    {
+      "jp": "じゆうに",
+      "kanji": "自由に",
+      "vn": "tự do, tùy thích"
+    },
+    {
+      "jp": "そら",
+      "kanji": "空",
+      "vn": "bầu trời"
+    },
+    {
+      "jp": "とびます",
+      "kanji": "飛びます",
+      "vn": "bay"
+    },
+    {
+      "jp": "じぶん",
+      "kanji": "自分",
+      "vn": "bản thân, mình"
+    },
+    {
+      "jp": "しょうらい",
+      "kanji": "将来",
+      "vn": "tương lai"
+    },
+    {
+      "jp": "ドラえもん",
+      "vn": "tên một nhân vật trong phim hoạt hình (Doremon)"
+    }
+  ],
+  "28": [
+    {
+      "jp": "[パンが～] うれます",
+      "kanji": "[パンが～] 売れます",
+      "vn": "bán chạy, được bán [bánh mì ~]"
+    },
+    {
+      "jp": "おどります",
+      "kanji": "踊ります",
+      "vn": "nhảy, khiêu vũ"
+    },
+    {
+      "jp": "かみます",
+      "vn": "nhai"
+    },
+    {
+      "jp": "えらびます",
+      "kanji": "選びます",
+      "vn": "chọn"
+    },
+    {
+      "jp": "ちがいます",
+      "kanji": "違います",
+      "vn": "khác"
+    },
+    {
+      "jp": "[だいがくに～] かよいます",
+      "kanji": "[大学に～]通います",
+      "vn": "đi đi về về [trường đại học]"
+    },
+    {
+      "jp": "メモします",
+      "vn": "ghi chép"
+    },
+    {
+      "jp": "まじめ[な]",
+      "vn": "nghiêm túc, nghiêm chỉnh"
+    },
+    {
+      "jp": "ねっしん[な]",
+      "kanji": "熱心[な]",
+      "vn": "nhiệt tâm, nhiệt tình, hết lòng"
+    },
+    {
+      "jp": "やさしい",
+      "kanji": "優しい",
+      "vn": "tình cảm, hiền lành"
+    },
+    {
+      "jp": "えらい",
+      "kanji": "偉い",
+      "vn": "vĩ đại, đáng kính, đáng khâm phục"
+    },
+    {
+      "jp": "ちょうどいい",
+      "vn": "vừa đủ, vừa đúng"
+    },
+    {
+      "jp": "しゅうかん",
+      "kanji": "習慣",
+      "vn": "tập quán"
+    },
+    {
+      "jp": "けいけん",
+      "kanji": "経験",
+      "vn": "kinh nghiệm"
+    },
+    {
+      "jp": "ちから",
+      "kanji": "力",
+      "vn": "sức lực, năng lực"
+    },
+    {
+      "jp": "[がくせいに]にんきがあります",
+      "kanji": "[がくせいに]人気があります",
+      "vn": "sự hâm mộ, được [sinh viên] hâm mộ"
+    },
+    {
+      "jp": "かたち",
+      "kanji": "形",
+      "vn": "hình, hình dáng"
+    },
+    {
+      "jp": "いろ",
+      "kanji": "色",
+      "vn": "màu"
+    },
+    {
+      "jp": "あじ",
+      "kanji": "味",
+      "vn": "vị"
+    },
+    {
+      "jp": "ガム",
+      "vn": "kẹo cao su"
+    },
+    {
+      "jp": "しなもの",
+      "kanji": "品物",
+      "vn": "hàng hóa, mặt hàng"
+    },
+    {
+      "jp": "ねだん",
+      "kanji": "値段",
+      "vn": "giá"
+    },
+    {
+      "jp": "きゅうりょう",
+      "kanji": "給料",
+      "vn": "lương"
+    },
+    {
+      "jp": "ボーナス",
+      "vn": "thưởng"
+    },
+    {
+      "jp": "ばんぐみ",
+      "kanji": "番組",
+      "vn": "chương trình (phát thanh, truyền hình)"
+    },
+    {
+      "jp": "ドラマ",
+      "vn": "kịch, phim truyền hình"
+    },
+    {
+      "jp": "しょうせつ",
+      "kanji": "小説",
+      "vn": "tiểu thuyết"
+    },
+    {
+      "jp": "しょうせつか",
+      "kanji": "小説家",
+      "vn": "tiểu thuyết gia, nhà văn"
+    },
+    {
+      "jp": "かしゅ",
+      "kanji": "歌手",
+      "vn": "ca sĩ"
+    },
+    {
+      "jp": "かんりにん",
+      "kanji": "管理人",
+      "vn": "người quản lý"
+    },
+    {
+      "jp": "むすこ",
+      "kanji": "息子",
+      "vn": "con trai (dùng cho mình)"
+    },
+    {
+      "jp": "むすこさん",
+      "kanji": "息子さん",
+      "vn": "con trai (dùng cho người khác)"
+    },
+    {
+      "jp": "むすめ",
+      "kanji": "娘",
+      "vn": "con gái (dùng cho mình)"
+    },
+    {
+      "jp": "むすめさん",
+      "kanji": "娘さん",
+      "vn": "con gái (dùng cho người khác)"
+    },
+    {
+      "jp": "じぶん",
+      "kanji": "自分",
+      "vn": "bản thân, mình"
+    },
+    {
+      "jp": "しょうらい",
+      "kanji": "将来",
+      "vn": "tương lai"
+    },
+    {
+      "jp": "しばらく",
+      "vn": "một khoảng thời gian ngắn, một lúc, một lát"
+    },
+    {
+      "jp": "たいてい",
+      "vn": "thường, thông thường"
+    },
+    {
+      "jp": "それに",
+      "vn": "thêm nữa là, thêm vào đó là"
+    },
+    {
+      "jp": "それで",
+      "vn": "thế thì, thế nên"
+    },
+    {
+      "jp": "[ちょっと]おねがいがあるんですが。",
+      "kanji": "[ちょっと]お願いがあるんですが。",
+      "vn": "Tôi có (chút) việc muốn nhờ anh/ chị."
+    },
+    {
+      "jp": "ホームステイ",
+      "vn": "homestay"
+    },
+    {
+      "jp": "おしゃべりします",
+      "vn": "nói chuyện, tán chuyện"
+    },
+    {
+      "jp": "おしらせ",
+      "kanji": "お知らせ",
+      "vn": "thông báo"
+    },
+    {
+      "jp": "ひにち",
+      "kanji": "日にち",
+      "vn": "ngày"
+    },
+    {
+      "jp": "ど",
+      "kanji": "土",
+      "vn": "thứ bảy"
+    },
+    {
+      "jp": "たいいくかん",
+      "kanji": "体育館",
+      "vn": "nhà tập, nhà thi đấu thể thao"
+    },
+    {
+      "jp": "むりょう",
+      "kanji": "無料",
+      "vn": "miễn phí"
+    }
+  ],
+  "29": [
+    {
+      "jp": "[ドアが～]あきます",
+      "kanji": "[ドアが～]開きます",
+      "vn": "mở [cửa ~]"
+    },
+    {
+      "jp": "[ドアが～]しまります",
+      "kanji": "[ドアが～]閉まります",
+      "vn": "đóng [cửa ~]"
+    },
+    {
+      "jp": "[でんきが～] つきます",
+      "kanji": "[電気が～]",
+      "vn": "sáng [điện ~]"
+    },
+    {
+      "jp": "[でんきが～]きえます",
+      "kanji": "[電気が～]消えます",
+      "vn": "tắt [điện ~]"
+    },
+    {
+      "jp": "[みちが～]こみます",
+      "kanji": "[道が～]込みます",
+      "vn": "đông, tắc [đường ~]"
+    },
+    {
+      "jp": "[みちが～] すきます",
+      "kanji": "[道が～]",
+      "vn": "vắng, thoáng [đường ~]"
+    },
+    {
+      "jp": "[いすが～]こわれます",
+      "kanji": "[いすが～]壊れます",
+      "vn": "hỏng [cái ghế bị ~]"
+    },
+    {
+      "jp": "[コップが～]われます",
+      "kanji": "[コップが～] 割れます",
+      "vn": "vỡ [cái cốc bị ~]"
+    },
+    {
+      "jp": "[きが～] おれます",
+      "kanji": "[木が～]折れます",
+      "vn": "gãy [cái cây bị ~]"
+    },
+    {
+      "jp": "[かみが～]やぶれます",
+      "kanji": "[紙が～]破れます",
+      "vn": "rách [tờ giấy bị ~]"
+    },
+    {
+      "jp": "[ふくが～]よごれます",
+      "kanji": "[服が～]汚れます",
+      "vn": "bẩn [quần áo bị ~]"
+    },
+    {
+      "jp": "[ポケットが～]つきます",
+      "kanji": "[ポケットが～]付きます",
+      "vn": "có, có gắn, có kèm theo [túi]"
+    },
+    {
+      "jp": "[ボタンが～]はずれます",
+      "kanji": "[ボタンが～]外れます",
+      "vn": "tuột, bung [cái cúc bị ~]"
+    },
+    {
+      "jp": "[エレベーターが～]とまります",
+      "kanji": "[エレベーターが～]止まります",
+      "vn": "dừng [thang máy ~]"
+    },
+    {
+      "jp": "まちがえます",
+      "vn": "nhầm, sai"
+    },
+    {
+      "jp": "おとします",
+      "kanji": "落とします",
+      "vn": "đánh rơi"
+    },
+    {
+      "jp": "[かぎが～]かかります",
+      "kanji": "[かぎが～]掛かります",
+      "vn": "khóa [chìa khóa ~]"
+    },
+    {
+      "jp": "[お]さら",
+      "kanji": "[お]皿",
+      "vn": "cái đĩa"
+    },
+    {
+      "jp": "[お]ちゃわん",
+      "vn": "cái bát"
+    },
+    {
+      "jp": "コップ",
+      "vn": "cái cốc"
+    },
+    {
+      "jp": "ガラス",
+      "vn": "thủy tinh (glass)"
+    },
+    {
+      "jp": "ふくろ",
+      "kanji": "袋",
+      "vn": "cái túi"
+    },
+    {
+      "jp": "さいふ",
+      "kanji": "財布",
+      "vn": "cái ví"
+    },
+    {
+      "jp": "えだ",
+      "kanji": "枝",
+      "vn": "cành cây"
+    },
+    {
+      "jp": "えきいん",
+      "kanji": "駅員",
+      "vn": "nhân viên nhà ga"
+    },
+    {
+      "jp": "このへん",
+      "kanji": "この辺",
+      "vn": "xung quanh đây, gần đây"
+    },
+    {
+      "jp": "～へん",
+      "kanji": "～辺",
+      "vn": "xung quanh ~, chỗ ~"
+    },
+    {
+      "jp": "このぐらい",
+      "vn": "khoảng ngần này, cỡ khoảng như thế này"
+    },
+    {
+      "jp": "おさきにどうぞ。",
+      "kanji": "お先にどうぞ。",
+      "vn": "Xin mời anh/chị đi trước."
+    },
+    {
+      "jp": "[ああ、]よかった。",
+      "vn": "ồ, may quá."
+    },
+    {
+      "jp": "いまのでんしゃ",
+      "kanji": "今の電車",
+      "vn": "đoàn tàu vừa rồi"
+    },
+    {
+      "jp": "わすれもの",
+      "kanji": "忘れ物",
+      "vn": "vật để quên"
+    },
+    {
+      "jp": "～がわ",
+      "kanji": "～側",
+      "vn": "phía ~, bên ~"
+    },
+    {
+      "jp": "ポケット",
+      "vn": "túi áo, túi quần (pocket)"
+    },
+    {
+      "jp": "おぼえていません",
+      "kanji": "覚えていません。",
+      "vn": "Tôi không nhớ."
+    },
+    {
+      "jp": "あみだな",
+      "kanji": "網棚",
+      "vn": "giá lưới, giá hành lý (trên tàu)"
+    },
+    {
+      "jp": "たしか",
+      "kanji": "確か",
+      "vn": "nếu không lầm thì"
+    },
+    {
+      "jp": "よつや",
+      "kanji": "四ツ谷",
+      "vn": "tên một nhà ga ở Tokyo"
+    },
+    {
+      "jp": "じしん",
+      "kanji": "地震",
+      "vn": "động đất"
+    },
+    {
+      "jp": "かべ",
+      "kanji": "壁",
+      "vn": "bức tường"
+    },
+    {
+      "jp": "はり",
+      "kanji": "針",
+      "vn": "kim đồng hồ"
+    },
+    {
+      "jp": "さします",
+      "kanji": "指します",
+      "vn": "chỉ"
+    },
+    {
+      "jp": "えきまえ",
+      "kanji": "駅前",
+      "vn": "khu vực trước nhà ga"
+    },
+    {
+      "jp": "たおれます",
+      "kanji": "倒れます",
+      "vn": "đổ"
+    },
+    {
+      "jp": "にし",
+      "kanji": "西",
+      "vn": "tây, phía tây"
+    },
+    {
+      "jp": "ほう",
+      "kanji": "方",
+      "vn": "hướng, phương hướng"
+    },
+    {
+      "jp": "さんのみや",
+      "kanji": "三宮",
+      "vn": "tên một địa điểm ở Kobe"
+    }
+  ],
+  "30": [
+    {
+      "jp": "はります",
+      "vn": "dán, dán lên"
+    },
+    {
+      "jp": "かけます",
+      "kanji": "掛けます",
+      "vn": "QUẢI"
+    },
+    {
+      "jp": "かざります",
+      "kanji": "飾ります",
+      "vn": "trang trí"
+    },
+    {
+      "jp": "ならべます",
+      "kanji": "並べます",
+      "vn": "xếp thành hàng"
+    },
+    {
+      "jp": "うえます",
+      "kanji": "植えます",
+      "vn": "trồng (cây)"
+    },
+    {
+      "jp": "もどします",
+      "kanji": "戻します",
+      "vn": "đưa về, trả về, để lại vị trí ban đầu"
+    },
+    {
+      "jp": "まとめます",
+      "vn": "nhóm lại, tóm tắt"
+    },
+    {
+      "jp": "かたづけます",
+      "kanji": "片づけます",
+      "vn": "dọn dẹp, sắp xếp"
+    },
+    {
+      "jp": "しまいます",
+      "vn": "cất vào, để vào"
+    },
+    {
+      "jp": "きめます",
+      "kanji": "決めます",
+      "vn": "quyết định"
+    },
+    {
+      "jp": "しらせます",
+      "kanji": "知らせます",
+      "vn": "thông báo, báo"
+    },
+    {
+      "jp": "そうだんします",
+      "kanji": "相談します",
+      "vn": "trao đổi, bàn bạc, tư vấn"
+    },
+    {
+      "jp": "よしゅうします",
+      "kanji": "予習します",
+      "vn": "chuẩn bị bài mới"
+    },
+    {
+      "jp": "ふくしゅうします",
+      "kanji": "復習します",
+      "vn": "ôn bài cũ"
+    },
+    {
+      "jp": "そのままにします",
+      "vn": "để nguyên như thế"
+    },
+    {
+      "jp": "おこさん",
+      "kanji": "お子さん",
+      "vn": "con (dùng đối với người khác)"
+    },
+    {
+      "jp": "じゅぎょう",
+      "kanji": "授業",
+      "vn": "giờ học"
+    },
+    {
+      "jp": "こうぎ",
+      "kanji": "講義",
+      "vn": "bài giảng"
+    },
+    {
+      "jp": "ミーティング",
+      "vn": "cuộc họp"
+    },
+    {
+      "jp": "よてい",
+      "kanji": "予定",
+      "vn": "kế hoạch, dự định"
+    },
+    {
+      "jp": "おしらせ",
+      "kanji": "お知らせ",
+      "vn": "bản thông báo"
+    },
+    {
+      "jp": "あんないしょ",
+      "kanji": "案内書",
+      "vn": "sách/tài liệu hướng dẫn"
+    },
+    {
+      "jp": "カレンダー",
+      "vn": "lịch, tờ lịch"
+    },
+    {
+      "jp": "ポスター",
+      "vn": "tờ pa-nô, áp phích, tờ quảng cáo"
+    },
+    {
+      "jp": "ごみばこ",
+      "kanji": "ごみ箱",
+      "vn": "thùng rác"
+    },
+    {
+      "jp": "にんぎょう",
+      "kanji": "人形",
+      "vn": "con búp bê, con rối"
+    },
+    {
+      "jp": "かびん",
+      "kanji": "花瓶",
+      "vn": "lọ hoa"
+    },
+    {
+      "jp": "かがみ",
+      "kanji": "鏡",
+      "vn": "cái gương"
+    },
+    {
+      "jp": "ひきだし",
+      "kanji": "引き出し",
+      "vn": "ngăn kéo"
+    },
+    {
+      "jp": "げんかん",
+      "kanji": "玄関",
+      "vn": "cửa vào"
+    },
+    {
+      "jp": "ろうか",
+      "kanji": "廊下",
+      "vn": "hành lang"
+    },
+    {
+      "jp": "かべ",
+      "kanji": "壁",
+      "vn": "bức tường"
+    },
+    {
+      "jp": "いけ",
+      "kanji": "池",
+      "vn": "cái ao"
+    },
+    {
+      "jp": "こうばん",
+      "kanji": "交番",
+      "vn": "trạm/bốt cảnh sát"
+    },
+    {
+      "jp": "もとのところ",
+      "kanji": "元の所",
+      "vn": "địa điểm ban đầu, địa điểm gốc"
+    },
+    {
+      "jp": "まわり",
+      "kanji": "周り",
+      "vn": "xung quanh"
+    },
+    {
+      "jp": "まんなか",
+      "kanji": "真ん中",
+      "vn": "giữa, trung tâm"
+    },
+    {
+      "jp": "すみ",
+      "kanji": "隅",
+      "vn": "góc"
+    },
+    {
+      "jp": "まだ",
+      "vn": "chưa"
+    },
+    {
+      "jp": "～ほど",
+      "vn": "khoảng ~, chừng ~"
+    },
+    {
+      "jp": "よていひょう",
+      "kanji": "予定表",
+      "vn": "lịch, thời khóa biểu"
+    },
+    {
+      "jp": "ごくろうさま",
+      "kanji": "ご苦労さま。",
+      "vn": "Anh/chị đã làm việc vất vả./cám ơn anh/chị. (câu nói dùng để bày tỏ sự cám ơn hoặc thông cảm với sự vất vả khi ai đó làm xong một việc gì)"
+    },
+    {
+      "jp": "きぼう",
+      "kanji": "希望",
+      "vn": "hi vọng, nguyện vọng"
+    },
+    {
+      "jp": "なにかごきぼうがありますか",
+      "kanji": "なにかご希望がありますか。",
+      "vn": "Anh/chị có nguyện vọng gì không?/ anh/chị có yêu cầu gì không?"
+    },
+    {
+      "jp": "ミュージカル",
+      "vn": "ca kịch"
+    },
+    {
+      "jp": "それはいいですね。",
+      "vn": "Điều đó được đấy nhỉ./ Hay quá nhỉ"
+    },
+    {
+      "jp": "ブロードウェイ",
+      "vn": "Broadway"
+    },
+    {
+      "jp": "まるい",
+      "kanji": "丸い",
+      "vn": "tròn"
+    },
+    {
+      "jp": "つき",
+      "kanji": "月",
+      "vn": "mặt trăng, trăng"
+    },
+    {
+      "jp": "ある～",
+      "vn": "có ~, một ~"
+    },
+    {
+      "jp": "ちきゅう",
+      "kanji": "地球",
+      "vn": "trái đất"
+    },
+    {
+      "jp": "うれしい",
+      "vn": "vui"
+    },
+    {
+      "jp": "いや「な」",
+      "kanji": "嫌[な]",
+      "vn": "chán, ghét, không chấp nhận được"
+    },
+    {
+      "jp": "すると",
+      "vn": "sau đó, tiếp đó, rồi, khi ~ như vậy thì"
+    },
+    {
+      "jp": "めが さめます",
+      "kanji": "目が覚めます",
+      "vn": "tỉnh giấc, mở mắt"
+    }
+  ],
+  "31": [
+    {
+      "jp": "[しきが～]はじまります",
+      "kanji": "[式が～]始まります",
+      "vn": "bắt đầu [buổi lễ ~]"
+    },
+    {
+      "jp": "つづけます",
+      "kanji": "続けます",
+      "vn": "tiếp tục"
+    },
+    {
+      "jp": "みつけます",
+      "kanji": "見つけます",
+      "vn": "tìm, tìm thấy"
+    },
+    {
+      "jp": "[しけんを～]うけます",
+      "kanji": "[試験を～]受けます",
+      "vn": "thi [kỳ thi]"
+    },
+    {
+      "jp": "[だいがくに～] にゅうがくします",
+      "kanji": "[大学に～]入学します",
+      "vn": "nhập học, vào [(trường) đại học]"
+    },
+    {
+      "jp": "[だいがくを～]そつぎょうします",
+      "kanji": "[大学を～]卒業します",
+      "vn": "tốt nghiệp [(trường) đại học]"
+    },
+    {
+      "jp": "[かいぎに～] しゅっせきします",
+      "kanji": "[会議に～]出席します",
+      "vn": "tham dự, tham gia [cuộc họp]"
+    },
+    {
+      "jp": "きゅうけいします",
+      "kanji": "休憩します",
+      "vn": "nghỉ, giải lao"
+    },
+    {
+      "jp": "れんきゅう",
+      "kanji": "連休",
+      "vn": "ngày nghỉ liền nhau"
+    },
+    {
+      "jp": "さくぶん",
+      "kanji": "作文",
+      "vn": "bài văn"
+    },
+    {
+      "jp": "てんらんかい",
+      "kanji": "展覧会",
+      "vn": "triển lãm"
+    },
+    {
+      "jp": "けっこんしき",
+      "kanji": "結婚式",
+      "vn": "lễ cưới, đám cưới"
+    },
+    {
+      "jp": "[お]そうしき",
+      "kanji": "[お]葬式",
+      "vn": "lễ tang, đám tang"
+    },
+    {
+      "jp": "しき",
+      "kanji": "式",
+      "vn": "lễ, đám"
+    },
+    {
+      "jp": "ほんしゃ",
+      "kanji": "本社",
+      "vn": "trụ sở chính"
+    },
+    {
+      "jp": "してん",
+      "kanji": "支店",
+      "vn": "chi nhánh"
+    },
+    {
+      "jp": "きょうかい",
+      "kanji": "教会",
+      "vn": "nhà thờ"
+    },
+    {
+      "jp": "だいがくいん",
+      "kanji": "大学院",
+      "vn": "cao học, sở giáo dục trên đại học"
+    },
+    {
+      "jp": "どうぶつえん",
+      "kanji": "動物園",
+      "vn": "vườn thú, vườn bách thú"
+    },
+    {
+      "jp": "おんせん",
+      "kanji": "温泉",
+      "vn": "suối nước nóng"
+    },
+    {
+      "jp": "おきゃく[さん]",
+      "kanji": "お客[さん]",
+      "vn": "khách hàng"
+    },
+    {
+      "jp": "だれか",
+      "vn": "ai đó"
+    },
+    {
+      "jp": "～のほう",
+      "kanji": "～の方",
+      "vn": "phía ~, hướng ~"
+    },
+    {
+      "jp": "ずっと",
+      "vn": "suốt, liền"
+    },
+    {
+      "jp": "ピカソ",
+      "vn": "Pablo Picasso, danh họa người Tây Ban Nha (1881-1973)"
+    },
+    {
+      "jp": "うえのこうえん",
+      "kanji": "上野公園",
+      "vn": "Công viên Ueno (ở Tokyo)"
+    },
+    {
+      "jp": "のこります",
+      "kanji": "残ります",
+      "vn": "ở lại"
+    },
+    {
+      "jp": "つきに",
+      "kanji": "月に",
+      "vn": "một tháng"
+    },
+    {
+      "jp": "ふつうの",
+      "kanji": "普通の",
+      "vn": "thường, thông thường"
+    },
+    {
+      "jp": "インターネット",
+      "vn": "Internet"
+    },
+    {
+      "jp": "むら",
+      "kanji": "村",
+      "vn": "làng"
+    },
+    {
+      "jp": "えいがかん",
+      "kanji": "映画館",
+      "vn": "rạp chiếu phim"
+    },
+    {
+      "jp": "いや「な」",
+      "kanji": "嫌[な]",
+      "vn": "chán, ghét, không chấp nhận được"
+    },
+    {
+      "jp": "そら",
+      "kanji": "空",
+      "vn": "bầu trời"
+    },
+    {
+      "jp": "とじます",
+      "kanji": "閉じます",
+      "vn": "đóng, nhắm"
+    },
+    {
+      "jp": "とかい",
+      "kanji": "都会",
+      "vn": "thành phố, nơi đô hội"
+    },
+    {
+      "jp": "こどもたち",
+      "kanji": "子供たち",
+      "vn": "trẻ em, trẻ con"
+    },
+    {
+      "jp": "じゆうに",
+      "kanji": "自由に",
+      "vn": "tự do"
+    },
+    {
+      "jp": "せかいじゅう",
+      "kanji": "世界中",
+      "vn": "khắp thế giới"
+    },
+    {
+      "jp": "あつまります",
+      "kanji": "集まります",
+      "vn": "tập trung"
+    },
+    {
+      "jp": "うつくしい",
+      "kanji": "美しい",
+      "vn": "đẹp"
+    },
+    {
+      "jp": "しぜん",
+      "kanji": "自然",
+      "vn": "tự nhiên, thiên nhiên"
+    },
+    {
+      "jp": "すばらしさ",
+      "vn": "tuyệt vời"
+    },
+    {
+      "jp": "きがつきます",
+      "kanji": "気がつきます",
+      "vn": "để ý, nhận ra"
+    }
+  ],
+  "32": [
+    {
+      "jp": "うんどうします",
+      "kanji": "運動します",
+      "vn": "vận động, tập thể thao"
+    },
+    {
+      "jp": "せいこうします",
+      "kanji": "成功します",
+      "vn": "thành công"
+    },
+    {
+      "jp": "[しけんに～]しっぱいします",
+      "kanji": "[試験に～]失敗します",
+      "vn": "thất bại, trượt [thi~]"
+    },
+    {
+      "jp": "[しけんに～]ごうかくします",
+      "kanji": "[試験に～]合格します",
+      "vn": "đỗ [thi~]"
+    },
+    {
+      "jp": "もどります",
+      "kanji": "戻ります",
+      "vn": "quay lại, trở lại"
+    },
+    {
+      "jp": "[あめが～] やみます",
+      "kanji": "[雨が～]",
+      "vn": "tạnh, ngừng [mưa ~]"
+    },
+    {
+      "jp": "はれます",
+      "kanji": "晴れます",
+      "vn": "nắng, quang đãng"
+    },
+    {
+      "jp": "くもります",
+      "kanji": "曇ります",
+      "vn": "có mây, mây mù"
+    },
+    {
+      "jp": "[かぜが～]ふきます",
+      "kanji": "[風が～]吹きます",
+      "vn": "thổi [gió ~]"
+    },
+    {
+      "jp": "[びょうきが～]なおります",
+      "kanji": "[病気が～]治ります，直ります",
+      "vn": "khỏi [bệnh]"
+    },
+    {
+      "jp": "[こしょうが～]なおります",
+      "kanji": "[故障が～]",
+      "vn": "đã được sửa [chỗ hỏng ~]"
+    },
+    {
+      "jp": "[ねつが～]つづきます",
+      "kanji": "[熱が～]続きます",
+      "vn": "tiếp tục, tiếp diễn [sốt]"
+    },
+    {
+      "jp": "[かぜを～]ひきます",
+      "vn": "bị [cảm]"
+    },
+    {
+      "jp": "ひやします",
+      "kanji": "冷やします",
+      "vn": "làm lạnh"
+    },
+    {
+      "jp": "しんぱい[な]",
+      "kanji": "心配[な]",
+      "vn": "lo lắng"
+    },
+    {
+      "jp": "じゅうぶん[な]",
+      "kanji": "十分[な]",
+      "vn": "đủ"
+    },
+    {
+      "jp": "おかしい",
+      "vn": "có vấn đề, không bình thường, buồn cười"
+    },
+    {
+      "jp": "うるさい",
+      "vn": "ồn ào, (âm thanh) to"
+    },
+    {
+      "jp": "やけど",
+      "vn": "bỏng (～をします：bị bỏng)"
+    },
+    {
+      "jp": "けが",
+      "vn": "vết thương (～をします：bị thương)"
+    },
+    {
+      "jp": "せき",
+      "vn": "ho (～がでます：bị ho)"
+    },
+    {
+      "jp": "インフルエンザ",
+      "vn": "cúm dịch"
+    },
+    {
+      "jp": "そら",
+      "kanji": "空",
+      "vn": "bầu trời"
+    },
+    {
+      "jp": "たいよう",
+      "kanji": "太陽",
+      "vn": "mặt trời"
+    },
+    {
+      "jp": "ほし",
+      "kanji": "星",
+      "vn": "sao, ngôi sao"
+    },
+    {
+      "jp": "つき",
+      "kanji": "月",
+      "vn": "trăng, mặt trăng"
+    },
+    {
+      "jp": "かぜ",
+      "kanji": "風",
+      "vn": "gió"
+    },
+    {
+      "jp": "きた",
+      "kanji": "北",
+      "vn": "bắc"
+    },
+    {
+      "jp": "みなみ",
+      "kanji": "南",
+      "vn": "nam"
+    },
+    {
+      "jp": "にし",
+      "kanji": "西",
+      "vn": "tây"
+    },
+    {
+      "jp": "ひがし",
+      "kanji": "東",
+      "vn": "đông"
+    },
+    {
+      "jp": "すいどう",
+      "kanji": "水道",
+      "vn": "nước máy"
+    },
+    {
+      "jp": "エンジン",
+      "vn": "động cơ"
+    },
+    {
+      "jp": "チーム",
+      "vn": "đội"
+    },
+    {
+      "jp": "こんや",
+      "kanji": "今夜",
+      "vn": "tối nay, đêm nay"
+    },
+    {
+      "jp": "ゆうがた",
+      "kanji": "夕方",
+      "vn": "chiều tối"
+    },
+    {
+      "jp": "まえ",
+      "vn": "trước"
+    },
+    {
+      "jp": "おそく",
+      "kanji": "遅く",
+      "vn": "muộn, khuya"
+    },
+    {
+      "jp": "こんなに",
+      "vn": "như thế này"
+    },
+    {
+      "jp": "そんなに",
+      "vn": "như thế đó (về vấn đề có quan hệ với người nghe)"
+    },
+    {
+      "jp": "あんなに",
+      "vn": "như thế kia (về vấn đề không có quan hệ với người nói và người nghe)"
+    },
+    {
+      "jp": "もしかしたら",
+      "vn": "có thể, biết đâu là, có khả năng"
+    },
+    {
+      "jp": "それはいけませんね。",
+      "vn": "Thế thì thật không tốt."
+    },
+    {
+      "jp": "オリンピック",
+      "vn": "Olympic"
+    },
+    {
+      "jp": "げんき",
+      "kanji": "元気",
+      "vn": "khỏe, khỏe mạnh"
+    },
+    {
+      "jp": "い",
+      "kanji": "胃",
+      "vn": "dạ dày"
+    },
+    {
+      "jp": "はたらきすぎ",
+      "kanji": "働きすぎ",
+      "vn": "làm việc quá sức, làm việc nhiều quá"
+    },
+    {
+      "jp": "ストレス",
+      "vn": "Stress, căng thẳng tâm lý"
+    },
+    {
+      "jp": "むりをします",
+      "kanji": "無理をします",
+      "vn": "làm quá sức, làm quá khả năng"
+    },
+    {
+      "jp": "ゆっくりします",
+      "vn": "nghỉ ngơi, thư thái, dưỡng sức"
+    },
+    {
+      "jp": "ほしうらない",
+      "kanji": "星占い",
+      "vn": "bói sao"
+    },
+    {
+      "jp": "おうしざ",
+      "kanji": "牡牛座",
+      "vn": "chòm sao Kim Ngưu"
+    },
+    {
+      "jp": "こまります",
+      "kanji": "困ります",
+      "vn": "rắc rối, khó xử, có vấn đề"
+    },
+    {
+      "jp": "たからくじ",
+      "kanji": "宝くじ",
+      "vn": "xổ số"
+    },
+    {
+      "jp": "あたります",
+      "kanji": "[宝くじが～]当たります",
+      "vn": "Trúng~ trúng [xổ số]"
+    },
+    {
+      "jp": "けんこう",
+      "kanji": "健康",
+      "vn": "sức khỏe, khỏe mạnh, an khang"
+    },
+    {
+      "jp": "れんあい",
+      "kanji": "恋愛",
+      "vn": "tình yêu"
+    },
+    {
+      "jp": "こいびと",
+      "kanji": "恋人",
+      "vn": "người yêu"
+    },
+    {
+      "jp": "「お」かねもち",
+      "kanji": "[お]金持ち",
+      "vn": "người giàu có, người có nhiều tiền"
+    }
+  ],
+  "33": [
+    {
+      "jp": "にげます",
+      "kanji": "逃げます",
+      "vn": "chạy trốn, bỏ chạy"
+    },
+    {
+      "jp": "さわぎます",
+      "kanji": "騒ぎます",
+      "vn": "làm ồn, làm rùm beng"
+    },
+    {
+      "jp": "あきらめます",
+      "vn": "từ bỏ, đầu hàng"
+    },
+    {
+      "jp": "なげます",
+      "kanji": "投げます",
+      "vn": "ném"
+    },
+    {
+      "jp": "まもります",
+      "kanji": "守ります",
+      "vn": "bảo vệ, tuân thủ, giữ"
+    },
+    {
+      "jp": "あげます",
+      "kanji": "上げます",
+      "vn": "nâng, nâng lên, tăng lên"
+    },
+    {
+      "jp": "さげます",
+      "kanji": "下げます",
+      "vn": "hạ, hạ xuống, giảm xuống"
+    },
+    {
+      "jp": "つたえます",
+      "kanji": "伝えます",
+      "vn": "truyền, truyền đạt"
+    },
+    {
+      "jp": "[くるまに～]ちゅういします",
+      "kanji": "[車に～]注意します",
+      "vn": "chú ý [ô tô]"
+    },
+    {
+      "jp": "[せきを～] はずします",
+      "kanji": "[席を～]外します",
+      "vn": "rời, không có ở [chỗ ngồi]"
+    },
+    {
+      "jp": "だめ[な]",
+      "vn": "hỏng, không được, không thể"
+    },
+    {
+      "jp": "せき",
+      "kanji": "席",
+      "vn": "chỗ ngồi, ghế"
+    },
+    {
+      "jp": "ファイト",
+      "vn": "“quyết chiến”, “cố lên”"
+    },
+    {
+      "jp": "マーク",
+      "vn": "ký hiệu (Mark)"
+    },
+    {
+      "jp": "ボール",
+      "vn": "quả bóng"
+    },
+    {
+      "jp": "せんたくき",
+      "kanji": "洗濯機",
+      "vn": "máy giặt"
+    },
+    {
+      "jp": "～き",
+      "kanji": "～機",
+      "vn": "máy ~"
+    },
+    {
+      "jp": "きそく",
+      "kanji": "規則",
+      "vn": "quy tắc, kỷ luật"
+    },
+    {
+      "jp": "しようきんし",
+      "kanji": "使用禁止",
+      "vn": "cấm sử dụng"
+    },
+    {
+      "jp": "たちいりきんし",
+      "kanji": "立入禁止",
+      "vn": "cấm vào"
+    },
+    {
+      "jp": "いりぐち",
+      "kanji": "入口",
+      "vn": "cửa vào"
+    },
+    {
+      "jp": "でぐち",
+      "kanji": "出口",
+      "vn": "cửa ra"
+    },
+    {
+      "jp": "ひじょうぐち",
+      "kanji": "非常口",
+      "vn": "cửa thoát hiểm"
+    },
+    {
+      "jp": "むりょう",
+      "kanji": "無料",
+      "vn": "miễn phí"
+    },
+    {
+      "jp": "ほんじつきゅうぎょう",
+      "kanji": "本日休業",
+      "vn": "hôm nay đóng cửa, hôm nay nghỉ"
+    },
+    {
+      "jp": "えいぎょうちゅう",
+      "kanji": "営業中",
+      "vn": "đang mở cửa"
+    },
+    {
+      "jp": "しようちゅう",
+      "kanji": "使用中",
+      "vn": "đang sử dụng"
+    },
+    {
+      "jp": "～ちゅう",
+      "kanji": "～中",
+      "vn": "đang ~"
+    },
+    {
+      "jp": "どういう～",
+      "vn": "~ gì, ~ thế nào"
+    },
+    {
+      "jp": "もう",
+      "vn": "không ~ nữa"
+    },
+    {
+      "jp": "あと～",
+      "vn": "còn ~"
+    },
+    {
+      "jp": "ちゅうしゃいはん",
+      "kanji": "駐車違反",
+      "vn": "đỗ xe trái phép"
+    },
+    {
+      "jp": "そりゃあ",
+      "vn": "thế thì, ồ"
+    },
+    {
+      "jp": "～いない",
+      "kanji": "～以内",
+      "vn": "trong khoảng ~, trong vòng ~"
+    },
+    {
+      "jp": "けいさつ",
+      "kanji": "警察",
+      "vn": "cảnh sát"
+    },
+    {
+      "jp": "ばっきん",
+      "kanji": "罰金",
+      "vn": "tiền phạt"
+    },
+    {
+      "jp": "でんぽう",
+      "kanji": "電報",
+      "vn": "bức điện, điện báo"
+    },
+    {
+      "jp": "ひとびと",
+      "kanji": "人々",
+      "vn": "người, những người"
+    },
+    {
+      "jp": "きゅうよう",
+      "kanji": "急用",
+      "vn": "việc gấp, việc khẩn"
+    },
+    {
+      "jp": "うちます",
+      "kanji": "[電報を～]打ちます",
+      "vn": "gửi [bức điện]"
+    },
+    {
+      "jp": "でんぽうだい",
+      "kanji": "電報代",
+      "vn": "tiền cước điện báo"
+    },
+    {
+      "jp": "できるだけ",
+      "vn": "cố gắng, trong khả năng có thể"
+    },
+    {
+      "jp": "みじかく",
+      "kanji": "短く",
+      "vn": "ngắn gọn, đơn giản"
+    },
+    {
+      "jp": "また",
+      "vn": "thêm nữa"
+    },
+    {
+      "jp": "たとえば",
+      "kanji": "例えば",
+      "vn": "ví dụ"
+    },
+    {
+      "jp": "キトク",
+      "kanji": "（危篤）",
+      "vn": "tình trạng hiểm nghèo"
+    },
+    {
+      "jp": "おもいびょうき",
+      "kanji": "重い病気",
+      "vn": "bệnh nặng"
+    },
+    {
+      "jp": "あす",
+      "kanji": "明日",
+      "vn": "ngày mai"
+    },
+    {
+      "jp": "るす",
+      "kanji": "留守",
+      "vn": "vắng nhà"
+    },
+    {
+      "jp": "るすばん",
+      "kanji": "留守番",
+      "vn": "trông nhà, giữ nhà"
+    },
+    {
+      "jp": "「お」いわい",
+      "kanji": "[お]祝い",
+      "vn": "việc mừng, vật mừng"
+    },
+    {
+      "jp": "なくなります",
+      "kanji": "亡くなります",
+      "vn": "chết, mất"
+    },
+    {
+      "jp": "かなしみ",
+      "kanji": "悲しみ",
+      "vn": "buồn"
+    },
+    {
+      "jp": "りようします",
+      "kanji": "利用します",
+      "vn": "sử dụng, lợi dụng, tận dụng, dùng"
+    }
+  ],
+  "34": [
+    {
+      "jp": "[はを～]みがきます",
+      "kanji": "[歯を～]磨きます",
+      "vn": "mài, đánh [răng]"
+    },
+    {
+      "jp": "くみたてます",
+      "kanji": "組み立てます",
+      "vn": "lắp, lắp ráp, lắp đặt"
+    },
+    {
+      "jp": "おります",
+      "kanji": "折ります",
+      "vn": "gấp, gập, bẻ gãy"
+    },
+    {
+      "jp": "[わすれものに～] きがつきます",
+      "kanji": "[忘れ物に～]気がつきます",
+      "vn": "nhận thấy, phát hiện [đồ bỏ quên]"
+    },
+    {
+      "jp": "[しょうゆを～] つけます",
+      "vn": "chấm [xì-dầu]"
+    },
+    {
+      "jp": "[かぎが～]みつかります",
+      "kanji": "[かぎが～]見つかります",
+      "vn": "được tìm thấy [chìa khóa ~]"
+    },
+    {
+      "jp": "[ネクタイを～]します",
+      "vn": "đeo, thắt [cà-vạt]"
+    },
+    {
+      "jp": "しつもんします",
+      "kanji": "質問します",
+      "vn": "hỏi"
+    },
+    {
+      "jp": "ほそい",
+      "kanji": "細い",
+      "vn": "gầy, hẹp, thon"
+    },
+    {
+      "jp": "ふとい",
+      "kanji": "太い",
+      "vn": "béo, to"
+    },
+    {
+      "jp": "ぼんおどり",
+      "kanji": "盆踊り",
+      "vn": "múa trong hội Bon"
+    },
+    {
+      "jp": "スポーツクラブ",
+      "vn": "câu lạc bộ thể thao, câu lạc bộ thể hình"
+    },
+    {
+      "jp": "かぐ",
+      "kanji": "家具",
+      "vn": "gia cụ, đồ dùng nội thất"
+    },
+    {
+      "jp": "キー",
+      "vn": "chìa khóa"
+    },
+    {
+      "jp": "シートベルト",
+      "vn": "dây an toàn (ở ghế ngồi)"
+    },
+    {
+      "jp": "せつめいしょ",
+      "kanji": "説明書",
+      "vn": "quyển hướng dẫn"
+    },
+    {
+      "jp": "ず",
+      "kanji": "図",
+      "vn": "sơ đồ, hình vẽ"
+    },
+    {
+      "jp": "せん",
+      "kanji": "線",
+      "vn": "đường"
+    },
+    {
+      "jp": "やじるし",
+      "kanji": "矢印",
+      "vn": "dấu mũi tên"
+    },
+    {
+      "jp": "くろ",
+      "kanji": "黒",
+      "vn": "màu đen"
+    },
+    {
+      "jp": "しろ",
+      "kanji": "白",
+      "vn": "màu trắng"
+    },
+    {
+      "jp": "あか",
+      "kanji": "赤",
+      "vn": "màu đỏ"
+    },
+    {
+      "jp": "あお",
+      "kanji": "青",
+      "vn": "màu xanh da trời"
+    },
+    {
+      "jp": "こん",
+      "kanji": "紺",
+      "vn": "màu xanh lam"
+    },
+    {
+      "jp": "きいろ",
+      "kanji": "黄色",
+      "vn": "màu vàng"
+    },
+    {
+      "jp": "しょうゆ",
+      "vn": "xì dầu"
+    },
+    {
+      "jp": "ソース",
+      "vn": "nước chấm, nước xốt"
+    },
+    {
+      "jp": "～か～",
+      "vn": "~hay ~"
+    },
+    {
+      "jp": "ゆうべ",
+      "vn": "tối qua, đêm qua"
+    },
+    {
+      "jp": "さっき",
+      "vn": "vừa rồi, vừa lúc nãy"
+    },
+    {
+      "jp": "さどう",
+      "kanji": "茶道",
+      "vn": "trà đạo"
+    },
+    {
+      "jp": "おちゃをたてます",
+      "kanji": "お茶をたてます",
+      "vn": "pha trà, khuấy trà"
+    },
+    {
+      "jp": "さきに",
+      "kanji": "先に",
+      "vn": "trước"
+    },
+    {
+      "jp": "のせます",
+      "kanji": "載せます",
+      "vn": "để lên, đặt lên"
+    },
+    {
+      "jp": "これでいいですか。",
+      "vn": "Thế này có được không?/thế này đã được chưa?"
+    },
+    {
+      "jp": "にがい",
+      "kanji": "苦い",
+      "vn": "đắng"
+    },
+    {
+      "jp": "おやこどんぶり",
+      "kanji": "親子どんぶり",
+      "vn": "món oyako-don (món cơm bát tô có thịt trứng ở trên)"
+    },
+    {
+      "jp": "ざいりょう",
+      "kanji": "材料",
+      "vn": "nguyên liệu"
+    },
+    {
+      "jp": "―ぶん-",
+      "kanji": "―分",
+      "vn": "-suất, – người"
+    },
+    {
+      "jp": "とりにく",
+      "kanji": "鳥肉",
+      "vn": "thịt gà"
+    },
+    {
+      "jp": "―グラム",
+      "vn": "- gam"
+    },
+    {
+      "jp": "―こ-",
+      "kanji": "―個",
+      "vn": "-cái, -quả, - miếng (dùng để đếm vật nhỏ)"
+    },
+    {
+      "jp": "たまねぎ",
+      "vn": "hành củ"
+    },
+    {
+      "jp": "よんぶんのいち",
+      "kanji": "4分の１ （１/４）",
+      "vn": "một phần tư"
+    },
+    {
+      "jp": "ちょうみりょう",
+      "kanji": "調味料",
+      "vn": "gia vị"
+    },
+    {
+      "jp": "なべ",
+      "vn": "cái chảo, cái nồi"
+    },
+    {
+      "jp": "ひ",
+      "kanji": "火",
+      "vn": "lửa"
+    },
+    {
+      "jp": "ひにかけます",
+      "kanji": "火にかけます",
+      "vn": "cho qua lửa, đun"
+    },
+    {
+      "jp": "にます",
+      "kanji": "煮ます",
+      "vn": "nấu"
+    },
+    {
+      "jp": "にえます",
+      "kanji": "煮えます",
+      "vn": "chín, được nấu"
+    },
+    {
+      "jp": "どんぶり",
+      "vn": "cái bát"
+    }
+  ],
+  "35": [
+    {
+      "jp": "[はなが～]さきます",
+      "kanji": "[花が～]咲きます",
+      "vn": "nở [hoa ~]"
+    },
+    {
+      "jp": "[いろが～] かわります",
+      "kanji": "[色が～] 変わります",
+      "vn": "thay đổi, đổi [màu]"
+    },
+    {
+      "jp": "こまります",
+      "kanji": "困ります",
+      "vn": "rắc rối, khó xử, có vấn đề"
+    },
+    {
+      "jp": "[まるを～] つけます",
+      "kanji": "[丸を～]付けます",
+      "vn": "vẽ, đánh dấu [tròn]"
+    },
+    {
+      "jp": "ひろいます",
+      "kanji": "拾います",
+      "vn": "nhặt, nhặt lên"
+    },
+    {
+      "jp": "[でんわが～]かかります",
+      "kanji": "[電話が～]",
+      "vn": "có điện thoại"
+    },
+    {
+      "jp": "らく[な]",
+      "kanji": "楽[な]",
+      "vn": "thoải mái, nhàn hạ, dễ dàng"
+    },
+    {
+      "jp": "ただしい",
+      "kanji": "正しい",
+      "vn": "đúng, chính xác"
+    },
+    {
+      "jp": "めずらしい",
+      "kanji": "珍しい",
+      "vn": "hiếm, hiếm có"
+    },
+    {
+      "jp": "かた",
+      "kanji": "方",
+      "vn": "vị, người (cách nói kính trọng của ひと)"
+    },
+    {
+      "jp": "むこう",
+      "kanji": "向こう",
+      "vn": "bên kia, bên đấy, phía đằng kia"
+    },
+    {
+      "jp": "しま",
+      "kanji": "島",
+      "vn": "đảo, hòn đảo"
+    },
+    {
+      "jp": "むら",
+      "kanji": "村",
+      "vn": "làng"
+    },
+    {
+      "jp": "みなと",
+      "kanji": "港",
+      "vn": "cảng, bến cảng"
+    },
+    {
+      "jp": "きんじょ",
+      "kanji": "近所",
+      "vn": "hàng xóm, khu vực lân cận"
+    },
+    {
+      "jp": "おくじょう",
+      "kanji": "屋上",
+      "vn": "mái nhà, nóc nhà"
+    },
+    {
+      "jp": "かいがい",
+      "kanji": "海外",
+      "vn": "nước ngoài hải ngoại"
+    },
+    {
+      "jp": "やまのぼり",
+      "kanji": "山登り",
+      "vn": "leo núi"
+    },
+    {
+      "jp": "ハイキング",
+      "vn": "leo núi, đi bộ trên núi"
+    },
+    {
+      "jp": "きかい",
+      "kanji": "機会",
+      "vn": "cơ hội"
+    },
+    {
+      "jp": "きょか",
+      "kanji": "許可",
+      "vn": "phép, giấy phép"
+    },
+    {
+      "jp": "まる",
+      "kanji": "丸",
+      "vn": "tròn, vòng tròn"
+    },
+    {
+      "jp": "そうさ",
+      "kanji": "操作",
+      "vn": "thao tác"
+    },
+    {
+      "jp": "ほうほう",
+      "kanji": "方法",
+      "vn": "phương pháp"
+    },
+    {
+      "jp": "せつび",
+      "kanji": "設備",
+      "vn": "thiết bị"
+    },
+    {
+      "jp": "カーテン",
+      "vn": "cái rèm"
+    },
+    {
+      "jp": "ひも",
+      "vn": "sợi dây"
+    },
+    {
+      "jp": "ふた",
+      "vn": "cái nắp"
+    },
+    {
+      "jp": "は",
+      "kanji": "葉",
+      "vn": "cái lá"
+    },
+    {
+      "jp": "きょく",
+      "kanji": "曲",
+      "vn": "bài hát, bản nhạc"
+    },
+    {
+      "jp": "たのしみ",
+      "kanji": "楽しみ",
+      "vn": "niềm vui, điều vui"
+    },
+    {
+      "jp": "もっと",
+      "vn": "hơn, nữa"
+    },
+    {
+      "jp": "はじめに",
+      "kanji": "初めに",
+      "vn": "đầu tiên, trước hết"
+    },
+    {
+      "jp": "これでおわります。",
+      "kanji": "これで終わります。",
+      "vn": "Đến đây là hết./ Chúng ta dừng lại ở đây."
+    },
+    {
+      "jp": "はこね",
+      "kanji": "箱根",
+      "vn": "một địa điểm nghỉ ngơi ở tỉnh Kanagawa"
+    },
+    {
+      "jp": "にっこう",
+      "kanji": "日光",
+      "vn": "một địa điểm du lịch ở Tochigi"
+    },
+    {
+      "jp": "しろうま",
+      "kanji": "白馬",
+      "vn": "một địa điểm du lịch ở tỉnh Nagano"
+    },
+    {
+      "jp": "アフリカ",
+      "vn": "châu Phi (Africa)"
+    },
+    {
+      "jp": "それなら",
+      "vn": "nếu thế thì, vậy thì"
+    },
+    {
+      "jp": "やこうバス",
+      "kanji": "夜行バス",
+      "vn": "(chuyến) xe buýt chạy đêm"
+    },
+    {
+      "jp": "りょこうしゃ",
+      "kanji": "旅行社",
+      "vn": "công ty du lịch"
+    },
+    {
+      "jp": "くわしい",
+      "kanji": "詳しい",
+      "vn": "cụ thể, chi tiết"
+    },
+    {
+      "jp": "スキーじょう",
+      "kanji": "スキー場",
+      "vn": "địa điểm trượt tuyết, bãi trượt tuyết"
+    },
+    {
+      "jp": "くさつ",
+      "kanji": "草津",
+      "vn": "một địa điểm du lịch ở tỉnh Gunma"
+    },
+    {
+      "jp": "しがこうげん",
+      "kanji": "志賀高原",
+      "vn": "một công viên quốc gia ở tỉnh Nagano"
+    },
+    {
+      "jp": "しゅ",
+      "kanji": "朱",
+      "vn": "đỏ, màu đỏ"
+    },
+    {
+      "jp": "まじわります",
+      "kanji": "交わります",
+      "vn": "giao lưu với, quan hệ với"
+    },
+    {
+      "jp": "ことわざ",
+      "vn": "ngạn ngữ, tục ngữ (proverb)"
+    },
+    {
+      "jp": "なかよくします",
+      "kanji": "仲よくします",
+      "vn": "quan hệ tốt với, chơi thân với"
+    },
+    {
+      "jp": "ひつよう「な」",
+      "kanji": "必要[な]",
+      "vn": "cần thiết"
+    }
+  ],
+  "36": [
+    {
+      "jp": "[にもつが～] とどきます",
+      "kanji": "[荷物が～]届きます",
+      "vn": "được gởi đến, được chuyển đến [hành lý ~]"
+    },
+    {
+      "jp": "[しあいに～] でます",
+      "kanji": "[試合に～]出ます",
+      "vn": "tham gia, tham dự [trận đấu]"
+    },
+    {
+      "jp": "[ワープロを～]うちます",
+      "kanji": "[ワープロを～]打ちます",
+      "vn": "đánh [máy chữ]"
+    },
+    {
+      "jp": "ちょきんします",
+      "kanji": "貯金します",
+      "vn": "tiết kiệm tiền, để dành tiền"
+    },
+    {
+      "jp": "ふとります",
+      "kanji": "太ります",
+      "vn": "béo lên, tăng cân"
+    },
+    {
+      "jp": "やせます",
+      "vn": "gầy đi, giảm cân"
+    },
+    {
+      "jp": "[７じを～] すぎます",
+      "kanji": "[７時を～]過ぎます",
+      "vn": "quá, qua [7 giờ]"
+    },
+    {
+      "jp": "[しゅうかんに～] なれます",
+      "kanji": "[習慣に～]慣れます",
+      "vn": "làm quen với [tập quán]"
+    },
+    {
+      "jp": "かたい",
+      "kanji": "硬い",
+      "vn": "cứng"
+    },
+    {
+      "jp": "やわらかい",
+      "kanji": "軟らかい",
+      "vn": "mềm"
+    },
+    {
+      "jp": "でんし～",
+      "kanji": "電子～",
+      "vn": "~ điện tử"
+    },
+    {
+      "jp": "けいたい～",
+      "kanji": "携帯～",
+      "vn": "cầm tay"
+    },
+    {
+      "jp": "こうじょう",
+      "kanji": "工場",
+      "vn": "nhà máy, phân xưởng"
+    },
+    {
+      "jp": "けんこう",
+      "kanji": "健康",
+      "vn": "sức khỏe"
+    },
+    {
+      "jp": "けんどう",
+      "kanji": "剣道",
+      "vn": "kiếm đạo"
+    },
+    {
+      "jp": "まいしゅう",
+      "kanji": "毎週",
+      "vn": "hàng tuần"
+    },
+    {
+      "jp": "まいつき",
+      "kanji": "毎月",
+      "vn": "hàng tháng"
+    },
+    {
+      "jp": "まいとし（まいねん）",
+      "kanji": "毎年",
+      "vn": "hàng năm"
+    },
+    {
+      "jp": "やっと",
+      "vn": "cuối cùng thì"
+    },
+    {
+      "jp": "かなり",
+      "vn": "khá, tương đối"
+    },
+    {
+      "jp": "かならず",
+      "kanji": "必ず",
+      "vn": "nhất định"
+    },
+    {
+      "jp": "ぜったいに",
+      "kanji": "絶対に",
+      "vn": "nhất định, tuyệt đối"
+    },
+    {
+      "jp": "じょうずに",
+      "kanji": "上手に",
+      "vn": "giỏi, khéo"
+    },
+    {
+      "jp": "できるだけ",
+      "vn": "cố gắng"
+    },
+    {
+      "jp": "このごろ",
+      "vn": "gần đây, dạo này"
+    },
+    {
+      "jp": "～ずつ",
+      "vn": "từng ~, ~ một"
+    },
+    {
+      "jp": "そのほうが～",
+      "vn": "cái đó ~ hơn, như thế ~ hơn"
+    },
+    {
+      "jp": "ショパン",
+      "vn": "Sô-panh, nhà soạn nhạc người Ba Lan (1810-1849)"
+    },
+    {
+      "jp": "おきゃくさま",
+      "kanji": "お客様",
+      "vn": "quý khách, khách hàng"
+    },
+    {
+      "jp": "とくべつ「な」",
+      "kanji": "特別[な]",
+      "vn": "đặc biệt"
+    },
+    {
+      "jp": "していらっしゃいます",
+      "vn": "đang làm (tôn kính ngữ của しています)"
+    },
+    {
+      "jp": "すいえい",
+      "kanji": "水泳",
+      "vn": "bơi, môn bơi"
+    },
+    {
+      "jp": "～とか、～とか",
+      "vn": "~ v.v."
+    },
+    {
+      "jp": "タンゴ",
+      "vn": "tăng-gô"
+    },
+    {
+      "jp": "チャレンジします",
+      "vn": "thử, thử thách, dám làm (challenge)"
+    },
+    {
+      "jp": "きもち",
+      "kanji": "気持ち",
+      "vn": "cảm giác, tâm trạng, tinh thần"
+    },
+    {
+      "jp": "のりもの",
+      "kanji": "乗り物",
+      "vn": "phương tiện đi lại"
+    },
+    {
+      "jp": "れきし",
+      "kanji": "歴史",
+      "vn": "lịch sử"
+    },
+    {
+      "jp": "―せいき",
+      "kanji": "―世紀",
+      "vn": "thế kỷ -"
+    },
+    {
+      "jp": "とおく",
+      "kanji": "遠く",
+      "vn": "xa, ở xa"
+    },
+    {
+      "jp": "きしゃ",
+      "kanji": "汽車",
+      "vn": "tàu hỏa chạy bằng hơi nước"
+    },
+    {
+      "jp": "きせん",
+      "kanji": "汽船",
+      "vn": "thuyền chạy bằng hơi nước"
+    },
+    {
+      "jp": "おおぜいの～",
+      "kanji": "大勢の～",
+      "vn": "nhiều (người)"
+    },
+    {
+      "jp": "はこびます",
+      "kanji": "運びます",
+      "vn": "mang, chở, vận chuyển"
+    },
+    {
+      "jp": "とびます",
+      "kanji": "飛びます",
+      "vn": "bay"
+    },
+    {
+      "jp": "あんぜん",
+      "kanji": "安全",
+      "vn": "an toàn"
+    },
+    {
+      "jp": "うちゅう",
+      "kanji": "宇宙",
+      "vn": "vũ trụ"
+    },
+    {
+      "jp": "ちきゅう",
+      "kanji": "地球",
+      "vn": "địa cầu, trái đất"
+    },
+    {
+      "jp": "ライトきょうだい",
+      "kanji": "ライト兄弟",
+      "vn": "anh em nhà Wright"
+    }
+  ],
+  "37": [
+    {
+      "jp": "ほめます",
+      "kanji": "褒めます",
+      "vn": "khen"
+    },
+    {
+      "jp": "しかります",
+      "vn": "mắng"
+    },
+    {
+      "jp": "さそいます",
+      "kanji": "誘います",
+      "vn": "mời, rủ"
+    },
+    {
+      "jp": "おこします",
+      "kanji": "起こします",
+      "vn": "đánh thức"
+    },
+    {
+      "jp": "しょうたいします",
+      "kanji": "招待します",
+      "vn": "mời"
+    },
+    {
+      "jp": "たのみます",
+      "kanji": "頼みます",
+      "vn": "nhờ"
+    },
+    {
+      "jp": "ちゅういします",
+      "kanji": "注意します",
+      "vn": "chú ý, nhắc nhở"
+    },
+    {
+      "jp": "とります",
+      "vn": "ăn trộm, lấy cắp"
+    },
+    {
+      "jp": "ふみます",
+      "kanji": "踏みます",
+      "vn": "giẫm, giẫm lên, giẫm vào"
+    },
+    {
+      "jp": "こわします",
+      "kanji": "壊します",
+      "vn": "phá, làm hỏng"
+    },
+    {
+      "jp": "よごします",
+      "kanji": "汚します",
+      "vn": "làm bẩn"
+    },
+    {
+      "jp": "おこないます",
+      "kanji": "行います",
+      "vn": "thực hiện, tiến hành"
+    },
+    {
+      "jp": "ゆしゅつします",
+      "kanji": "輸出します",
+      "vn": "xuất khẩu"
+    },
+    {
+      "jp": "ゆにゅうします",
+      "kanji": "輸入します",
+      "vn": "nhập khẩu"
+    },
+    {
+      "jp": "ほんやくします",
+      "kanji": "翻訳します",
+      "vn": "dịch (sách, tài liệu)"
+    },
+    {
+      "jp": "はつめいします",
+      "kanji": "発明します",
+      "vn": "phát minh"
+    },
+    {
+      "jp": "はっけんします",
+      "kanji": "発見します",
+      "vn": "phát kiến, tìm ra, tìm thấy"
+    },
+    {
+      "jp": "せっけいします",
+      "kanji": "設計します",
+      "vn": "thiết kế"
+    },
+    {
+      "jp": "こめ",
+      "kanji": "米",
+      "vn": "gạo"
+    },
+    {
+      "jp": "むぎ",
+      "kanji": "麦",
+      "vn": "lúa mạch"
+    },
+    {
+      "jp": "せきゆ",
+      "kanji": "石油",
+      "vn": "dầu mỏ"
+    },
+    {
+      "jp": "げんりょう",
+      "kanji": "原料",
+      "vn": "nguyên liệu"
+    },
+    {
+      "jp": "デート",
+      "vn": "cuộc hẹn hò (của nam nữ)"
+    },
+    {
+      "jp": "どろぼう",
+      "kanji": "泥棒",
+      "vn": "kẻ trộm"
+    },
+    {
+      "jp": "けいかん",
+      "kanji": "警官",
+      "vn": "cảnh sát"
+    },
+    {
+      "jp": "けんちくか",
+      "kanji": "建築家",
+      "vn": "kiến trúc sư"
+    },
+    {
+      "jp": "かがくしゃ",
+      "kanji": "科学者",
+      "vn": "nhà khoa học"
+    },
+    {
+      "jp": "まんが",
+      "kanji": "漫画",
+      "vn": "truyện tranh"
+    },
+    {
+      "jp": "せかいじゅう",
+      "kanji": "世界中",
+      "vn": "khắp thế giới, toàn thế giới"
+    },
+    {
+      "jp": "～じゅう",
+      "kanji": "～中",
+      "vn": "khắp ~, toàn ~"
+    },
+    {
+      "jp": "～によって",
+      "vn": "do ~"
+    },
+    {
+      "jp": "よかったですね。",
+      "vn": "May nhỉ./ may cho anh/chị nhỉ."
+    },
+    {
+      "jp": "ドミニカ",
+      "vn": "Dominica, tên một quốc gia ở Trung Mỹ"
+    },
+    {
+      "jp": "ライトきょうだい",
+      "kanji": "ライト兄弟",
+      "vn": "anh em nhà Wright, hai anh em người Mỹ đi tiên phong trong ngành hàng không Wilbur Wright (1867-1912) và Orville Wright (1871-1948)"
+    },
+    {
+      "jp": "げんじものがたり",
+      "kanji": "源氏物語",
+      "vn": "“chuyện Genji”"
+    },
+    {
+      "jp": "むらさきしきぶ",
+      "kanji": "紫式部",
+      "vn": "Nữ tác giả viết “chuyện Genji” sống trong thời Heian"
+    },
+    {
+      "jp": "グラハム・ベル",
+      "vn": "Alexander Graham Bell (1847-1922), nhà phát minh người Mỹ"
+    },
+    {
+      "jp": "とうしょうぐう",
+      "kanji": "東照宮",
+      "vn": "tên đền thờ Tokugawa Ieyasu ở Nikko, tỉnh Tochigi"
+    },
+    {
+      "jp": "えどじだい",
+      "kanji": "江戸時代",
+      "vn": "thời Edo (1603-1868)"
+    },
+    {
+      "jp": "サウジアラビア",
+      "vn": "Ả-rập Xê-út (Saudi Arabia)"
+    },
+    {
+      "jp": "うめたてます",
+      "kanji": "埋め立てます",
+      "vn": "lấp (biển)"
+    },
+    {
+      "jp": "ぎじゅつ",
+      "kanji": "技術",
+      "vn": "kỹ thuật"
+    },
+    {
+      "jp": "とち",
+      "kanji": "土地",
+      "vn": "đất, diện tích đất"
+    },
+    {
+      "jp": "そうおん",
+      "kanji": "騒音",
+      "vn": "tiếng ồn"
+    },
+    {
+      "jp": "りようします",
+      "kanji": "利用します",
+      "vn": "lợi dụng, sử dụng"
+    },
+    {
+      "jp": "アクセス",
+      "vn": "nối, giao thông đi đến"
+    },
+    {
+      "jp": "―せいき",
+      "kanji": "―世紀",
+      "vn": "thế kỷ -"
+    },
+    {
+      "jp": "ごうか「な」",
+      "kanji": "豪華[な]",
+      "vn": "hào hoa, sang trọng"
+    },
+    {
+      "jp": "ちょうこく",
+      "kanji": "彫刻",
+      "vn": "điêu khắc"
+    },
+    {
+      "jp": "ねむります",
+      "kanji": "眠ります",
+      "vn": "ngủ"
+    },
+    {
+      "jp": "ほります",
+      "kanji": "彫ります",
+      "vn": "khắc"
+    },
+    {
+      "jp": "なかま",
+      "kanji": "仲間",
+      "vn": "bạn bè, đồng nghiệp"
+    },
+    {
+      "jp": "そのあと",
+      "vn": "sau đó"
+    },
+    {
+      "jp": "いっしょうけんめい",
+      "kanji": "一生懸命",
+      "vn": "(cố gắng) hết sức, chăm chỉ, miệt mài"
+    },
+    {
+      "jp": "ねずみ",
+      "vn": "con chuột"
+    },
+    {
+      "jp": "いっぴきもいません。",
+      "kanji": "一匹もいません。",
+      "vn": "Không có con nào cả."
+    },
+    {
+      "jp": "ねむりねこ",
+      "kanji": "眠り猫",
+      "vn": "“con mèo ngủ”, tác phẩm điêu khắc của Jingoro ở Tosho-gu"
+    },
+    {
+      "jp": "ひだりじんごろう",
+      "kanji": "左甚五郎",
+      "vn": "tên một nhà điêu khắc nỗi tiếng thời Edo (1594-1651)"
+    }
+  ],
+  "38": [
+    {
+      "jp": "そだてます",
+      "kanji": "育てます",
+      "vn": "nuôi, trồng"
+    },
+    {
+      "jp": "はこびます",
+      "kanji": "運びます",
+      "vn": "chở, vận chuyển"
+    },
+    {
+      "jp": "なくなります",
+      "kanji": "亡くなります",
+      "vn": "mất, qua đời (cách nói gián tiếp của しにます(bài 39))"
+    },
+    {
+      "jp": "にゅういんします",
+      "kanji": "入院します",
+      "vn": "nhập viện"
+    },
+    {
+      "jp": "たいいんします",
+      "kanji": "退院します",
+      "vn": "xuất viện"
+    },
+    {
+      "jp": "[でんげんを～] いれます",
+      "kanji": "[電源を～]入れます",
+      "vn": "bật [công tác điện, nguồn điện]"
+    },
+    {
+      "jp": "[でんげんを～]きります",
+      "kanji": "[電源を～]切ります",
+      "vn": "tắt [công tác điện, nguồn điện]"
+    },
+    {
+      "jp": "[かぎを～]かけます",
+      "kanji": "[かぎを～]掛けます",
+      "vn": "khóa [chìa khóa]"
+    },
+    {
+      "jp": "きもちがいい",
+      "kanji": "気持ちがいい",
+      "vn": "dễ chịu, thư giãn"
+    },
+    {
+      "jp": "きもちがわるい",
+      "kanji": "気持ちが悪い",
+      "vn": "khó chịu"
+    },
+    {
+      "jp": "おおきな～",
+      "kanji": "大きな～",
+      "vn": "~ to, ~ lớn"
+    },
+    {
+      "jp": "ちいさな～",
+      "kanji": "小さな～",
+      "vn": "nhỏ, ~ bé"
+    },
+    {
+      "jp": "あかちゃん",
+      "kanji": "赤ちゃん",
+      "vn": "em bé"
+    },
+    {
+      "jp": "しょうがっこう",
+      "kanji": "小学校",
+      "vn": "trường tiểu học"
+    },
+    {
+      "jp": "ちゅうがっこう",
+      "kanji": "中学校",
+      "vn": "trường trung học cơ sở"
+    },
+    {
+      "jp": "えきまえ",
+      "kanji": "駅前",
+      "vn": "khu vực trước nhà ga"
+    },
+    {
+      "jp": "かいがん",
+      "kanji": "海岸",
+      "vn": "bờ biển"
+    },
+    {
+      "jp": "うそ",
+      "vn": "nói dối, lời nói dối"
+    },
+    {
+      "jp": "しょるい",
+      "kanji": "書類",
+      "vn": "giấy tờ, tài liệu"
+    },
+    {
+      "jp": "でんげん",
+      "kanji": "電源",
+      "vn": "nguồn điện, công tắc điện"
+    },
+    {
+      "jp": "～せい",
+      "kanji": "～製",
+      "vn": "sản xuất tại ~"
+    },
+    {
+      "jp": "[あ、]いけない。",
+      "vn": "Ôi, hỏng mất rồi./ ôi, trời ơi."
+    },
+    {
+      "jp": "おさきに [しつれいします]",
+      "kanji": "お先に[失礼します]。",
+      "vn": "tôi xin phép về trước"
+    },
+    {
+      "jp": "げんばくドーム",
+      "kanji": "原爆ドーム",
+      "vn": "nhà vòm Bom nguyên tử, một di tích"
+    },
+    {
+      "jp": "かいらん",
+      "kanji": "回覧",
+      "vn": "tập thông báo"
+    },
+    {
+      "jp": "けんきゅうしつ",
+      "kanji": "研究室",
+      "vn": "phòng nghiên cứu"
+    },
+    {
+      "jp": "きちんと",
+      "vn": "nghiêm chỉnh, hẳn hoi, đứng đắn"
+    },
+    {
+      "jp": "せいりします",
+      "vn": "sắp xếp"
+    },
+    {
+      "jp": "～という本",
+      "kanji": "～toiu本",
+      "vn": "quyển sách có tên là ~"
+    },
+    {
+      "jp": "―さつ",
+      "kanji": "－冊",
+      "vn": "(đơn vị đếm sách, v.v.)"
+    },
+    {
+      "jp": "はんこ",
+      "vn": "con dấu, dấu"
+    },
+    {
+      "jp": "[はんこを～]おします",
+      "kanji": "[はんこを～] 押します",
+      "vn": "đóng [dấu]"
+    },
+    {
+      "jp": "ふたご",
+      "kanji": "双子",
+      "vn": "cặp sinh đôi"
+    },
+    {
+      "jp": "しまい",
+      "kanji": "姉妹",
+      "vn": "chị em"
+    },
+    {
+      "jp": "5ねんせい",
+      "kanji": "５年生",
+      "vn": "học sinh năm thứ 5"
+    },
+    {
+      "jp": "にています",
+      "kanji": "似ています",
+      "vn": "giống"
+    },
+    {
+      "jp": "せいかく",
+      "kanji": "性格",
+      "vn": "tính cách, tính tình"
+    },
+    {
+      "jp": "おとなしい",
+      "vn": "hiền lành, trầm"
+    },
+    {
+      "jp": "せわをします",
+      "kanji": "世話をします",
+      "vn": "chăm sóc, giúp đỡ"
+    },
+    {
+      "jp": "じかんがたちます",
+      "kanji": "時間がたちます",
+      "vn": "thời gian trôi đi"
+    },
+    {
+      "jp": "だいすき「な」",
+      "kanji": "大好き[な]",
+      "vn": "rất thích"
+    },
+    {
+      "jp": "てん",
+      "kanji": "―点",
+      "vn": "- điểm"
+    },
+    {
+      "jp": "クラス",
+      "vn": "lớp học, lớp"
+    },
+    {
+      "jp": "けんかします",
+      "vn": "cãi nhau"
+    }
+  ],
+  "39": [
+    {
+      "jp": "[しつもんに～]こたえます",
+      "kanji": "[質問に～]答えます",
+      "vn": "trả lời [câu hỏi]"
+    },
+    {
+      "jp": "[ビルが～]たおれます",
+      "kanji": "[ビルが～]倒れます",
+      "vn": "đổ [nhà cao tầng ~]"
+    },
+    {
+      "jp": "[うちが～]やけます",
+      "kanji": "[うちが～]焼けます",
+      "vn": "cháy [nhà ~]"
+    },
+    {
+      "jp": "[パンが～]やけます",
+      "kanji": "[パンが～]焼けます",
+      "vn": "được nướng [bánh mì ~]"
+    },
+    {
+      "jp": "[にくが～]やけます",
+      "kanji": "[肉が～]焼けます",
+      "vn": "được nướng [thịt ~]"
+    },
+    {
+      "jp": "[みちを～]とおります",
+      "kanji": "[道を～]通ります",
+      "vn": "đi qua (đường)"
+    },
+    {
+      "jp": "しにます",
+      "kanji": "死にます",
+      "vn": "chết"
+    },
+    {
+      "jp": "びっくりします",
+      "vn": "ngạc nhiên, giật mình"
+    },
+    {
+      "jp": "がっかりします",
+      "vn": "thất vọng"
+    },
+    {
+      "jp": "あんしんします",
+      "kanji": "安心します",
+      "vn": "yên tâm"
+    },
+    {
+      "jp": "ちこくします",
+      "kanji": "遅刻します",
+      "vn": "đến chậm, đến muộn"
+    },
+    {
+      "jp": "そうたいします",
+      "kanji": "早退します",
+      "vn": "về sớm, ra sớm (việc làm hay trường học)"
+    },
+    {
+      "jp": "けんかします",
+      "vn": "cãi nhau"
+    },
+    {
+      "jp": "りこんします",
+      "kanji": "離婚します",
+      "vn": "ly dị, ly hôn"
+    },
+    {
+      "jp": "ふくざつ[な]",
+      "kanji": "複雑[な]",
+      "vn": "phức tạp"
+    },
+    {
+      "jp": "じゃま[な]",
+      "kanji": "邪魔[な]",
+      "vn": "cản trở, chiếm diện tích"
+    },
+    {
+      "jp": "きたない",
+      "kanji": "汚い",
+      "vn": "bẩn"
+    },
+    {
+      "jp": "うれしい",
+      "vn": "vui, mừng"
+    },
+    {
+      "jp": "かなしい",
+      "kanji": "悲しい",
+      "vn": "buồn, đau thương"
+    },
+    {
+      "jp": "はずかしい",
+      "kanji": "恥ずかしい",
+      "vn": "xấu hổ, thẹn, hổ thẹn"
+    },
+    {
+      "jp": "じしん",
+      "kanji": "地震",
+      "vn": "động đất"
+    },
+    {
+      "jp": "たいふう",
+      "kanji": "台風",
+      "vn": "bão"
+    },
+    {
+      "jp": "かじ",
+      "kanji": "火事",
+      "vn": "hỏa hoạn"
+    },
+    {
+      "jp": "じこ",
+      "kanji": "事故",
+      "vn": "tai nạn, sự cố"
+    },
+    {
+      "jp": "[お]みあい",
+      "kanji": "[お]見合い",
+      "vn": "Nam nữ làm quen qua giới thiệu, làm mối"
+    },
+    {
+      "jp": "でんわだい",
+      "kanji": "電話代",
+      "vn": "tiền điện thoại, phí điện thoại"
+    },
+    {
+      "jp": "～だい",
+      "kanji": "～代",
+      "vn": "tiền ~, phí ~"
+    },
+    {
+      "jp": "フロント",
+      "vn": "bộ phận tiếp tân, bộ phận thường trực"
+    },
+    {
+      "jp": "―ごうしつ",
+      "kanji": "―号室",
+      "vn": "phòng số -"
+    },
+    {
+      "jp": "あせ",
+      "kanji": "汗",
+      "vn": "mồ hôi (～をかきます：ra mồ hôi)"
+    },
+    {
+      "jp": "タオル",
+      "vn": "khăn lau, khăn tắm"
+    },
+    {
+      "jp": "せっけん",
+      "vn": "xà phòng"
+    },
+    {
+      "jp": "おおぜい",
+      "kanji": "大勢",
+      "vn": "nhiều người"
+    },
+    {
+      "jp": "おつかれさまでした。",
+      "kanji": "お疲れ様でした。",
+      "vn": "Chắc anh chị đã mệt vì làm việc. (câu chào dùng để nói với người đã làm xong một việc gì đó)"
+    },
+    {
+      "jp": "うかがいます。",
+      "kanji": "伺います。",
+      "vn": "Tôi đến thăm. (cách nói khiêm nhường của いきます)"
+    },
+    {
+      "jp": "とちゅうで",
+      "kanji": "途中で",
+      "vn": "giữa đường, dọc đường, giữa chừng"
+    },
+    {
+      "jp": "トラック",
+      "vn": "xe tải"
+    },
+    {
+      "jp": "ぶつかります",
+      "vn": "đâm, va chạm"
+    },
+    {
+      "jp": "ならびます",
+      "kanji": "並びます",
+      "vn": "xếp hàng"
+    },
+    {
+      "jp": "おとな",
+      "kanji": "大人",
+      "vn": "người lớn"
+    },
+    {
+      "jp": "ようふく",
+      "kanji": "洋服",
+      "vn": "quần áo kiểu Tây Âu"
+    },
+    {
+      "jp": "せいようかします",
+      "kanji": "西洋化します",
+      "vn": "Tây Âu hóa"
+    },
+    {
+      "jp": "あいます",
+      "kanji": "合います",
+      "vn": "vừa, hợp"
+    },
+    {
+      "jp": "いまでは",
+      "kanji": "今では",
+      "vn": "bây giờ (thì)"
+    },
+    {
+      "jp": "せいじんしき",
+      "kanji": "成人式",
+      "vn": "Lễ trưởng thành, Lễ thành Nhân"
+    },
+    {
+      "jp": "ふしぎ「な」",
+      "kanji": "不思議[な]",
+      "vn": "bí ẩn, kỳ thú, khó hiểu"
+    }
+  ],
+  "40": [
+    {
+      "jp": "かぞえます",
+      "kanji": "数えます",
+      "vn": "đếm"
+    },
+    {
+      "jp": "はかります",
+      "kanji": "測ります、量ります",
+      "vn": "đo, cân"
+    },
+    {
+      "jp": "たしかめます",
+      "kanji": "確かめます",
+      "vn": "xác nhận"
+    },
+    {
+      "jp": "[サイズが～]あいます",
+      "kanji": "[サイズが～]合います",
+      "vn": "vừa, hợp [kích thước ~]"
+    },
+    {
+      "jp": "しゅっぱつします",
+      "kanji": "出発します",
+      "vn": "xuất phát, khởi hành, đi"
+    },
+    {
+      "jp": "とうちゃくします",
+      "kanji": "到着します",
+      "vn": "đến, đến nơi"
+    },
+    {
+      "jp": "よいます",
+      "kanji": "酔います",
+      "vn": "TÚY"
+    },
+    {
+      "jp": "きけん[な]",
+      "kanji": "危険[な]",
+      "vn": "nguy hiểm"
+    },
+    {
+      "jp": "ひつよう[な]",
+      "kanji": "必要[な]",
+      "vn": "cần thiết"
+    },
+    {
+      "jp": "うちゅう",
+      "kanji": "宇宙",
+      "vn": "vũ trụ"
+    },
+    {
+      "jp": "ちきゅう",
+      "kanji": "地球",
+      "vn": "trái đất"
+    },
+    {
+      "jp": "ぼうねんかい",
+      "kanji": "忘年会",
+      "vn": "tiệc tất niên"
+    },
+    {
+      "jp": "しんねんかい",
+      "kanji": "新年会",
+      "vn": "tiệc tân niên"
+    },
+    {
+      "jp": "にじかい",
+      "kanji": "二次会",
+      "vn": "bữa tiệc thứ hai, “tăng hai”"
+    },
+    {
+      "jp": "たいかい",
+      "kanji": "大会",
+      "vn": "đại hội, cuộc thi"
+    },
+    {
+      "jp": "マラソン",
+      "vn": "ma ra tông"
+    },
+    {
+      "jp": "コンテスト",
+      "vn": "cuộc thi"
+    },
+    {
+      "jp": "おもて",
+      "kanji": "表",
+      "vn": "phía trước, mặt trước"
+    },
+    {
+      "jp": "うら",
+      "kanji": "裏",
+      "vn": "phía sau, mặt sau"
+    },
+    {
+      "jp": "へんじ",
+      "kanji": "返事",
+      "vn": "hồi âm, trả lời"
+    },
+    {
+      "jp": "もうしこみ",
+      "kanji": "申し込み",
+      "vn": "đăng ký"
+    },
+    {
+      "jp": "ほんとう",
+      "vn": "thật"
+    },
+    {
+      "jp": "まちがい",
+      "vn": "sai, lỗi"
+    },
+    {
+      "jp": "きず",
+      "kanji": "傷",
+      "vn": "vết thương"
+    },
+    {
+      "jp": "ズボン",
+      "vn": "cái quần"
+    },
+    {
+      "jp": "ながさ",
+      "kanji": "長さ",
+      "vn": "chiều dài"
+    },
+    {
+      "jp": "おもさ",
+      "kanji": "重さ",
+      "vn": "cân nặng, trọng lượng"
+    },
+    {
+      "jp": "たかさ",
+      "kanji": "高さ",
+      "vn": "chiều cao"
+    },
+    {
+      "jp": "おおきさ",
+      "kanji": "大きさ",
+      "vn": "cỡ, kích thước"
+    },
+    {
+      "jp": "[－]びん",
+      "kanji": "[－]便",
+      "vn": "chuyến bay [―]"
+    },
+    {
+      "jp": "―ごう",
+      "kanji": "―号",
+      "vn": "số [―] (số hiệu đoàn tàu, cơn bão v.v.)"
+    },
+    {
+      "jp": "―こ",
+      "kanji": "－個",
+      "vn": "cái, cục, viên (đơn vị đếm vật nhỏ)"
+    },
+    {
+      "jp": "―ほん（―ぽん、―ぼん）",
+      "kanji": "―本",
+      "vn": "― cái (đơn vị đếm vật dài)"
+    },
+    {
+      "jp": "―はい（―ぱい、―ばい）",
+      "kanji": "―杯",
+      "vn": "―chén, ―cốc"
+    },
+    {
+      "jp": "―キロ",
+      "vn": "―ki-lô, ―cân"
+    },
+    {
+      "jp": "―グラム",
+      "vn": "―gam"
+    },
+    {
+      "jp": "―センチ",
+      "vn": "―xăng-ti-mét"
+    },
+    {
+      "jp": "―ミリ",
+      "vn": "―mi-li-mét"
+    },
+    {
+      "jp": "～いじょう",
+      "kanji": "～以上",
+      "vn": "~ trở lên, trên"
+    },
+    {
+      "jp": "～いか",
+      "kanji": "～以下",
+      "vn": "trở xuống, dưới"
+    },
+    {
+      "jp": "さあ",
+      "vn": "À…,Ồ… (dùng khi không rõ về điều gì đó)"
+    },
+    {
+      "jp": "ゴッホ",
+      "vn": "Van-gốc (1853-1890), danh họa người Hà Lan"
+    },
+    {
+      "jp": "ゆきまつり",
+      "kanji": "雪祭り",
+      "vn": "Lễ hội tuyết (ở Sapporo)"
+    },
+    {
+      "jp": "のぞみ",
+      "vn": "tên một loại tàu Shinkansen"
+    },
+    {
+      "jp": "ＪＬ",
+      "vn": "hãng hàng không Nhật Bản (Japan Airlines)"
+    },
+    {
+      "jp": "どうでしょうか。",
+      "vn": "Thế nào? (cách nói lịch sự của どうですか)"
+    },
+    {
+      "jp": "クラス",
+      "vn": "lớp học"
+    },
+    {
+      "jp": "テスト",
+      "vn": "Bài kiểm tra, bài thi"
+    },
+    {
+      "jp": "せいせき",
+      "kanji": "成績",
+      "vn": "kết quả, thành tích"
+    },
+    {
+      "jp": "ところで",
+      "vn": "nhân tiện đây"
+    },
+    {
+      "jp": "いらっしゃいます",
+      "vn": "đến (tôn kính ngữ của きます)"
+    },
+    {
+      "jp": "ようす",
+      "kanji": "様子",
+      "vn": "vẻ, tình hình"
+    },
+    {
+      "jp": "じけん",
+      "kanji": "事件",
+      "vn": "vụ án"
+    },
+    {
+      "jp": "オートバイ",
+      "vn": "xe máy"
+    },
+    {
+      "jp": "ばくだん",
+      "kanji": "爆弾",
+      "vn": "BỘC ĐẠN"
+    },
+    {
+      "jp": "つみます",
+      "kanji": "積みます",
+      "vn": "chuyển lên, xếp hàng lên"
+    },
+    {
+      "jp": "うんてんしゅ",
+      "kanji": "運転手",
+      "vn": "lái xe"
+    },
+    {
+      "jp": "はなれた",
+      "kanji": "離れた",
+      "vn": "xa cách, xa"
+    },
+    {
+      "jp": "が",
+      "vn": "nhưng"
+    },
+    {
+      "jp": "きゅうに",
+      "kanji": "急に",
+      "vn": "gấp, đột nhiên"
+    },
+    {
+      "jp": "うごかします",
+      "kanji": "動かします",
+      "vn": "khởi động, chạy"
+    },
+    {
+      "jp": "いっしょうけんめい",
+      "kanji": "一生懸命",
+      "vn": "hết sức, chăm chỉ"
+    },
+    {
+      "jp": "はんにん",
+      "kanji": "犯人",
+      "vn": "thủ phạm"
+    },
+    {
+      "jp": "てに いれます",
+      "kanji": "手に入れます",
+      "vn": "có được, lấy được, đoạt được"
+    },
+    {
+      "jp": "いまでも",
+      "kanji": "今でも",
+      "vn": "ngay cả bây giờ"
+    },
+    {
+      "jp": "うわさします",
+      "vn": "đồn đại"
+    }
+  ],
+  "41": [
+    {
+      "jp": "いただきます",
+      "vn": "nhận (khiêm nhường ngữ củaもらいます)"
+    },
+    {
+      "jp": "くださいます",
+      "vn": "Cho, tặng (tôi) (tôn kính ngữ củaくれます)"
+    },
+    {
+      "jp": "やります",
+      "vn": "cho, tặng (dùng với người dưới hoặc bằng vai)"
+    },
+    {
+      "jp": "よびます",
+      "kanji": "呼びます",
+      "vn": "mời"
+    },
+    {
+      "jp": "とりかえます",
+      "kanji": "取り替えます",
+      "vn": "đổi, thay"
+    },
+    {
+      "jp": "しんせつにします",
+      "kanji": "親切にします",
+      "vn": "giúp đỡ, đối xử thân thiện"
+    },
+    {
+      "jp": "かわいい",
+      "vn": "xinh, đáng yêu"
+    },
+    {
+      "jp": "おいわい",
+      "kanji": "お祝い",
+      "vn": "mừng, quà mừng (～をします：mừng)"
+    },
+    {
+      "jp": "おとしだま",
+      "kanji": "お年玉",
+      "vn": "tiền mừng tuổi"
+    },
+    {
+      "jp": "[お]みまい",
+      "kanji": "[お]見舞い",
+      "vn": "thăm người ốm"
+    },
+    {
+      "jp": "きょうみ",
+      "kanji": "興味",
+      "vn": "sở thích, quan tâm（[コンピューターに] ～が あります：quan tâm đến [máy tính]）"
+    },
+    {
+      "jp": "じょうほう",
+      "kanji": "情報",
+      "vn": "thông tin"
+    },
+    {
+      "jp": "ぶんぽう",
+      "kanji": "文法",
+      "vn": "ngữ pháp"
+    },
+    {
+      "jp": "はつおん",
+      "kanji": "発音",
+      "vn": "phát âm"
+    },
+    {
+      "jp": "さる",
+      "kanji": "猿",
+      "vn": "con khỉ"
+    },
+    {
+      "jp": "えさ",
+      "vn": "đồ ăn cho động vật, mồi"
+    },
+    {
+      "jp": "おもちゃ",
+      "vn": "đồ chơi"
+    },
+    {
+      "jp": "えほん",
+      "vn": "quyển truyện tranh"
+    },
+    {
+      "jp": "えはがき",
+      "kanji": "絵はがき",
+      "vn": "bưu ảnh"
+    },
+    {
+      "jp": "ドライバー",
+      "vn": "cái tua-vít"
+    },
+    {
+      "jp": "ハンカチ",
+      "vn": "khăn mùi xoa, khăn tay"
+    },
+    {
+      "jp": "くつした",
+      "kanji": "靴下",
+      "vn": "cái tất"
+    },
+    {
+      "jp": "てぶくろ",
+      "kanji": "手袋",
+      "vn": "cái găng tay"
+    },
+    {
+      "jp": "ゆびわ",
+      "kanji": "指輪",
+      "vn": "cái nhẫn"
+    },
+    {
+      "jp": "バッグ",
+      "vn": "cái túi (bag)"
+    },
+    {
+      "jp": "そふ",
+      "kanji": "祖父",
+      "vn": "ông (dùng với bản thân)"
+    },
+    {
+      "jp": "そぼ",
+      "kanji": "祖母",
+      "vn": "bà (dùng với bản thân)"
+    },
+    {
+      "jp": "まご",
+      "kanji": "孫",
+      "vn": "cháu"
+    },
+    {
+      "jp": "おじ",
+      "vn": "chú, cậu, bác (dùng với bản thân)"
+    },
+    {
+      "jp": "おじさん",
+      "vn": "Chú, cậu, bác (dùng với người khác)"
+    },
+    {
+      "jp": "おば",
+      "vn": "cô, dì, bác (dùng với bản thân)"
+    },
+    {
+      "jp": "おばさん",
+      "vn": "cô, dì, bác (dùng với người khác)"
+    },
+    {
+      "jp": "おととし",
+      "vn": "năm kia"
+    },
+    {
+      "jp": "はあ",
+      "vn": "à, ồ"
+    },
+    {
+      "jp": "もうしわけありません",
+      "kanji": "申し訳ありません。",
+      "vn": "Xin lỗi."
+    },
+    {
+      "jp": "あずかります",
+      "kanji": "預かります",
+      "vn": "giữ, giữ hộ, giữ cho"
+    },
+    {
+      "jp": "せんじつ",
+      "kanji": "先日",
+      "vn": "hôm trước, mấy hôm trước"
+    },
+    {
+      "jp": "たすかります",
+      "kanji": "助かります",
+      "vn": "may có anh/ chị giúp"
+    },
+    {
+      "jp": "むかしばなし",
+      "kanji": "昔話",
+      "vn": "chuyện cổ tích"
+    },
+    {
+      "jp": "ある",
+      "vn": "～có ~, một ~"
+    },
+    {
+      "jp": "おとこ",
+      "kanji": "男",
+      "vn": "người đàn ông, nam giới"
+    },
+    {
+      "jp": "こどもたち",
+      "kanji": "子供たち",
+      "vn": "trẻ em, trẻ con, bọn trẻ"
+    },
+    {
+      "jp": "いじめます",
+      "vn": "bắt nạt"
+    },
+    {
+      "jp": "かめ",
+      "vn": "con rùa"
+    },
+    {
+      "jp": "たすけます",
+      "kanji": "助けます",
+      "vn": "giúp, giúp đỡ"
+    },
+    {
+      "jp": "「お」しろ",
+      "kanji": "[お]城",
+      "vn": "lâu đài, thành"
+    },
+    {
+      "jp": "おひめさま",
+      "kanji": "お姫様",
+      "vn": "công chúa"
+    },
+    {
+      "jp": "たのしく",
+      "kanji": "楽しく",
+      "vn": "LẠC/NHẠC"
+    },
+    {
+      "jp": "くらします",
+      "kanji": "暮らします",
+      "vn": "sống, sinh hoạt"
+    },
+    {
+      "jp": "りく",
+      "kanji": "陸",
+      "vn": "đất liền, lục địa"
+    },
+    {
+      "jp": "すると",
+      "vn": "thế rồi, sau đó"
+    },
+    {
+      "jp": "けむり",
+      "kanji": "煙",
+      "vn": "khói"
+    },
+    {
+      "jp": "まっしろ「な」",
+      "kanji": "真っ白[な]",
+      "vn": "trắng toát, trắng ngần"
+    },
+    {
+      "jp": "なかみ",
+      "kanji": "中身",
+      "vn": "nội dung, cái ở bên trong"
+    }
+  ],
+  "42": [
+    {
+      "jp": "つつみます",
+      "kanji": "包みます",
+      "vn": "bọc, gói"
+    },
+    {
+      "jp": "わかします",
+      "kanji": "沸かします",
+      "vn": "đun sôi"
+    },
+    {
+      "jp": "まぜます",
+      "kanji": "混ぜます",
+      "vn": "trộn, khuấy"
+    },
+    {
+      "jp": "けいさんします",
+      "kanji": "計算します",
+      "vn": "tính toán, làm tính"
+    },
+    {
+      "jp": "あつい",
+      "kanji": "厚い",
+      "vn": "dày"
+    },
+    {
+      "jp": "うすい",
+      "kanji": "薄い",
+      "vn": "mỏng"
+    },
+    {
+      "jp": "べんごし",
+      "kanji": "弁護士",
+      "vn": "luật sư"
+    },
+    {
+      "jp": "おんがくか",
+      "kanji": "音楽家",
+      "vn": "nhạc sĩ"
+    },
+    {
+      "jp": "こどもたち",
+      "kanji": "子どもたち",
+      "vn": "trẻ em, trẻ con, bọn trẻ"
+    },
+    {
+      "jp": "ふたり",
+      "kanji": "二人",
+      "vn": "hai người, cặp, đôi"
+    },
+    {
+      "jp": "きょういく",
+      "kanji": "教育",
+      "vn": "giáo dục, việc học hành"
+    },
+    {
+      "jp": "れきし",
+      "kanji": "歴史",
+      "vn": "lịch sử"
+    },
+    {
+      "jp": "ぶんか",
+      "kanji": "文化",
+      "vn": "văn hóa"
+    },
+    {
+      "jp": "しゃかい",
+      "kanji": "社会",
+      "vn": "xã hội"
+    },
+    {
+      "jp": "ほうりつ",
+      "kanji": "法律",
+      "vn": "pháp luật"
+    },
+    {
+      "jp": "せんそう",
+      "kanji": "戦争",
+      "vn": "chiến tranh"
+    },
+    {
+      "jp": "へいわ",
+      "kanji": "平和",
+      "vn": "hòa bình"
+    },
+    {
+      "jp": "もくてき",
+      "kanji": "目的",
+      "vn": "mục đích"
+    },
+    {
+      "jp": "あんぜん",
+      "kanji": "安全",
+      "vn": "an toàn"
+    },
+    {
+      "jp": "ろんぶん",
+      "kanji": "論文",
+      "vn": "luận văn, bài báo học thuật"
+    },
+    {
+      "jp": "かんけい",
+      "kanji": "関係",
+      "vn": "quan hệ"
+    },
+    {
+      "jp": "ミキサー",
+      "vn": "máy trộn (mixer)"
+    },
+    {
+      "jp": "やかん",
+      "vn": "cái ấm nước"
+    },
+    {
+      "jp": "せんぬき",
+      "kanji": "栓抜き",
+      "vn": "cái mở nắp chai"
+    },
+    {
+      "jp": "かんきり",
+      "kanji": "缶切り",
+      "vn": "cái mở đồ hộp"
+    },
+    {
+      "jp": "かんづめ",
+      "kanji": "缶詰",
+      "vn": "đồ hộp"
+    },
+    {
+      "jp": "ふろしき",
+      "vn": "tấm vải để gói đồ"
+    },
+    {
+      "jp": "そろばん",
+      "vn": "bàn tính"
+    },
+    {
+      "jp": "たいおんけい",
+      "kanji": "体温計",
+      "vn": "máy đo nhiệt độ cơ thể"
+    },
+    {
+      "jp": "ざいりょう",
+      "kanji": "材料",
+      "vn": "nguyên liệu"
+    },
+    {
+      "jp": "いし",
+      "kanji": "石",
+      "vn": "hòn đá, đá"
+    },
+    {
+      "jp": "ピラミッド",
+      "vn": "kim tự tháp"
+    },
+    {
+      "jp": "データ",
+      "vn": "số liệu, dữ liệu"
+    },
+    {
+      "jp": "ファイル",
+      "vn": "cái kẹp tài liệu (file)"
+    },
+    {
+      "jp": "ある～",
+      "vn": "có ~, một ~"
+    },
+    {
+      "jp": "いっしょうけんめい",
+      "kanji": "一生懸命",
+      "vn": "hết sức, chăm chỉ"
+    },
+    {
+      "jp": "なぜ",
+      "vn": "tại sao"
+    },
+    {
+      "jp": "こくれん",
+      "kanji": "国連",
+      "vn": "Liên hợp Quốc"
+    },
+    {
+      "jp": "エリーゼのために",
+      "vn": "Fur” Elize, tên một bản nhạc của Beethoven"
+    },
+    {
+      "jp": "ベートーベン",
+      "vn": "Beethoven (1770-1827), nhà soạn nhạc người Đức"
+    },
+    {
+      "jp": "ポーランド",
+      "vn": "Ba Lan"
+    },
+    {
+      "jp": "ローン",
+      "vn": "khoản vay trả góp, tiền vay góp"
+    },
+    {
+      "jp": "セット",
+      "vn": "bộ"
+    },
+    {
+      "jp": "あと",
+      "vn": "còn lại"
+    },
+    {
+      "jp": "カップラーメン",
+      "vn": "mì ăn liền đựng trong cốc"
+    },
+    {
+      "jp": "インスタントラーメン",
+      "vn": "mì ăn liền"
+    },
+    {
+      "jp": "なべ",
+      "vn": "cái chảo, cái nồi"
+    },
+    {
+      "jp": "どんぶり",
+      "vn": "cái bát tô"
+    },
+    {
+      "jp": "しょくひん",
+      "kanji": "食品",
+      "vn": "thực phẩm, đồ ăn"
+    },
+    {
+      "jp": "ちょうさ",
+      "kanji": "調査",
+      "vn": "việc điều tra, cuộc điều tra"
+    },
+    {
+      "jp": "カップ",
+      "vn": "cốc (dùng để đựng đồ ăn)"
+    },
+    {
+      "jp": "また",
+      "vn": "và, thêm nữa"
+    },
+    {
+      "jp": "～のかわりに",
+      "kanji": "～の代わりに",
+      "vn": "thay ~, thay thế ~"
+    },
+    {
+      "jp": "どこででも",
+      "vn": "ở đâu cũng"
+    },
+    {
+      "jp": "いまでは",
+      "kanji": "今では",
+      "vn": "bây giờ (thì)"
+    }
+  ],
+  "43": [
+    {
+      "jp": "[ゆしゅつが～]ふえます",
+      "kanji": "[輸出が～]増えます",
+      "vn": "tăng, tăng lên [xuất khẩu ~]"
+    },
+    {
+      "jp": "[ゆしゅつが～] へります",
+      "kanji": "[輸出が～] 減ります",
+      "vn": "giảm, giảm xuống [xuất khẩu ~]"
+    },
+    {
+      "jp": "[ねだんが～]あがります",
+      "kanji": "[値段が～]上がります",
+      "vn": "tăng, tăng lên [giá ~]"
+    },
+    {
+      "jp": "[ねだんが～]さがります",
+      "kanji": "[値段が～]下がります",
+      "vn": "giảm, giảm xuống [giá ~]"
+    },
+    {
+      "jp": "[ひもが～]きれます",
+      "kanji": "[ひもが～]切れます",
+      "vn": "đứt [sợi dây bị ~]"
+    },
+    {
+      "jp": "[ボタンが～]とれます",
+      "vn": "tuột [cái cúc bị ~]"
+    },
+    {
+      "jp": "[にもつが～] おちます",
+      "kanji": "[荷物が～]落ちます",
+      "vn": "rơi [hành lý bị ~]"
+    },
+    {
+      "jp": "[ガソリンが～]なくなります",
+      "vn": "mất, hết [xăng bị ~]"
+    },
+    {
+      "jp": "じょうぶ[な]",
+      "kanji": "丈夫[な]",
+      "vn": "chắc, bền"
+    },
+    {
+      "jp": "へん[な]",
+      "kanji": "変[な]",
+      "vn": "lạ, kỳ quặc"
+    },
+    {
+      "jp": "しあわせ[な]",
+      "kanji": "幸せ[な]",
+      "vn": "hạnh phúc"
+    },
+    {
+      "jp": "うまい",
+      "vn": "ngon"
+    },
+    {
+      "jp": "まずい",
+      "vn": "dở"
+    },
+    {
+      "jp": "つまらない",
+      "vn": "buồn tẻ, không hấp dẫn, không thú vị"
+    },
+    {
+      "jp": "ガソリン",
+      "vn": "xăng"
+    },
+    {
+      "jp": "ひ",
+      "kanji": "火",
+      "vn": "lửa"
+    },
+    {
+      "jp": "だんぼう",
+      "kanji": "暖房",
+      "vn": "thiết bị làm ấm, lò sưởi, máy điều hòa"
+    },
+    {
+      "jp": "れいぼう",
+      "kanji": "冷房",
+      "vn": "thiết bị làm mát, máy điều hòa"
+    },
+    {
+      "jp": "センス",
+      "vn": "có khiếu, có gu ([ふくの]～があります：có gu [ăn mặt])"
+    },
+    {
+      "jp": "いまにも",
+      "kanji": "今にも",
+      "vn": "(có vẻ, sắp) ~ đến nơi"
+    },
+    {
+      "jp": "わあ",
+      "vn": "ôi! (câu nói dùng khi ngạc nhiên hoặc cảm thán điều gì)"
+    },
+    {
+      "jp": "かいいん",
+      "kanji": "会員",
+      "vn": "thành viên"
+    },
+    {
+      "jp": "てきとう「な」",
+      "kanji": "適当[な]",
+      "vn": "thích hợp, vừa phải"
+    },
+    {
+      "jp": "ねんれい",
+      "kanji": "年齢",
+      "vn": "tuổi"
+    },
+    {
+      "jp": "しゅうにゅう",
+      "kanji": "収入",
+      "vn": "thu nhập"
+    },
+    {
+      "jp": "ぴったり",
+      "vn": "vừa vặn, đúng"
+    },
+    {
+      "jp": "そのうえ",
+      "vn": "thêm vào đó, hơn thế"
+    },
+    {
+      "jp": "～といいます",
+      "vn": "(tên) là ~, gọi là ~"
+    },
+    {
+      "jp": "ばら",
+      "vn": "Hoa Hồng"
+    },
+    {
+      "jp": "ドライブ",
+      "vn": "lái xe (đi chơi)"
+    }
+  ],
+  "44": [
+    {
+      "jp": "なきます",
+      "kanji": "泣きます",
+      "vn": "khóc"
+    },
+    {
+      "jp": "わらいます",
+      "kanji": "笑います",
+      "vn": "cười"
+    },
+    {
+      "jp": "かわきます",
+      "kanji": "乾きます",
+      "vn": "khô"
+    },
+    {
+      "jp": "ぬれます",
+      "vn": "ướt"
+    },
+    {
+      "jp": "すべります",
+      "kanji": "滑ります",
+      "vn": "trượt"
+    },
+    {
+      "jp": "[じこが～]おきます",
+      "kanji": "[事故が～]起きます",
+      "vn": "xảy ra [tai nạn ~]"
+    },
+    {
+      "jp": "ちょうせつします",
+      "kanji": "調節します",
+      "vn": "điều tiết, điều chỉnh"
+    },
+    {
+      "jp": "あんぜん[な]",
+      "kanji": "安全[な]",
+      "vn": "an toàn"
+    },
+    {
+      "jp": "ていねい[な]",
+      "kanji": "丁寧[な]",
+      "vn": "lịch sự, cẩn thận"
+    },
+    {
+      "jp": "こまかい",
+      "kanji": "細かい",
+      "vn": "chi tiết, tỉ mỉ, nhỏ"
+    },
+    {
+      "jp": "こい",
+      "kanji": "濃い",
+      "vn": "nồng, đậm"
+    },
+    {
+      "jp": "うすい",
+      "kanji": "薄い",
+      "vn": "nhạt"
+    },
+    {
+      "jp": "くうき",
+      "kanji": "空気",
+      "vn": "không khí"
+    },
+    {
+      "jp": "なみだ",
+      "kanji": "涙",
+      "vn": "nước mắt"
+    },
+    {
+      "jp": "わしょく",
+      "kanji": "和食",
+      "vn": "món ăn Nhật"
+    },
+    {
+      "jp": "ようしょく",
+      "kanji": "洋食",
+      "vn": "món ăn Âu Mỹ"
+    },
+    {
+      "jp": "おかず",
+      "vn": "thức ăn"
+    },
+    {
+      "jp": "りょう",
+      "kanji": "量",
+      "vn": "lượng"
+    },
+    {
+      "jp": "―ばい",
+      "kanji": "―倍",
+      "vn": "- lần"
+    },
+    {
+      "jp": "はんぶん",
+      "kanji": "半分",
+      "vn": "một nửa"
+    },
+    {
+      "jp": "シングル",
+      "vn": "phòng đơn (1 giường)"
+    },
+    {
+      "jp": "ツイン",
+      "vn": "phòng đôi (2 giường)"
+    },
+    {
+      "jp": "たんす",
+      "vn": "tủ đựng quần áo"
+    },
+    {
+      "jp": "せんたくもの",
+      "kanji": "洗濯物",
+      "vn": "quần áo giặt"
+    },
+    {
+      "jp": "りゆう",
+      "kanji": "理由",
+      "vn": "lý do"
+    },
+    {
+      "jp": "どうなさいますか。",
+      "vn": "Anh/chị định như thế nào?"
+    },
+    {
+      "jp": "カット",
+      "vn": "cắt tóc"
+    },
+    {
+      "jp": "シャンプー",
+      "vn": "gội đầu"
+    },
+    {
+      "jp": "どういうふうになさいますか。",
+      "vn": "Anh/chị định ~ như thế nào?"
+    },
+    {
+      "jp": "ショート",
+      "vn": "kiểu ngắn"
+    },
+    {
+      "jp": "～みたいに して ください。",
+      "vn": "Hãy cắt như ~."
+    },
+    {
+      "jp": "これでよろしいでしょうか。",
+      "vn": "Thế này đã được chưa ạ?"
+    },
+    {
+      "jp": "「どうも」おつかれさまでした。",
+      "kanji": "[どうも]お疲れ様でした。",
+      "vn": "Cám ơn anh/chị."
+    },
+    {
+      "jp": "いやがります",
+      "kanji": "嫌がります",
+      "vn": "không thích, tỏ thái độ không thích"
+    },
+    {
+      "jp": "また",
+      "vn": "thêm nữa"
+    },
+    {
+      "jp": "じゅんじょ",
+      "kanji": "順序",
+      "vn": "thứ tự"
+    },
+    {
+      "jp": "ひょうげん",
+      "kanji": "表現",
+      "vn": "cách nói, cách diễn đạt"
+    },
+    {
+      "jp": "たとえば",
+      "kanji": "例えば",
+      "vn": "ví dụ"
+    },
+    {
+      "jp": "わかれます",
+      "kanji": "別れます",
+      "vn": "chia tay, từ biệt"
+    },
+    {
+      "jp": "これら",
+      "vn": "những cái này"
+    },
+    {
+      "jp": "えんぎが わるい",
+      "kanji": "縁起が悪い",
+      "vn": "không may, không lành"
+    }
+  ],
+  "45": [
+    {
+      "jp": "あやまります",
+      "kanji": "謝ります",
+      "vn": "xin lỗi, tạ lỗi"
+    },
+    {
+      "jp": "[じこに～] あいます",
+      "kanji": "[事故に～]遭います",
+      "vn": "gặp [tai nạn]"
+    },
+    {
+      "jp": "しんじます",
+      "kanji": "信じます",
+      "vn": "tin, tin tưởng"
+    },
+    {
+      "jp": "よういします",
+      "kanji": "用意します",
+      "vn": "chuẩn bị"
+    },
+    {
+      "jp": "キャンセルします",
+      "vn": "hủy bỏ, hủy"
+    },
+    {
+      "jp": "うまくいきます",
+      "vn": "tốt, thuận lợi"
+    },
+    {
+      "jp": "ほしょうしょ",
+      "kanji": "保証書",
+      "vn": "giấy bảo hành"
+    },
+    {
+      "jp": "りょうしゅうしょ",
+      "kanji": "領収書",
+      "vn": "hóa đơn"
+    },
+    {
+      "jp": "おくりもの",
+      "kanji": "贈り物",
+      "vn": "quà tặng (～をします)"
+    },
+    {
+      "jp": "まちがいでんわ",
+      "kanji": "まちがい電話",
+      "vn": "điện thoại nhầm"
+    },
+    {
+      "jp": "キャンプ",
+      "vn": "trại"
+    },
+    {
+      "jp": "かかり",
+      "vn": "nhân viên, người phụ trách"
+    },
+    {
+      "jp": "ちゅうし",
+      "kanji": "中止",
+      "vn": "dừng, đình chỉ"
+    },
+    {
+      "jp": "てん",
+      "kanji": "点",
+      "vn": "điểm"
+    },
+    {
+      "jp": "レバー",
+      "vn": "tay bẻ, tay số, cần gạt"
+    },
+    {
+      "jp": "[－えん]さつ",
+      "kanji": "[－円]札",
+      "vn": "tờ tiền giấy [-yên]"
+    },
+    {
+      "jp": "ちゃんと",
+      "vn": "đúng, hẳn hoi"
+    },
+    {
+      "jp": "きゅうに",
+      "kanji": "急に",
+      "vn": "gấp"
+    },
+    {
+      "jp": "たのしみにしています",
+      "kanji": "楽しみにしています",
+      "vn": "mong đợi, lấy làm vui"
+    },
+    {
+      "jp": "いじょうです。",
+      "kanji": "以上です。",
+      "vn": "Xin hết."
+    },
+    {
+      "jp": "かかりいん",
+      "kanji": "係員",
+      "vn": "nhân viên"
+    },
+    {
+      "jp": "コース",
+      "vn": "đường chạy (ma ra tông)"
+    },
+    {
+      "jp": "スタート",
+      "vn": "xuất phát"
+    },
+    {
+      "jp": "―い",
+      "kanji": "－位",
+      "vn": "thứ ―, vị trí thứ －, giải ―"
+    },
+    {
+      "jp": "ゆうしょうします",
+      "kanji": "優勝します",
+      "vn": "vô địch, đoạt giải nhất"
+    },
+    {
+      "jp": "なやみ",
+      "kanji": "悩み",
+      "vn": "(điều/sự) lo nghĩ, trăn trở, phiền muộn"
+    },
+    {
+      "jp": "めざまし「どけい」",
+      "kanji": "目覚まし[時計]",
+      "vn": "đồng hồ báo thức"
+    },
+    {
+      "jp": "ねむります",
+      "kanji": "眠ります",
+      "vn": "ngủ"
+    },
+    {
+      "jp": "めがさめます",
+      "kanji": "目が覚めます",
+      "vn": "tỉnh giấc"
+    },
+    {
+      "jp": "だいがくせい",
+      "kanji": "大学生",
+      "vn": "sinh viên đại học"
+    },
+    {
+      "jp": "かいとう",
+      "kanji": "回答",
+      "vn": "câu trả lời, lời giải"
+    },
+    {
+      "jp": "なります",
+      "kanji": "鳴ります",
+      "vn": "reo, kêu"
+    },
+    {
+      "jp": "セットします",
+      "vn": "cài, đặt"
+    },
+    {
+      "jp": "それでも",
+      "vn": "tuy thế, mặc dù thế"
+    }
+  ],
+  "46": [
+    {
+      "jp": "やきます",
+      "kanji": "焼きます",
+      "vn": "nướng, rán"
+    },
+    {
+      "jp": "わたします",
+      "kanji": "渡します",
+      "vn": "đưa cho, giao cho"
+    },
+    {
+      "jp": "かえってきます",
+      "kanji": "帰って来ます",
+      "vn": "về, trở lại"
+    },
+    {
+      "jp": "[バスが～]でます",
+      "kanji": "[バスが～]出ます",
+      "vn": "xuất phát, chạy [xe buýt ~]"
+    },
+    {
+      "jp": "るす",
+      "kanji": "留守",
+      "vn": "đi vắng"
+    },
+    {
+      "jp": "たくはいびん",
+      "kanji": "宅配便",
+      "vn": "dịch vụ chuyển đồ đến nhà"
+    },
+    {
+      "jp": "げんいん",
+      "kanji": "原因",
+      "vn": "nguyên nhân"
+    },
+    {
+      "jp": "ちゅうしゃ",
+      "kanji": "注射",
+      "vn": "tiêm"
+    },
+    {
+      "jp": "しょくよく",
+      "kanji": "食欲",
+      "vn": "cảm giác muốn ăn, cảm giác ngon miệng"
+    },
+    {
+      "jp": "パンフレット",
+      "vn": "tờ rơi, tờ quảng cáo"
+    },
+    {
+      "jp": "ステレオ",
+      "vn": "stereo"
+    },
+    {
+      "jp": "こちら",
+      "vn": "đây, đằng này"
+    },
+    {
+      "jp": "～のところ",
+      "kanji": "～の所",
+      "vn": "SỞ"
+    },
+    {
+      "jp": "ちょうど",
+      "vn": "vừa đúng"
+    },
+    {
+      "jp": "たったいま",
+      "kanji": "たった今",
+      "vn": "vừa mới rồi"
+    },
+    {
+      "jp": "いまいいでしょうか。",
+      "kanji": "今いいでしょうか。",
+      "vn": "Bây giờ tôi làm phiền anh có được không ạ?"
+    },
+    {
+      "jp": "ガスサービスセンター",
+      "vn": "trung tâm dịch vụ ga"
+    },
+    {
+      "jp": "ガスレンジ",
+      "vn": "bếp ga"
+    },
+    {
+      "jp": "ぐあい",
+      "kanji": "具合",
+      "vn": "trạng thái, tình hình"
+    },
+    {
+      "jp": "どちらさまでしょうか",
+      "kanji": "どちら様でしょうか。",
+      "vn": "Ai đấy ạ?"
+    },
+    {
+      "jp": "むかいます",
+      "kanji": "向かいます",
+      "vn": "hướng đến, trên đường đến"
+    },
+    {
+      "jp": "おまたせしました",
+      "kanji": "お待たせしました",
+      "vn": "Xin lỗi vì để anh/ Chị phải đợi"
+    },
+    {
+      "jp": "ちしき",
+      "kanji": "知識",
+      "vn": "tri thức, kiến thức"
+    },
+    {
+      "jp": "ほうこ",
+      "kanji": "宝庫",
+      "vn": "kho báu"
+    },
+    {
+      "jp": "てに はいります「じょうほう」",
+      "kanji": "手に入ります[情報が～]",
+      "vn": "lấy được, thu thập được [Thông tin]"
+    },
+    {
+      "jp": "システム",
+      "vn": "hệ thống"
+    },
+    {
+      "jp": "たとえば",
+      "kanji": "例えば",
+      "vn": "ví dụ, chẳng hạn"
+    },
+    {
+      "jp": "キーワード",
+      "vn": "từ khóa"
+    },
+    {
+      "jp": "いちぶぶん",
+      "kanji": "一部分",
+      "vn": "một bộ phận"
+    },
+    {
+      "jp": "にゅうりょくします",
+      "kanji": "入力します",
+      "vn": "nhập"
+    },
+    {
+      "jp": "びょう",
+      "kanji": "秒",
+      "vn": "giây"
+    },
+    {
+      "jp": "でます「ほんが～」",
+      "kanji": "でます[本が～]",
+      "vn": "được xuất bản [quyển sách ~]"
+    }
+  ],
+  "47": [
+    {
+      "jp": "[ひとが～] あつまります",
+      "kanji": "[人が～]集まります",
+      "vn": "tập trung, tập hợp [người ~]"
+    },
+    {
+      "jp": "[ひとが～]わかれます",
+      "kanji": "[人が～]別れます",
+      "vn": "chia, chia nhỏ, chia ra [người ~]"
+    },
+    {
+      "jp": "ながいきします",
+      "kanji": "長生きします",
+      "vn": "sống lâu"
+    },
+    {
+      "jp": "[おと／こえが～]します",
+      "kanji": "[音／声が～]します",
+      "vn": "nghe thấy, có [âm thanh/ tiếng]"
+    },
+    {
+      "jp": "[あじが～] します",
+      "kanji": "[味が～]します",
+      "vn": "có [vị]"
+    },
+    {
+      "jp": "[においが～] します",
+      "vn": "có [mùi]"
+    },
+    {
+      "jp": "[かさを～] さします",
+      "kanji": "[傘を～]さします",
+      "vn": "che [ô]"
+    },
+    {
+      "jp": "ひどい",
+      "vn": "tồi tệ, xấu"
+    },
+    {
+      "jp": "こわい",
+      "kanji": "怖い",
+      "vn": "sợ, khiếp"
+    },
+    {
+      "jp": "てんきよほう",
+      "kanji": "天気予報",
+      "vn": "dự báo thời tiết"
+    },
+    {
+      "jp": "はっぴょう",
+      "kanji": "発表",
+      "vn": "phát biểu, báo cáo"
+    },
+    {
+      "jp": "じっけん",
+      "kanji": "実験",
+      "vn": "thực nghiệm, thí nghiệm"
+    },
+    {
+      "jp": "じんこう",
+      "kanji": "人口",
+      "vn": "dân số"
+    },
+    {
+      "jp": "におい",
+      "vn": "mùi"
+    },
+    {
+      "jp": "かがく",
+      "kanji": "科学",
+      "vn": "khoa học"
+    },
+    {
+      "jp": "いがく",
+      "kanji": "医学",
+      "vn": "y học"
+    },
+    {
+      "jp": "ぶんがく",
+      "kanji": "文学",
+      "vn": "văn học"
+    },
+    {
+      "jp": "パトカー",
+      "vn": "xe ô-tô cảnh sát"
+    },
+    {
+      "jp": "きゅうきゅうしゃ",
+      "kanji": "救急車",
+      "vn": "xe cấp cứu"
+    },
+    {
+      "jp": "さんせい",
+      "kanji": "賛成",
+      "vn": "tán thành, đồng ý"
+    },
+    {
+      "jp": "はんたい",
+      "kanji": "反対",
+      "vn": "phản đối"
+    },
+    {
+      "jp": "だんせい",
+      "kanji": "男性",
+      "vn": "nam giới, Nam"
+    },
+    {
+      "jp": "じょせい",
+      "kanji": "女性",
+      "vn": "nữ giới, nữ"
+    },
+    {
+      "jp": "どうも",
+      "vn": "có vẽ như là, có lẽ là"
+    },
+    {
+      "jp": "～によると",
+      "vn": "theo ~ thì, căn cứ vào ~ thì"
+    },
+    {
+      "jp": "バリ[とう]",
+      "kanji": "バリ[島]",
+      "vn": "[đảo] Bali (ở Indonesia)"
+    },
+    {
+      "jp": "イラン",
+      "vn": "Iran"
+    },
+    {
+      "jp": "カリフォルニア",
+      "vn": "California (ở Mỹ)"
+    },
+    {
+      "jp": "グアム",
+      "vn": "Guam"
+    },
+    {
+      "jp": "こいびと",
+      "kanji": "恋人",
+      "vn": "người yêu"
+    },
+    {
+      "jp": "こんやくします",
+      "kanji": "婚約します",
+      "vn": "đính hôn"
+    },
+    {
+      "jp": "あいて",
+      "kanji": "相手",
+      "vn": "đối tác, đối phương, người kia, “nửa còn lại”"
+    },
+    {
+      "jp": "しりあいます",
+      "kanji": "知り合います",
+      "vn": "gặp, gặp gỡ làm quen"
+    },
+    {
+      "jp": "へいきんじゅみょう",
+      "kanji": "平均寿命",
+      "vn": "tuổi thọ trung bình"
+    },
+    {
+      "jp": "[だんせいと～]くらべます",
+      "kanji": "[男性と～]比べます",
+      "vn": "so sánh [với nam giới]"
+    },
+    {
+      "jp": "はかせ",
+      "kanji": "博士",
+      "vn": "tiến sĩ"
+    },
+    {
+      "jp": "のう",
+      "kanji": "脳",
+      "vn": "não"
+    },
+    {
+      "jp": "ホルモン",
+      "vn": "hoóc-môn"
+    },
+    {
+      "jp": "けしょうひん",
+      "kanji": "化粧品",
+      "vn": "mỹ phẩm"
+    },
+    {
+      "jp": "しらべ",
+      "kanji": "調べ",
+      "vn": "điều tra, tìm hiểu"
+    },
+    {
+      "jp": "けしょう",
+      "kanji": "化粧",
+      "vn": "sự trang điểm (～をします：trang điểm)"
+    }
+  ],
+  "48": [
+    {
+      "jp": "おろします",
+      "kanji": "降ろします,下ろします",
+      "vn": "cho xuống, hạ xuống"
+    },
+    {
+      "jp": "とどけます",
+      "kanji": "届けます",
+      "vn": "gởi đến, chuyển đến"
+    },
+    {
+      "jp": "せわをします",
+      "kanji": "世話をします",
+      "vn": "chăm sóc"
+    },
+    {
+      "jp": "いや[な]",
+      "kanji": "嫌[な]",
+      "vn": "ngán, không thích"
+    },
+    {
+      "jp": "きびしい",
+      "kanji": "厳しい",
+      "vn": "nghiêm, nghiêm khắc, nghiêm ngặt"
+    },
+    {
+      "jp": "じゅく",
+      "kanji": "塾",
+      "vn": "cơ sở học thêm"
+    },
+    {
+      "jp": "スケジュール",
+      "vn": "thời khóa biểu, lịch làm việc"
+    },
+    {
+      "jp": "せいと",
+      "kanji": "生徒",
+      "vn": "học sinh, học trò"
+    },
+    {
+      "jp": "もの",
+      "kanji": "者",
+      "vn": "người (là người thân hoặc cấp dưới)"
+    },
+    {
+      "jp": "にゅうかん",
+      "kanji": "入管",
+      "vn": "Cục quản lý nhập cảnh"
+    },
+    {
+      "jp": "さいにゅうこくビザ",
+      "kanji": "再入国ビザ",
+      "vn": "Thị thực tái nhập cảnh"
+    },
+    {
+      "jp": "じゆうに",
+      "kanji": "自由に",
+      "vn": "tự do"
+    },
+    {
+      "jp": "～かん",
+      "kanji": "～間",
+      "vn": "trong ~ (dùng để chỉ khoảng thời gian)"
+    },
+    {
+      "jp": "いいことですね。",
+      "vn": "Hay nhỉ./ Được đấy nhỉ."
+    },
+    {
+      "jp": "おいそがしいですか",
+      "kanji": "お忙しいですか。",
+      "vn": "Anh/chị có bận không? (được dùng khi nói với người trên)"
+    },
+    {
+      "jp": "ひさしぶり",
+      "kanji": "久しぶり",
+      "vn": "lâu"
+    },
+    {
+      "jp": "えいぎょう",
+      "kanji": "営業",
+      "vn": "kinh doanh, bán hàng"
+    },
+    {
+      "jp": "それまでに",
+      "vn": "trước thời điểm đó"
+    },
+    {
+      "jp": "かまいません",
+      "vn": "Không sao./ Không có vấn đề gì."
+    },
+    {
+      "jp": "たのしみます",
+      "kanji": "楽しみます",
+      "vn": "vui, vui thích"
+    },
+    {
+      "jp": "もともと",
+      "vn": "vốn dĩ"
+    },
+    {
+      "jp": "―せいき",
+      "kanji": "―世紀",
+      "vn": "thế kỷ -"
+    },
+    {
+      "jp": "かわりをします",
+      "kanji": "代わりをします",
+      "vn": "thay thế"
+    },
+    {
+      "jp": "スピード",
+      "vn": "tốc độ"
+    },
+    {
+      "jp": "きょうそうします",
+      "kanji": "競走します",
+      "vn": "chạy đua, thi chạy"
+    },
+    {
+      "jp": "サーカス",
+      "vn": "xiếc"
+    },
+    {
+      "jp": "げい",
+      "kanji": "芸",
+      "vn": "trò diễn, tiết mục, tài năng"
+    },
+    {
+      "jp": "うつくしい",
+      "kanji": "美しい",
+      "vn": "đẹp"
+    },
+    {
+      "jp": "すがた",
+      "kanji": "姿",
+      "vn": "dáng điệu, tư thế"
+    },
+    {
+      "jp": "こころ",
+      "kanji": "心",
+      "vn": "trái tim, tấm lòng, cảm tình"
+    },
+    {
+      "jp": "とらえます",
+      "vn": "giành được"
+    },
+    {
+      "jp": "～にとって",
+      "vn": "đối với ~"
+    }
+  ],
+  "49": [
+    {
+      "jp": "[かいしゃに～]つとめます",
+      "kanji": "[会社に～]勤めます",
+      "vn": "làm việc ở [công ty]"
+    },
+    {
+      "jp": "やすみます",
+      "kanji": "休みます",
+      "vn": "nghỉ"
+    },
+    {
+      "jp": "[いすに～]かけます",
+      "kanji": "[いすに～]掛けます",
+      "vn": "ngồi [ghế]"
+    },
+    {
+      "jp": "すごします",
+      "kanji": "過ごします",
+      "vn": "tiêu thời gian, trải qua"
+    },
+    {
+      "jp": "[ぎんこうに～]よります",
+      "kanji": "[銀行に～]寄ります",
+      "vn": "ghé qua [ngân hàng]"
+    },
+    {
+      "jp": "いらっしゃいます",
+      "vn": "ở, có, đi, đến （tôn kính ngữ của います、いきます và きます）"
+    },
+    {
+      "jp": "めしあがります",
+      "kanji": "召し上がります",
+      "vn": "ăn, uống (tôn kính ngữ của たべます và のみます)"
+    },
+    {
+      "jp": "おっしゃいます",
+      "vn": "nói (tôn kính ngữ của いいます)"
+    },
+    {
+      "jp": "なさいます",
+      "vn": "làm (tôn kính ngữ của します)"
+    },
+    {
+      "jp": "ごらんになります",
+      "kanji": "ご覧になります",
+      "vn": "xem, nhìn (tôn kính ngữ của みます)"
+    },
+    {
+      "jp": "ごぞんじです",
+      "kanji": "ご存じです",
+      "vn": "biết (tôn kính ngữ của しっています)"
+    },
+    {
+      "jp": "あいさつ",
+      "vn": "chào hỏi (～をします：chào hỏi)"
+    },
+    {
+      "jp": "はいざら",
+      "kanji": "灰皿",
+      "vn": "cái gạt tàn"
+    },
+    {
+      "jp": "りょかん",
+      "kanji": "旅館",
+      "vn": "khách sạn kiểu Nhật"
+    },
+    {
+      "jp": "かいじょう",
+      "kanji": "会場",
+      "vn": "hội trường, địa điểm tổ chức"
+    },
+    {
+      "jp": "バスてい",
+      "kanji": "バス停",
+      "vn": "bến xe buýt, điểm lên xuống xe buýt"
+    },
+    {
+      "jp": "ぼうえき",
+      "kanji": "貿易",
+      "vn": "thương mại quốc tế, mậu dịch"
+    },
+    {
+      "jp": "～さま",
+      "kanji": "～様",
+      "vn": "ngài ~, ông ~, bà ~ (tôn kính ngữ của ～さん)"
+    },
+    {
+      "jp": "かえりに",
+      "kanji": "帰りに",
+      "vn": "trên đường về"
+    },
+    {
+      "jp": "たまに",
+      "vn": "thỉnh thoảng (tần suất nhỏ hơn ときどき)"
+    },
+    {
+      "jp": "ちっとも",
+      "vn": "chẳng ~ tí nào, không hề"
+    },
+    {
+      "jp": "えんりょなく",
+      "kanji": "遠慮なく",
+      "vn": "không giữ ý, không làm khách, đừng ngại ngùng"
+    },
+    {
+      "jp": "―ねん―くみ",
+      "kanji": "―年―組",
+      "vn": "lớp -, năm thứ -"
+    },
+    {
+      "jp": "では",
+      "vn": "thế thì, vậy thì (thể lịch sự củaじゃ)"
+    },
+    {
+      "jp": "「ねつ」 だします",
+      "kanji": "[熱を～]出します",
+      "vn": "bị [sốt]"
+    },
+    {
+      "jp": "よろしくおつたえください",
+      "kanji": "よろしくお伝えください。",
+      "vn": "Cho tôi gởi lời hỏi thăm./ hãy nhắn lại với ~."
+    },
+    {
+      "jp": "しつれいいたします",
+      "kanji": "失礼いたします。",
+      "vn": "Xin phép anh/chị (khiêm nhường ngữ của しつれいします)"
+    },
+    {
+      "jp": "ひまわりしょうがっこう",
+      "kanji": "ひまわり小学校",
+      "vn": "tên một trường tiểu học (giả tưởng)"
+    },
+    {
+      "jp": "こうし",
+      "kanji": "講師",
+      "vn": "giảng viên, giáo viên"
+    },
+    {
+      "jp": "おおくの～",
+      "kanji": "多くの～",
+      "vn": "nhiều ~"
+    },
+    {
+      "jp": "さくひん",
+      "kanji": "作品",
+      "vn": "tác phẩm"
+    },
+    {
+      "jp": "じゅしょうします",
+      "kanji": "受賞します",
+      "vn": "nhận giải thưởng, được giải thưởng"
+    },
+    {
+      "jp": "せかいてきに",
+      "kanji": "世界的に",
+      "vn": "tầm cỡ thế giới, mang tính thế giới"
+    },
+    {
+      "jp": "さっか",
+      "kanji": "作家",
+      "vn": "nhà văn"
+    },
+    {
+      "jp": "～でいらっしゃいます",
+      "vn": "là ~(tôn kính ngữ của です)"
+    },
+    {
+      "jp": "ちょうなん",
+      "kanji": "長男",
+      "vn": "trưởng nam"
+    },
+    {
+      "jp": "しょうがい",
+      "kanji": "障害",
+      "vn": "khuyết tật, tàn tật"
+    },
+    {
+      "jp": "おもちです",
+      "kanji": "お持ちです",
+      "vn": "có (cách nói tôn kính ngữ của もっています)"
+    },
+    {
+      "jp": "さっきょく",
+      "kanji": "作曲",
+      "vn": "sáng tác nhạc"
+    },
+    {
+      "jp": "かつどう",
+      "kanji": "活動",
+      "vn": "hoạt động"
+    },
+    {
+      "jp": "それでは",
+      "vn": "bây giờ thì, đến đây"
+    },
+    {
+      "jp": "おおえけんざぶろう",
+      "kanji": "大江健三郎",
+      "vn": "một nhà văn người Nhật (1935-)"
+    },
+    {
+      "jp": "とうきょうだいがく",
+      "kanji": "東京大学",
+      "vn": "đại học Tokyo"
+    },
+    {
+      "jp": "ノーベルぶんがくしょう",
+      "kanji": "ノーベル文学賞",
+      "vn": "giải thưởng Nobel văn học"
+    }
+  ],
+  "50": [
+    {
+      "jp": "まいります",
+      "kanji": "参ります",
+      "vn": "đi, đến (khiêm nhường ngữ của いきます và きます)"
+    },
+    {
+      "jp": "おります",
+      "vn": "ở, có (khiêm nhường ngữ của います)"
+    },
+    {
+      "jp": "いただきます",
+      "vn": "ăn, uống, nhận (khiêm nhường ngữ của たべます、のみます và もらいます)"
+    },
+    {
+      "jp": "もうします",
+      "kanji": "申します",
+      "vn": "nói (khiêm nhường ngữ của いいます)"
+    },
+    {
+      "jp": "いたします",
+      "vn": "làm (khiêm nhường ngữ của します)"
+    },
+    {
+      "jp": "はいけんします",
+      "kanji": "拝見します",
+      "vn": "xem, nhìn (khiêm nhường ngữ của みます)"
+    },
+    {
+      "jp": "ぞんじます",
+      "kanji": "存じます",
+      "vn": "biết (khiêm nhường ngữ của しります)"
+    },
+    {
+      "jp": "うかがいます",
+      "kanji": "伺います",
+      "vn": "hỏi, nghe, đến thăm(khiêm nhường ngữ của ききます và いきます)"
+    },
+    {
+      "jp": "おめにかかります",
+      "kanji": "お目にかかります",
+      "vn": "gặp (khiêm nhường ngữ của あいます)"
+    },
+    {
+      "jp": "ございます",
+      "vn": "có (thể lịch sự của あります)"
+    },
+    {
+      "jp": "～でございます",
+      "vn": "là (thể lịch sự của ～です)"
+    },
+    {
+      "jp": "わたくし",
+      "kanji": "私",
+      "vn": "tôi (khiêm nhường ngữ của わたし)"
+    },
+    {
+      "jp": "ガイド",
+      "vn": "người hướng dẫn, hướng dẫn viên"
+    },
+    {
+      "jp": "おたく",
+      "kanji": "お宅",
+      "vn": "nhà (dùng cho người khác)"
+    },
+    {
+      "jp": "こうがい",
+      "kanji": "郊外",
+      "vn": "ngoại ô"
+    },
+    {
+      "jp": "アルバム",
+      "vn": "an-bum (ca nhạc)"
+    },
+    {
+      "jp": "さらいしゅう",
+      "kanji": "再来週",
+      "vn": "tuần sau nữa"
+    },
+    {
+      "jp": "さらいげつ",
+      "kanji": "再来月",
+      "vn": "tháng sau nữa"
+    },
+    {
+      "jp": "さらいねん",
+      "kanji": "再来年",
+      "vn": "năm sau nữa"
+    },
+    {
+      "jp": "はんとし",
+      "kanji": "半年",
+      "vn": "nửa năm"
+    },
+    {
+      "jp": "さいしょに",
+      "kanji": "最初に",
+      "vn": "đầu tiên, trước hết"
+    },
+    {
+      "jp": "さいごに",
+      "kanji": "最後に",
+      "vn": "cuối cùng"
+    },
+    {
+      "jp": "ただいま",
+      "kanji": "ただ今",
+      "vn": "bây giờ (thể lịch sự củaいま)"
+    },
+    {
+      "jp": "えどとうきょうはくぶつかん",
+      "kanji": "江戸東京博物館",
+      "vn": "bảo tàng Edo-Tokyo"
+    },
+    {
+      "jp": "きんちょうします",
+      "kanji": "緊張します",
+      "vn": "căng thẳng, hồi hộp"
+    },
+    {
+      "jp": "ほうそうします",
+      "kanji": "放送します",
+      "vn": "phát thanh, truyền hình"
+    },
+    {
+      "jp": "[ビデオに～]とります",
+      "kanji": "[ビデオに～]撮ります",
+      "vn": "TOÁT"
+    },
+    {
+      "jp": "しょうきん",
+      "kanji": "賞金",
+      "vn": "tiền thưởng"
+    },
+    {
+      "jp": "しぜん",
+      "kanji": "自然",
+      "vn": "tự nhiên, thiên nhiên"
+    },
+    {
+      "jp": "きりん",
+      "vn": "con hươu cao cổ"
+    },
+    {
+      "jp": "ぞう",
+      "kanji": "像",
+      "vn": "TƯỢNG"
+    },
+    {
+      "jp": "ころ",
+      "vn": "hồi, thời"
+    },
+    {
+      "jp": "「ゆめが～」かないます",
+      "kanji": "[夢が～]かないます",
+      "vn": "thành hiện thực, được thực hiện [mơ ước ~]"
+    },
+    {
+      "jp": "ひとことよろしいでしょうか。",
+      "vn": "Tôi xin phép nói vài lời có được không ạ?"
+    },
+    {
+      "jp": "きょうりょくします",
+      "kanji": "協力します",
+      "vn": "hợp tác"
+    },
+    {
+      "jp": "こころから",
+      "kanji": "心から",
+      "vn": "từ trái tim, từ đáy lòng"
+    },
+    {
+      "jp": "かんしゃします",
+      "kanji": "感謝します",
+      "vn": "cám ơn, cảm tạ"
+    },
+    {
+      "jp": "「お」れい",
+      "kanji": "[お]礼",
+      "vn": "lời cám ơn, sự cám ơn"
+    },
+    {
+      "jp": "はいけい",
+      "kanji": "拝啓",
+      "vn": "kính gửi"
+    },
+    {
+      "jp": "うつくしい",
+      "kanji": "美しい",
+      "vn": "đẹp"
+    },
+    {
+      "jp": "おげんきでいらっしゃいますか",
+      "kanji": "お元気でいらっしゃいますか。",
+      "vn": "Anh/chị có khỏe không ạ? (tôn kính ngữ của おげんきですか)"
+    },
+    {
+      "jp": "めいわくを かけます",
+      "kanji": "迷惑をかけます",
+      "vn": "làm phiền"
+    },
+    {
+      "jp": "いかします",
+      "kanji": "生かします",
+      "vn": "tận dụng, phát huy, dùng"
+    },
+    {
+      "jp": "「お」しろ",
+      "kanji": "[お]城",
+      "vn": "lâu đài"
+    },
+    {
+      "jp": "けいぐ",
+      "kanji": "敬具",
+      "vn": "kính thư"
+    },
+    {
+      "jp": "ミュンヘン",
+      "vn": "Munich (ở Đức)"
+    }
+  ]
+}

@@ -471,4 +471,25 @@ function gradeQuiz(){
     loadFromLocal();        // 🔥 khôi phục
     refreshLessonOptions(); // vẽ lại danh sách bài
   });
+   // ====== Auto load JSON mặc định từ repo nếu DATA đang trống ======
+window.addEventListener('DOMContentLoaded', async ()=>{
+  loadFromLocal();        // nếu có dữ liệu trong localStorage thì khôi phục
+  refreshLessonOptions(); // cập nhật UI
+
+  // Nếu chưa có dữ liệu -> tải từ file JSON trong repo
+  if (Object.keys(DATA).length === 0) {
+    try {
+      const res = await fetch('minna50_vocab.json', { cache: 'no-store' });
+      if (res.ok) {
+        const obj = await res.json();
+        mergeData(obj);   // mergeData sẽ lưu vào DATA + localStorage
+        alert('Đã tự tải dữ liệu mẫu từ repo ✅');
+      }
+    } catch (e) {
+      console.warn('Lỗi khi tải JSON mặc định:', e);
+    }
+  }
+});
+
 </script>
+
